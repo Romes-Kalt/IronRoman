@@ -1,1 +1,1 @@
-Please find the LabWorks in that folder (starting from day2)
+All LabWork can be found in the LabWork folder, sub-divided by week and day.

@@ -101,7 +101,7 @@ select
 */
 
 -- Query 21: Continuing with the previous example, rank the top 10 account_ids based on their difference.
-
+-- INCOMPLETE !!!! ---
 with 
 	x as (select floor(sum(amount)) as inc from trans where type="PRIJEM"),
     y as (select floor(sum(amount)) as outg from trans where type="VYDAJ")

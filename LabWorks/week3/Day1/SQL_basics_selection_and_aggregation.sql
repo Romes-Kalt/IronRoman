@@ -19,17 +19,23 @@ select distinct(status) from loan
 	order by status asc;
     
 -- Query 5: What is the loan_id of the highest payment received in the loan table?
-select loan_id from loan order by payments desc limit 1;
-
+select loan_id from loan 
+	order by payments desc limit 1;
+	-- alternatively: where payemnts = (select max(payments) from loan;
+    
 -- Query 6: What is the loan amount of the lowest 5 account_ids in the loan table? Show the account_id and the corresponding amount
-select account_id, amount from loan order by account_id limit 5;
+select account_id, amount from loan 
+	order by account_id limit 5;
 
 -- Query 7: What are the account_ids with the lowest loan amount that have a loan duration of 60 in the loan table?
 select account_id from loan
-	where duration = 60 order by amount asc limit 5;
+	where duration = 60 
+    order by amount asc limit 5;
 
 -- Query 8: What are the unique values of k_symbol in the order table?
-select distinct(k_symbol) from `order` order by k_symbol;
+select distinct(k_symbol) from `order` 
+	where k_symbol <> ""       -- remove empty field
+    order by k_symbol;
 
 -- Query 9: In the order table, what are the order_ids of the client with the account_id 34? 
 select order_id from `order`
@@ -40,12 +46,13 @@ select distinct(account_id) from `order`
 	where order_id between 29540 and 29560;
 
 -- Query 11: In the order table, what are the individual amounts that were sent to (account_to) id 30067122?
-select amount from `order` 
+select amount from  `order` 
 	where account_to = 30067122;
     
 -- Query 12: In the trans table, show the trans_id, date, type and amount of the 10 first transactions from account_id 793 in chronological order, from newest to oldest.
 select trans_id, date, type, amount from trans 
-	where account_id = 793 order by date desc limit 10;
+	where account_id = 793 
+    order by date desc limit 10;
 
 -- Query 13: In the client table, of all districts with a district_id lower than 10, how many clients are from each district_id? Show the results sorted by the district_id in ascending order.
 select distinct(district_id), count(distinct(client_id)) from client
@@ -58,7 +65,8 @@ select type, count(type) from card
 
 -- Query 15: Using the loan table, print the top 10 account_ids based on the sum of all of their loan amounts.
 select account_id, sum(amount) from loan
-	group by account_id order by sum(amount) DESC limit 10;
+	group by account_id 
+    order by sum(amount) DESC limit 10;
 
 -- Query 16:n In the loan table, retrieve the number of loans issued for each day, before (excl) 930907, ordered by date in descending order.
 select date, count(loan_id) from loan
@@ -107,4 +115,4 @@ with
     y as (select floor(sum(amount)) as outg from trans where type="VYDAJ")
 select  
    inc-outg from x,y
-   order by inc-outg
+   order by loan.account_id;

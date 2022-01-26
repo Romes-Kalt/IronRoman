@@ -116,3 +116,5 @@ with
 select  
    inc-outg from x,y
    order by loan.account_id;
+   
+

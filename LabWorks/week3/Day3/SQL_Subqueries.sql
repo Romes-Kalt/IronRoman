@@ -2,8 +2,8 @@ USE sakila;
 
 -- 1. How many copies of the film Hunchback Impossible exist in the inventory system?
 -- plain answer, only subquery:
-select count(*) num_of_copies from inventory
-	where film_id = (select film_id from film where title="Hunchback Impossible"); 
+select count(*) as num_of_copies from inventory
+	where film_id in (select film_id from film where title="Hunchback Impossible"); 
     
 -- nicer: title and num, using inner join and subquery
 select title, count(*) num_of_copies from inventory as inv
@@ -48,6 +48,9 @@ select * from film as fi
 	inner join film_category as fi_ca using(film_id)
 		where category_id= (select category_id from category where name="family");
 
+-- check for data integrity
+select distinct(name) from category where lower(name) like ("%f%");
+
 -- subqueries only
 select title from film as fi
 	where film_id in (select film_id from film_category  
@@ -58,17 +61,14 @@ select title from film as fi
 select last_name, first_name, email from customer
 	where address_id in (select address_id from address
 		where city_id in (select city_id from city
-			where country_id = (select country_id from country where country = "Canada")
-            )
-		)
-	order by last_name;
+			where country_id = (select country_id from country where country = "Canada")));
+
 
 -- inner join method
-select cu.first_name, cu.last_name, cu.email from customer as cu
+select first_name, last_name, email from customer as cu
 	inner join address as ad using (address_id)
 		inner join city as ci using (city_id)
-			inner join country as co using (country_id)
-				where co.country = "Canada";
+			inner join country as co using (country_id) where co.country = "Canada";
 
 
 -- BONUS
@@ -95,6 +95,8 @@ create temporary table sakila.total_payment_customer
 select customer_id, sum(payment.amount) as total_payment from payment 
 									group by customer_id
 									order by sum(payment.amount);
+
+-- select * from total_payment_customer limit 5;
 
 create temporary table sakila.total_payment_customer2  -- to tap in a second time (subquery)
 select customer_id, sum(payment.amount) as total_payment from payment 

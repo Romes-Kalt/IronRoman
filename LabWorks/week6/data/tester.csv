@@ -1,0 +1,940 @@
+id;uri;artist;song;danceability;energy;key;loudness;mode;speechiness;acousticness;instrumentalness;liveness;valence;tempo;duration_ms;this_timesignature
+4ZOv9mx6Lz7RRaBFi5UNaE;spotify:track:4ZOv9mx6Lz7RRaBFi5UNaE;Nosaj Thing;Aquarium;0.635;0.655;0;-9.521;1;0.0484;0.15;0.553;0.129;0.271;91.026;184000;4
+6Oe5tmI1bfguCp6dKHbSj6;spotify:track:6Oe5tmI1bfguCp6dKHbSj6;Nosaj Thing;Paranoia;0.472;0.282;1;-12.309;1;0.306;0.317;0.000158;0.107;0.123;69.985;275281;4
+6D3YkHy51Mn7Ijdiz9WaIP;spotify:track:6D3YkHy51Mn7Ijdiz9WaIP;Nosaj Thing;Nightcrawler;0.683;0.329;4;-14.013;0;0.0333;0.136;0.88;0.107;0.238;108.022;225998;4
+1paOXtSfaeFcZfzt9msquZ;spotify:track:1paOXtSfaeFcZfzt9msquZ;Nosaj Thing;CLOUDS;0.81;0.425;6;-14.68;0;0.0686;0.638;0.802;0.104;0.542;104.953;196008;4
+1JA1CkP5hFEarsErazLeIe;spotify:track:1JA1CkP5hFEarsErazLeIe;Nosaj Thing;In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix];0.349;0.353;5;-9.386;1;0.0593;0.114;4.11e-06;0.0676;0.181;79.54;200504;4
+11dTnaie5BRo7EFXuVARSy;spotify:track:11dTnaie5BRo7EFXuVARSy;Nosaj Thing;CLOUDS;0.811;0.42;6;-14.69;0;0.0745;0.638;0.802;0.105;0.535;104.951;196008;4
+1c3llq4m0FYzMch1ZqQmiN;spotify:track:1c3llq4m0FYzMch1ZqQmiN;Nosaj Thing;Made;0.861;0.369;7;-10.811;1;0.0873;0.757;0.674;0.107;0.667;142.006;234357;4
+0WAOLXpWWl3oescKBLC37q;spotify:track:0WAOLXpWWl3oescKBLC37q;Nosaj Thing;Gemini;0.297;0.246;5;-12.82;1;0.0469;0.797;0.161;0.0999;0.0621;86.147;211139;1
+4PJhsp3DADV5peo5QlU1oV;spotify:track:4PJhsp3DADV5peo5QlU1oV;Nosaj Thing;Naked - Nosaj Thing Remix;0.8;0.784;1;-8.821;1;0.0591;0.0333;0.606;0.0418;0.284;124.991;200973;4
+3yrhTQ3lv4axr8VIjQkFX8;spotify:track:3yrhTQ3lv4axr8VIjQkFX8;Nosaj Thing;Nod;0.0925;0.278;1;-12.26;0;0.0303;0.752;0.728;0.196;0.0528;172.855;237071;3
+7x2vaFP5Lu9D0XAZBhJVfp;spotify:track:7x2vaFP5Lu9D0XAZBhJVfp;Nosaj Thing;Cold Stares;0.499;0.305;9;-12.496;0;0.115;0.474;0.0356;0.16;0.192;98.18;172987;4
+4D9jd1p839yUN9Vb6s6stj;spotify:track:4D9jd1p839yUN9Vb6s6stj;Nosaj Thing;Mountain;0.352;0.498;2;-11.217;1;0.048;0.856;0.955;0.145;0.0425;155.181;135270;4
+3mfyyduCDiJg0jkOth5Bbv;spotify:track:3mfyyduCDiJg0jkOth5Bbv;Nosaj Thing;World of the Forgotten (Nosaj Thing Remix);0.353;0.358;11;-16.701;0;0.0618;0.92;0.939;0.0878;0.17;154.697;175328;4
+1q1wxTHRtt7TR9GJhhZA8b;spotify:track:1q1wxTHRtt7TR9GJhhZA8b;Nosaj Thing;Next to Me;0.828;0.635;11;-10.848;0;0.207;0.742;0.236;0.0909;0.164;122.006;258251;4
+72Zjy98juHFWSq8CXtXfAB;spotify:track:72Zjy98juHFWSq8CXtXfAB;Nosaj Thing;Fog;0.835;0.274;5;-12.462;0;0.0609;0.0926;0.736;0.135;0.229;96.994;222173;4
+4JYYSprxbzky7j1Tg847jH;spotify:track:4JYYSprxbzky7j1Tg847jH;Nosaj Thing;Eclipse/Blue;0.324;0.446;7;-11.889;0;0.0408;0.72;0.959;0.139;0.0809;157.961;269093;4
+4ppZs1RCLHRBcwnwNQfjWa;spotify:track:4ppZs1RCLHRBcwnwNQfjWa;Nosaj Thing;Try;0.453;0.311;8;-12.456;1;0.0379;0.6;0.884;0.0739;0.343;67.433;242560;3
+6Q9CG7gjL0DyNRYF5j6nIm;spotify:track:6Q9CG7gjL0DyNRYF5j6nIm;Nosaj Thing;Mountain <expanded>;0.128;0.0922;7;-24.429;1;0.0395;0.95;0.924;0.176;0.0301;98.339;604444;4
+3joGqdbtiWS0wZ9u8H34YM;spotify:track:3joGqdbtiWS0wZ9u8H34YM;Nosaj Thing;All Points Back to U;0.526;0.501;7;-11.754;1;0.0394;0.172;0.365;0.117;0.124;130.095;254771;4
+0GPZVVuQ291PJKvKWpp9cF;spotify:track:0GPZVVuQ291PJKvKWpp9cF;Nosaj Thing;Gemini;0.297;0.246;5;-12.82;1;0.0469;0.797;0.161;0.0999;0.0621;86.147;211139;1
+03X5X8RVcRbxofZI7ol71f;spotify:track:03X5X8RVcRbxofZI7ol71f;Nosaj Thing;Get Like;0.758;0.334;1;-14.084;0;0.0728;0.569;0.904;0.111;0.0635;130.04;184976;4
+3wzQtR6VrMSR05bIsNV8WH;spotify:track:3wzQtR6VrMSR05bIsNV8WH;Nosaj Thing;For The Light;0.793;0.435;9;-13.134;1;0.0465;0.407;0.912;0.111;0.621;120.015;162153;4
+0Mlj1ytVDDChtHAfHH60t2;spotify:track:0Mlj1ytVDDChtHAfHH60t2;Nosaj Thing;Salty - Nosaj Thing Remix;0.818;0.635;8;-11.323;1;0.163;0.567;0.877;0.0956;0.499;131.976;233371;4
+4lhpy32iUw8XE6o7YLa34l;spotify:track:4lhpy32iUw8XE6o7YLa34l;Nosaj Thing;Don't Mind Me;0.681;0.398;6;-9.623;1;0.0619;0.669;0.629;0.0998;0.191;80.006;202720;4
+1ilsJPmqtfB2Fd7ueWxbW4;spotify:track:1ilsJPmqtfB2Fd7ueWxbW4;Nosaj Thing;Pharmacy Heist;0.489;0.417;6;-10.869;0;0.0472;0.21;0.784;0.264;0.181;178.026;198761;4
+3Oxi3Mz2TshOZIxFt30C7a;spotify:track:3Oxi3Mz2TshOZIxFt30C7a;Nosaj Thing;Open Eye Signal - Nosaj Thing remix;0.684;0.792;5;-8.735;0;0.0411;0.698;0.797;0.114;0.178;122.008;208665;4
+0OdBuALOdX77KWTaZnyqYI;spotify:track:0OdBuALOdX77KWTaZnyqYI;Nosaj Thing;Quest;0.629;0.45;1;-14.27;1;0.0462;0.107;0.784;0.0933;0.193;91.993;96453;4
+63a2cvHYkuBjducsObp1Ir;spotify:track:63a2cvHYkuBjducsObp1Ir;Nosaj Thing;Opal;0.403;0.408;4;-11.856;0;0.0505;0.824;0.545;0.132;0.346;134.897;120267;4
+3lDgnFLXGM9L9KTGbqd2xd;spotify:track:3lDgnFLXGM9L9KTGbqd2xd;Nosaj Thing;1685/Bach;0.805;0.592;10;-12.893;0;0.339;0.284;0.595;0.114;0.801;95.041;168333;4
+6IFxu0KyXQGvjvJ2bmaCZm;spotify:track:6IFxu0KyXQGvjvJ2bmaCZm;Nosaj Thing;Nowhere;0.303;0.124;4;-23.045;1;0.0383;0.959;0.943;0.0951;0.187;119.045;148538;4
+4MqalvDBsY4wfSokuOwUvU;spotify:track:4MqalvDBsY4wfSokuOwUvU;Nosaj Thing;Islands - Nosaj Thing Remix;0.68;0.668;1;-10.142;1;0.0441;0.343;0.0777;0.395;0.596;139.993;155013;4
+5F6WDQVqphH1gAp2SGDaAC;spotify:track:5F6WDQVqphH1gAp2SGDaAC;Nosaj Thing;U G (Les Sins Remix);0.701;0.707;9;-7.913;0;0.177;0.000733;0.293;0.126;0.393;119.985;276000;4
+5BbNtqKsd4qFSFgJ1tCNqr;spotify:track:5BbNtqKsd4qFSFgJ1tCNqr;Nosaj Thing;How We Do;0.719;0.446;0;-11.981;0;0.0575;0.43;0.485;0.083;0.0708;124.994;256080;4
+5q7KCCJoCfqQ1nX4kgXhWk;spotify:track:5q7KCCJoCfqQ1nX4kgXhWk;Nosaj Thing;Fog - Jamie XX Remix;0.509;0.424;10;-10.6;0;0.0924;0.282;0.493;0.119;0.224;138.076;280998;4
+1WNxHeunuTPZzXuGeCgRyV;spotify:track:1WNxHeunuTPZzXuGeCgRyV;Nosaj Thing;N R 5;0.618;0.455;3;-15.468;0;0.092;0.859;0.742;0.087;0.317;130.032;247286;4
+3jMNxudAiKkd8qeh1PVo4n;spotify:track:3jMNxudAiKkd8qeh1PVo4n;Nosaj Thing;No Mind <expanded>;0.158;0.115;2;-29.282;1;0.0423;0.836;0.878;0.12;0.0292;95.87;619506;5
+3LUDRlfXwW0UXRUvZqeAz3;spotify:track:3LUDRlfXwW0UXRUvZqeAz3;Nosaj Thing;Heart Entire;0.598;0.525;0;-9.961;0;0.0471;0.00202;0.0164;0.104;0.462;95.24;193955;4
+5iGFm02AAhThNe7PrWs2LX;spotify:track:5iGFm02AAhThNe7PrWs2LX;Nosaj Thing;All Points Back to U (feat. Steve Spacek);0.526;0.501;7;-11.754;1;0.0394;0.172;0.365;0.117;0.124;130.095;254771;4
+4M0Ny1FB6citDkYPV9lVAr;spotify:track:4M0Ny1FB6citDkYPV9lVAr;Nosaj Thing;Way We Were;0.551;0.239;7;-16.784;0;0.0386;0.444;0.823;0.129;0.0796;79.982;210596;4
+1E96s9S9ZJRe8hPDDZ25on;spotify:track:1E96s9S9ZJRe8hPDDZ25on;Nosaj Thing;Coat of Arms;0.694;0.554;4;-11.257;0;0.66;0.0917;0;0.33;0.464;94.108;208467;4
+1YAB4zamvLdvmtz7E2rRKJ;spotify:track:1YAB4zamvLdvmtz7E2rRKJ;Nosaj Thing;Sci;0.443;0.29;9;-15.257;0;0.0411;0.84;0.922;0.128;0.176;80.999;142200;4
+3Sh0Sbakas6fcoNAPfTFQO;spotify:track:3Sh0Sbakas6fcoNAPfTFQO;Nosaj Thing;IOIO;0.498;0.673;0;-11.52;0;0.0531;0.0113;0.795;0.0861;0.297;195.998;204520;4
+14eZDgwCFqqD0qXcxtNSwY;spotify:track:14eZDgwCFqqD0qXcxtNSwY;Nosaj Thing;Naked;0.868;0.811;1;-5.037;1;0.0358;0.0028;0.000232;0.114;0.791;120.05;218973;4
+7EuX1MPEvBelbYjRjvkNJ4;spotify:track:7EuX1MPEvBelbYjRjvkNJ4;Nosaj Thing;U G;0.723;0.661;2;-9.972;1;0.0656;0.476;0.929;0.108;0.0388;119.99;261453;4
+7KdqALrr2jXUpclMVTwjG4;spotify:track:7KdqALrr2jXUpclMVTwjG4;Nosaj Thing;The Ferry;0.463;0.191;6;-11.279;0;0.0406;0.916;0.883;0.0884;0.0385;142.517;70921;4
+1VyPw4andU1tkEKsNot6xM;spotify:track:1VyPw4andU1tkEKsNot6xM;Nosaj Thing;Opal <expanded>;0.103;0.207;5;-18.819;1;0.0494;0.804;0.892;0.166;0.0294;63.714;600803;4
+1LBkdwYnG61BEDvoe9wNa2;spotify:track:1LBkdwYnG61BEDvoe9wNa2;Nosaj Thing;Next to Me;0.828;0.635;11;-10.848;0;0.207;0.742;0.236;0.0909;0.164;122.006;258251;4
+1JuRd1e9MICfEqvKZ5o81T;spotify:track:1JuRd1e9MICfEqvKZ5o81T;Nosaj Thing;Realize;0.813;0.446;7;-9.118;0;0.0573;0.223;0.895;0.113;0.709;145.033;94373;4
+3jKzbjkjkAzzIVPiAS4QqI;spotify:track:3jKzbjkjkAzzIVPiAS4QqI;Nosaj Thing;I Know;0.596;0.506;0;-10.975;1;0.124;0.677;0.524;0.111;0.562;180.029;143846;4
+04JhQ6pBE1uBc2DddpSybd;spotify:track:04JhQ6pBE1uBc2DddpSybd;Nosaj Thing;Safe;0.724;0.333;3;-14.674;0;0.0414;0.344;0.859;0.0919;0.0895;135.003;228333;4
+14XWXWv5FoCbFzLksawpEe;spotify:track:14XWXWv5FoCbFzLksawpEe;The Doors;Riders on the Storm;0.55;0.722;11;-11.729;0;0.0283;0.25;0.0129;0.11;0.716;103.886;434720;4
+6ZOBP3NvffbU4SZcrnt1k6;spotify:track:6ZOBP3NvffbU4SZcrnt1k6;The Doors;Kryptonite;0.545;0.865;11;-5.708;0;0.0286;0.00664;1.1e-05;0.168;0.543;99.009;233933;4
+3bWGaqVeYKMlLss40mPgNn;spotify:track:3bWGaqVeYKMlLss40mPgNn;The Doors;Hello, I Love You;0.597;0.554;11;-14.144;0;0.0425;0.029;0;0.0766;0.963;117.835;133200;4
+1Jmqubf9kGkWeYQXQKImL5;spotify:track:1Jmqubf9kGkWeYQXQKImL5;The Doors;People Are Strange;0.699;0.467;4;-8.578;0;0.0375;0.685;0;0.315;0.764;119.287;130173;4
+5uvosCdMlFdTXhoazkTI5R;spotify:track:5uvosCdMlFdTXhoazkTI5R;The Doors;Light My Fire;0.413;0.725;3;-5.787;0;0.0324;0.369;2.16e-05;0.0905;0.44;124.618;429760;4
+6ToM0uwxtPKo9CMpbPGYvM;spotify:track:6ToM0uwxtPKo9CMpbPGYvM;The Doors;Break on Through (To the Other Side);0.421;0.751;9;-9.584;1;0.0472;0.2;0;0.17;0.789;89.839;145867;4
+1Q5kgpp4pmyGqPwNBzkSrw;spotify:track:1Q5kgpp4pmyGqPwNBzkSrw;The Doors;Roadhouse Blues;0.623;0.633;9;-8.212;1;0.0304;0.336;4.6e-05;0.147;0.895;121.119;243827;4
+2ibNhXeLiX8fm7KQtQUIgl;spotify:track:2ibNhXeLiX8fm7KQtQUIgl;The Doors;Smokers Outside the Hospital Doors;0.528;0.676;7;-3.792;1;0.037;4.69e-05;0.0652;0.116;0.528;122.988;297640;4
+6DmfWj5kOa1fX8AwN9byOn;spotify:track:6DmfWj5kOa1fX8AwN9byOn;The Doors;L.A. Woman;0.354;0.731;2;-9.178;1;0.0382;0.0812;0.00124;0.115;0.697;170.633;471160;4
+5piJiL6aRhvrKBa9YuEfS9;spotify:track:5piJiL6aRhvrKBa9YuEfS9;The Doors;Peace Frog;0.641;0.725;7;-7.376;1;0.039;0.16;0.00321;0.648;0.808;112.529;170133;4
+5IXk34xSm6rxNgXkCveC3r;spotify:track:5IXk34xSm6rxNgXkCveC3r;The Doors;Here Without You;0.555;0.545;10;-6.768;0;0.0255;0.0629;0;0.124;0.193;143.988;238560;4
+4BVE5tIIpYabZcYCbephNW;spotify:track:4BVE5tIIpYabZcYCbephNW;The Doors;Touch Me;0.425;0.903;1;-4.801;1;0.0732;0.405;0.0128;0.117;0.769;108.748;190253;4
+5UgT7w6zVZjP3oyawMzbiK;spotify:track:5UgT7w6zVZjP3oyawMzbiK;The Doors;The End;0.347;0.302;0;-12.104;1;0.0291;0.163;9.17e-05;0.14;0.0332;105.702;703373;4
+6jwVhh2pGXVUtCCW01TU9x;spotify:track:6jwVhh2pGXVUtCCW01TU9x;The Doors;Riders On the Storm - 2017 Remaster;0.576;0.382;11;-19.428;0;0.0293;0.68;0.0111;0.14;0.794;103.762;294653;4
+6IMQw2rfzAw8fVlZm9H1Wu;spotify:track:6IMQw2rfzAw8fVlZm9H1Wu;The Doors;You're Lost Little Girl;0.509;0.386;4;-10.401;0;0.0269;0.63;5.4e-05;0.125;0.389;111.694;180573;4
+3MFFDRC4wTN9JNGtzXsZlN;spotify:track:3MFFDRC4wTN9JNGtzXsZlN;The Doors;Love Her Madly;0.565;0.587;4;-7.393;0;0.0317;0.0573;0.00493;0.0416;0.966;147.462;198467;4
+2Xdc6qyaFBJZ8QW1KhpVci;spotify:track:2Xdc6qyaFBJZ8QW1KhpVci;The Doors;Soul Kitchen;0.679;0.443;9;-7.376;1;0.0394;0.33;0;0.0533;0.609;115.843;213000;4
+6GsbuMXqqHXFwG2fGRk5iA;spotify:track:6GsbuMXqqHXFwG2fGRk5iA;The Doors;Been Down So Long;0.81;0.376;4;-7.941;1;0.0411;0.208;5.52e-05;0.0622;0.635;122.618;279867;4
+0RcYEWXtbu4ehdv1tiBOi0;spotify:track:0RcYEWXtbu4ehdv1tiBOi0;The Doors;Riders On The Storm - Fredwreck Remix;0.878;0.786;11;-5.273;0;0.152;0.416;3.1e-05;0.122;0.831;101.984;382240;4
+67HxeUADW4H3ERfaPW59ma;spotify:track:67HxeUADW4H3ERfaPW59ma;The Doors;Love Me Two Times;0.684;0.698;9;-6.219;1;0.041;0.332;5.16e-06;0.122;0.839;132.846;195107;4
+5FlBGGwGuqYmqr0qeBWrxe;spotify:track:5FlBGGwGuqYmqr0qeBWrxe;The Doors;Five to One;0.615;0.401;4;-14.07;0;0.0507;0.203;0;0.086;0.672;87.959;264960;4
+3NLrRZoMF0Lx6zTlYqeIo4;spotify:track:3NLrRZoMF0Lx6zTlYqeIo4;The Doors;Here Without You;0.557;0.533;10;-6.817;0;0.0252;0.0492;0;0.205;0.233;143.994;238733;4
+0JNZGIavoUrdup1NsgJOQs;spotify:track:0JNZGIavoUrdup1NsgJOQs;The Doors;Alabama Song (Whisky Bar);0.568;0.645;5;-8.363;1;0.0416;0.543;0;0.191;0.901;170.676;197400;4
+542C7PqR1oEfl63hlhQO4V;spotify:track:542C7PqR1oEfl63hlhQO4V;The Doors;The Most Beautiful Girl;0.576;0.318;7;-14.366;1;0.0286;0.661;7.47e-06;0.167;0.41;103.493;161907;4
+0gWvVB4bGvADocoPMEDy3K;spotify:track:0gWvVB4bGvADocoPMEDy3K;The Doors;The Crystal Ship;0.313;0.42;10;-9.806;1;0.0303;0.797;2.35e-06;0.126;0.339;178.711;152000;4
+2cHmYju6hSMsLZjNOlxU91;spotify:track:2cHmYju6hSMsLZjNOlxU91;The Doors;The Doors of Durin;0.0931;0.153;1;-20.136;1;0.0529;0.797;0.881;0.144;0.0394;88.069;363213;4
+0pXYF32YBDiSC6PkQAgBBt;spotify:track:0pXYF32YBDiSC6PkQAgBBt;The Doors;When I'm Gone;0.529;0.754;7;-5.602;1;0.0285;0.00375;0;0.102;0.321;147.955;260507;4
+1ShWHEgisDGPl9G3g85ANu;spotify:track:1ShWHEgisDGPl9G3g85ANu;The Doors;Breakn' a Sweat;0.596;0.921;11;-2.5;0;0.074;0.0049;0.00019;0.536;0.232;139.969;301987;4
+5XTdMVT5i5qcfyTXWxhxVZ;spotify:track:5XTdMVT5i5qcfyTXWxhxVZ;The Doors;Ghost Song;0.764;0.48;0;-13.63;1;0.0819;0.416;0.316;0.107;0.705;110.175;170667;4
+03By6gD02qhtvIQiK8KidK;spotify:track:03By6gD02qhtvIQiK8KidK;The Doors;Back Door Man;0.476;0.612;9;-7.01;1;0.0335;0.287;0.000252;0.0877;0.909;177.233;212427;4
+5Q2Im8o4RthlAMkvUMYwGj;spotify:track:5Q2Im8o4RthlAMkvUMYwGj;The Doors;Love Street;0.709;0.305;9;-14.809;0;0.0397;0.687;0;0.265;0.483;118.821;169533;4
+3PbHle8KhJp6GuO1jLdEmQ;spotify:track:3PbHle8KhJp6GuO1jLdEmQ;The Doors;Be Like That;0.487;0.702;7;-6.043;1;0.0238;0.00528;4.97e-06;0.129;0.306;95.982;265907;4
+42dsUTJpzMWUJfEkzsbKWl;spotify:track:42dsUTJpzMWUJfEkzsbKWl;The Doors;When the Music's Over;0.532;0.459;9;-10.329;1;0.0307;0.172;6.61e-05;0.0472;0.597;98.196;659267;4
+0tPSQRfT0kykkOYoA4vLs7;spotify:track:0tPSQRfT0kykkOYoA4vLs7;The Doors;Bolt the Doors;0.359;0.769;7;-6.243;1;0.0369;0.000174;0.000998;0.354;0.467;110.005;153552;4
+70LcF31zb1H0PyJoS1Sx1r;spotify:track:70LcF31zb1H0PyJoS1Sx1r;Radiohead;Creep;0.515;0.43;7;-9.935;1;0.0372;0.0097;0.000133;0.129;0.104;91.844;238640;4
+2QwObYJWyJTiozvs0RI7CF;spotify:track:2QwObYJWyJTiozvs0RI7CF;Radiohead;Street Spirit (Fade Out);0.488;0.454;4;-11.544;0;0.0304;0.317;0.694;0.179;0.131;138.076;253853;4
+10nyNJ6zNy2YVYLrcwLccB;spotify:track:10nyNJ6zNy2YVYLrcwLccB;Radiohead;No Surprises;0.255;0.393;5;-10.654;1;0.0278;0.0577;0.00361;0.113;0.118;76.426;229120;4
+02ppMPbg1OtEdHgoPqoqju;spotify:track:02ppMPbg1OtEdHgoPqoqju;Radiohead;Reckoner;0.523;0.656;4;-7.441;0;0.0262;0.511;0.16;0.0679;0.214;104.271;290213;4
+63OQupATfueTdZMWTxW03A;spotify:track:63OQupATfueTdZMWTxW03A;Radiohead;Karma Police;0.36;0.501;7;-9.129;1;0.0258;0.0638;9.32e-05;0.172;0.324;74.807;264067;4
+62SvkbQm1wMS6KZtbtls1V;spotify:track:62SvkbQm1wMS6KZtbtls1V;Radiohead;True Love Waits - Live in Oslo;0.298;0.483;5;-8.822;1;0.0358;0.455;0.00298;0.69;0.0642;164.299;304920;4
+2a1iMaoWQ5MnvLFBDv4qkf;spotify:track:2a1iMaoWQ5MnvLFBDv4qkf;Radiohead;High and Dry;0.419;0.383;4;-11.782;1;0.0256;0.0724;0.0176;0.0896;0.35;87.568;257480;4
+73CKjW3vsUXRpy3NnX4H7F;spotify:track:73CKjW3vsUXRpy3NnX4H7F;Radiohead;Fake Plastic Trees;0.463;0.229;2;-12.592;1;0.0297;0.167;0.0997;0.202;0.135;73.543;290707;4
+1dyTcli07c77mtQK3ahUZR;spotify:track:1dyTcli07c77mtQK3ahUZR;Radiohead;Just;0.291;0.767;7;-6.913;0;0.0862;0.000401;0.012;0.0763;0.359;175.702;234800;4
+4wajJ1o7jWIg62YqpkHC7S;spotify:track:4wajJ1o7jWIg62YqpkHC7S;Radiohead;Weird Fishes/ Arpeggi;0.531;0.61;11;-8.025;0;0.0387;0.772;0.756;0.0908;0.199;152.958;318187;4
+0z1o5L7HJx562xZSATcIpY;spotify:track:0z1o5L7HJx562xZSATcIpY;Radiohead;Exit Music (For A Film);0.293;0.276;4;-11.357;0;0.0349;0.224;0.122;0.167;0.195;121.603;267187;4
+6LgJvl0Xdtc73RJ1mmpotq;spotify:track:6LgJvl0Xdtc73RJ1mmpotq;Radiohead;Paranoid Android;0.251;0.848;5;-6.501;1;0.0579;0.0377;0.00591;0.0545;0.207;163.709;387213;4
+35YyxFpE0ZTOoqFx5bADW8;spotify:track:35YyxFpE0ZTOoqFx5bADW8;Radiohead;Nude;0.516;0.342;4;-9.785;1;0.0342;0.832;0.579;0.0857;0.167;128.378;255387;3
+2kRFrWaLWiKq48YYVdGcm8;spotify:track:2kRFrWaLWiKq48YYVdGcm8;Radiohead;Everything In Its Right Place;0.296;0.463;5;-11.412;0;0.0449;0.705;0.0482;0.0954;0.0629;123.943;251427;5
+2fuYa3Lx06QQJAm0MjztKr;spotify:track:2fuYa3Lx06QQJAm0MjztKr;Radiohead;Let Down;0.351;0.676;9;-9.017;1;0.0313;0.000121;0.113;0.18;0.143;102.46;299560;4
+0YJ9FWWHn9EfnN0lHwbzvV;spotify:track:0YJ9FWWHn9EfnN0lHwbzvV;Radiohead;Jigsaw Falling Into Place;0.462;0.832;11;-6.085;0;0.0479;0.108;0.00416;0.0741;0.807;165.653;248893;4
+5Qv2Nby1xTr9pQyjkrc94J;spotify:track:5Qv2Nby1xTr9pQyjkrc94J;Radiohead;All I Need;0.67;0.478;4;-8.689;0;0.0355;0.531;0.428;0.138;0.0997;88.014;228747;4
+2rtGaCAeYtmcIvuZsvgTf6;spotify:track:2rtGaCAeYtmcIvuZsvgTf6;Radiohead;How to Disappear Completely;0.167;0.302;6;-11.644;0;0.0345;0.316;0.797;0.11;0.19;102.026;356333;4
+4oXg7xT4ksBxHTx8PcmSXw;spotify:track:4oXg7xT4ksBxHTx8PcmSXw;Radiohead;15 Step;0.598;0.854;1;-7.584;1;0.0422;0.0477;0.338;0.0934;0.844;94.458;237293;4
+48X4D1FYOShPz2VF3YdfCF;spotify:track:48X4D1FYOShPz2VF3YdfCF;Radiohead;House Of Cards;0.708;0.499;5;-9.644;1;0.0297;0.269;0.57;0.101;0.628;111.652;328293;4
+0jyikFM0Umv0KlnrOEKtTG;spotify:track:0jyikFM0Umv0KlnrOEKtTG;Radiohead;My Iron Lung;0.242;0.859;0;-8.41;1;0.0663;0.0565;0.114;0.38;0.672;96.917;276427;4
+55q3Ro66yXWi9rsEddeEN4;spotify:track:55q3Ro66yXWi9rsEddeEN4;Radiohead;Pyramid Song;0.12;0.336;11;-8.298;0;0.0352;0.786;0.404;0.111;0.0679;72.64;288733;4
+2CVV8PtUYYsux8XOzWkCP0;spotify:track:2CVV8PtUYYsux8XOzWkCP0;Radiohead;Subterranean Homesick Alien;0.312;0.595;0;-8.919;1;0.0298;0.0484;0.00139;0.103;0.337;150.502;267693;3
+7oDFvnqXkXuiZa1sACXobj;spotify:track:7oDFvnqXkXuiZa1sACXobj;Radiohead;The Bends;0.23;0.755;7;-8.065;1;0.0658;0.0115;0.141;0.363;0.312;91.608;246200;4
+4pWIwnnqx8k01fuF95UMIg;spotify:track:4pWIwnnqx8k01fuF95UMIg;Radiohead;Bodysnatchers;0.342;0.976;2;-4.986;1;0.0573;0.00443;0.0175;0.0974;0.733;166.663;242293;4
+6UO72VSXEONxdfLyABihs9;spotify:track:6UO72VSXEONxdfLyABihs9;Radiohead;Black Star;0.289;0.555;7;-7.434;1;0.0402;0.00312;0.0496;0.27;0.306;158.671;247040;4
+7c378mlmubSu7NGkLFa4sN;spotify:track:7c378mlmubSu7NGkLFa4sN;Radiohead;Airbag;0.305;0.872;2;-7.313;1;0.0503;0.00786;0.8;0.261;0.648;167.959;287880;4
+5h4y42RUKwYKYWgutNwvKP;spotify:track:5h4y42RUKwYKYWgutNwvKP;Radiohead;There, There;0.614;0.677;9;-8.317;0;0.0323;0.0193;0.52;0.108;0.716;126.482;323600;4
+5iFhkFf9JLA3XiROdYsg1i;spotify:track:5iFhkFf9JLA3XiROdYsg1i;Vitas;7 элемент;0.717;0.8;5;-5.794;0;0.0497;0.371;0.158;0.327;0.954;129.642;250000;4
+6se25Ad9jwQhiWhbVSqRs3;spotify:track:6se25Ad9jwQhiWhbVSqRs3;Vitas;7th Element - Chilx and Mat1ne remix;0.82;0.803;5;-4.474;0;0.0942;0.0107;0.715;0.0558;0.958;126.024;312381;4
+19wgIwKRVTuKbKJB0lnCG5;spotify:track:19wgIwKRVTuKbKJB0lnCG5;Vitas;The King;0.797;0.656;5;-5.74;1;0.0948;0.0961;0.49;0.0461;0.344;149.998;153200;4
+1N3lJB2qqQAuxqOdsu1Tty;spotify:track:1N3lJB2qqQAuxqOdsu1Tty;Vitas;7 Element - Blblbl Festival Radio Remix;0.84;0.73;1;-6.387;1;0.0594;0.157;0.677;0.705;0.763;125.994;185287;4
+2fKog3E5P7HVQZs2sQMFrO;spotify:track:2fKog3E5P7HVQZs2sQMFrO;Vitas;Опера #2;0.695;0.414;5;-8.661;0;0.0304;0.0244;0.000192;0.0725;0.544;99.714;195000;4
+4zdsBics0asw0gj4L5wu5v;spotify:track:4zdsBics0asw0gj4L5wu5v;Vitas;Vitamin C;0.629;0.653;4;-12.578;0;0.0448;0.00615;0.734;0.143;0.853;117.13;212000;4
+7f3TQGIkuww3vuNKokv4TC;spotify:track:7f3TQGIkuww3vuNKokv4TC;Vitas;Lullaby of the Moon - Orchestral Diana Theme;0.141;0.299;10;-12.62;0;0.0336;0.815;0.000199;0.254;0.19;175.805;228848;3
+5ysrRd2EiGlPoEVVHu9nGF;spotify:track:5ysrRd2EiGlPoEVVHu9nGF;Vitas;Vitamins;0.908;0.699;11;-7.08;1;0.17;0.08;1.82e-05;0.131;0.655;100.006;140000;4
+59sZaBqurU5tlfEC1lhEff;spotify:track:59sZaBqurU5tlfEC1lhEff;Vitas;Outbreak of Vitas Gerulatis;0.486;0.492;2;-15.877;1;0.0467;0.0238;9.33e-05;0.0828;0.102;126.512;274973;4
+2B9PMGUgEBMLubAS7Ilpue;spotify:track:2B9PMGUgEBMLubAS7Ilpue;Vitas;Vitamin C;0.961;0.714;5;-7.614;0;0.0789;0.145;0.857;0.1;0.562;134.018;276000;4
+5JQCTkHfFhGJtJHMMmROtF;spotify:track:5JQCTkHfFhGJtJHMMmROtF;Vitas;Звезда;0.575;0.508;11;-8.028;0;0.0342;0.695;0;0.179;0.243;137.964;212773;4
+5YXAH5GHkbtTOqhYF5sGYA;spotify:track:5YXAH5GHkbtTOqhYF5sGYA;Vitas;Vitamin C;0.629;0.688;1;-5.588;1;0.0351;0.0113;0.00111;0.141;0.465;104.019;191653;4
+60Ma7JqN1YVBPVR7UkRIuZ;spotify:track:60Ma7JqN1YVBPVR7UkRIuZ;Vitas;Vita's Book;0.54;0.351;8;-25.065;1;0.0424;0.394;0.871;0.0878;0.0258;116.05;97080;4
+4NNOKZfrwUwhWl64Y4IEJP;spotify:track:4NNOKZfrwUwhWl64Y4IEJP;Vitas;Lucia di lammermoor;0.296;0.721;11;-7.061;0;0.0503;0.397;0.00261;0.763;0.191;118.033;205667;4
+2m9QssdUKhoQPWcrq9Zcck;spotify:track:2m9QssdUKhoQPWcrq9Zcck;Vitas;Vital;0.645;0.607;1;-9.322;0;0.0271;0.959;0.905;0.211;0.431;154.021;208684;4
+5gSD286LQ5vDELAs1GzRNK;spotify:track:5gSD286LQ5vDELAs1GzRNK;Vitas;Улыбнись;0.684;0.408;4;-9.503;0;0.0383;0.152;0.00874;0.0731;0.69;141.993;201320;4
+3xTFxk92kL7ArM0y43RGwp;spotify:track:3xTFxk92kL7ArM0y43RGwp;Vitas;Vitamin S;0.846;0.77;5;-5.905;1;0.299;0.106;0;0.0883;0.925;117.425;252893;5
+3sNQhRzva15DUBWMFRnLfS;spotify:track:3sNQhRzva15DUBWMFRnLfS;Vitas;Посвящение;0.459;0.361;8;-10.946;0;0.0323;0.783;0.305;0.0991;0.0941;119.862;269840;4
+4i0oGvIIrkoTLNCYJWnMvh;spotify:track:4i0oGvIIrkoTLNCYJWnMvh;Vitas;Vitality;0.75;0.889;7;-10.149;0;0.0511;0.00199;0.813;0.0774;0.627;150.01;227208;4
+5AhppveIghCtlSYYIWR2RG;spotify:track:5AhppveIghCtlSYYIWR2RG;Vitas;Roll With The Beat (feat. Nappy Roots);0.8;0.76;11;-5.998;0;0.139;0.21;1.62e-05;0.0724;0.722;126.05;238000;4
+0cuBU0NjEZImmFEFn7kVsb;spotify:track:0cuBU0NjEZImmFEFn7kVsb;Vitas;Vitamine - (Remix) feat. Ya Levis;0.658;0.705;10;-4.803;0;0.0985;0.295;0.375;0.29;0.734;179.924;154772;4
+0sT5kaLb5yh7Sh3zYa1abY;spotify:track:0sT5kaLb5yh7Sh3zYa1abY;Vitas;Звезда;0.515;0.657;11;-4.943;0;0.0318;0.601;0;0.366;0.207;137.949;215615;4
+5uvCxgywyEHDbj4sn7gjbh;spotify:track:5uvCxgywyEHDbj4sn7gjbh;Vitas;Opera2;0.469;0.507;1;-4.031;1;0.0299;0.678;0.000304;0.13;0.318;100.055;257400;4
+15oZCEiS6W2Insd7ENzFUt;spotify:track:15oZCEiS6W2Insd7ENzFUt;Vitas;Опера #1;0.507;0.725;11;-6.036;1;0.0807;0.11;0.000417;0.105;0.462;170.027;233000;4
+6twGrubCEYd0hymPIrRwET;spotify:track:6twGrubCEYd0hymPIrRwET;Vitas;7 Element - Blblbl Club House Radio Remix;0.802;0.796;10;-5.215;0;0.0731;0.0149;0.502;0.144;0.745;126.054;193855;4
+0OkKD79AhEPVOvBCSXcTeg;spotify:track:0OkKD79AhEPVOvBCSXcTeg;Vitas;Криком журавлиным;0.494;0.422;9;-6.534;0;0.0284;0.62;0.000466;0.0665;0.168;134.036;234200;4
+4E7ZMdik7CSasIuKqSPnCo;spotify:track:4E7ZMdik7CSasIuKqSPnCo;Vitas;Ne Moren Bez Nje;0.689;0.432;10;-13.273;1;0.0301;0.124;0;0.279;0.79;152.267;245533;4
+01KzO5XOIMGzqF9YyV4odn;spotify:track:01KzO5XOIMGzqF9YyV4odn;Vitas;Awaken The Sun - Orchestral Leona Theme;0.302;0.388;2;-13.823;1;0.0368;0.231;0.88;0.315;0.0472;77.309;153514;4
+3WaXz5EYBsY5bnr1h8NKSE;spotify:track:3WaXz5EYBsY5bnr1h8NKSE;Vitas;Симфоническая;0.209;0.34;9;-10.282;0;0.0368;0.426;0.848;0.11;0.1;108.83;236000;3
+172YPl3tUki4S5yDSPVYZx;spotify:track:172YPl3tUki4S5yDSPVYZx;Vitas;Vitamins;0.793;0.452;5;-10.689;1;0.0523;0.415;0;0.1;0.79;91.171;214093;4
+5nW85jLqmxMFYmIrDk4YGQ;spotify:track:5nW85jLqmxMFYmIrDk4YGQ;Vitas;Made in China - Мэйд ин чайна;0.898;0.788;2;-3.074;0;0.0434;0.123;4.35e-05;0.667;0.913;88.01;166364;4
+6c4YrpQTT5mmqPsrDIhKHW;spotify:track:6c4YrpQTT5mmqPsrDIhKHW;Vitas;Gušti Su Gušti;0.579;0.567;4;-12.555;1;0.0356;0.556;0;0.125;0.91;98.473;197560;4
+3zkcq61fMrcvChzh44si76;spotify:track:3zkcq61fMrcvChzh44si76;Vitas;Опера #2;0.673;0.475;10;-7.885;0;0.0318;0.17;0.000314;0.0723;0.72;99.742;192493;4
+5weqpMrAOTUGpdjNtxG8ff;spotify:track:5weqpMrAOTUGpdjNtxG8ff;Vitas;Vita Nuova;0.54;0.632;6;-6.975;0;0.0627;0.279;0;0.0872;0.806;139.477;169714;4
+1oBw23Dp6DYTEI2FeMs3pd;spotify:track:1oBw23Dp6DYTEI2FeMs3pd;Vitas;Мечты;0.668;0.915;10;-7.024;0;0.48;0.304;0.0365;0.314;0.392;99.989;372000;4
+4yA9Yw8yJIjkH8vRzbpVmg;spotify:track:4yA9Yw8yJIjkH8vRzbpVmg;Vitas;Поцелуй длиною в вечность;0.55;0.362;9;-9.1;0;0.0323;0.822;0.000303;0.0988;0.044;137.987;230173;4
+04NGX0b5Tgs7VsErfn5OA1;spotify:track:04NGX0b5Tgs7VsErfn5OA1;Vitas;Vitamin R (Leading Us Along);0.481;0.88;4;-4.55;1;0.0717;0.00465;6.02e-05;0.204;0.289;95.023;223173;3
+1CmtnUIWflqfZLUWqLh3yr;spotify:track:1CmtnUIWflqfZLUWqLh3yr;Vitas;Vitasoy;0.485;0.181;2;-22.102;0;0.0682;0.986;0.961;0.134;0.361;138.283;46028;3
+7fceKgGxIE3s6yGZ0vduQa;spotify:track:7fceKgGxIE3s6yGZ0vduQa;Vitas;Vitamin;0.556;0.9;9;-5.955;1;0.0423;0.000225;0.327;0.482;0.666;130.384;193200;4
+4MDVkfa7ii8JSqFNvd8YPM;spotify:track:4MDVkfa7ii8JSqFNvd8YPM;Vitas;Прелюдия;0.406;0.431;11;-7.645;1;0.0286;0.709;0.0967;0.219;0.182;130.356;328000;4
+13cbd5KEuo4d45ZZMFJVbQ;spotify:track:13cbd5KEuo4d45ZZMFJVbQ;Vitas;Vitamin Love;0.671;0.297;0;-15.085;1;0.0607;0.00953;0.842;0.138;0.596;120.007;104829;4
+2FnpLzZH0qM7fvGWiLwdj7;spotify:track:2FnpLzZH0qM7fvGWiLwdj7;Vitas;Птица счастья;0.754;0.951;5;-5.464;0;0.068;0.0176;4.37e-05;0.331;0.959;139.962;205000;4
+2EfDPaetsFxy98U4bBLLM4;spotify:track:2EfDPaetsFxy98U4bBLLM4;Vitas;Vitality - Remix;0.674;0.977;0;-4.873;0;0.0617;0.000844;0.906;0.0918;0.803;149.985;239996;4
+3YHoxNxt3qYWXDxUUGVbhL;spotify:track:3YHoxNxt3qYWXDxUUGVbhL;Vitas;Мама;0.522;0.344;11;-12.418;0;0.0342;0.433;0;0.138;0.0793;120.066;302547;4
+2jtPiFdW4QxLWmhhR6CxLJ;spotify:track:2jtPiFdW4QxLWmhhR6CxLJ;Vitas;7 Element - Show2Man Radio Remix;0.775;0.809;5;-4.169;0;0.0417;0.315;0.117;0.0978;0.71;127.02;188082;4
+683JCS5nM1htr0CWJYGtBQ;spotify:track:683JCS5nM1htr0CWJYGtBQ;Vitas;Jenu Noć;0.761;0.439;7;-14.694;1;0.0283;0.516;0;0.123;0.535;107.446;230000;4
+1xWH8zYtDeS9mW1JJG23VZ;spotify:track:1xWH8zYtDeS9mW1JJG23VZ;R.E.M.;R.E.M;0.831;0.485;10;-6.677;0;0.15;0.375;1.47e-05;0.118;0.622;80.022;245667;4
+52xJxFP6TqMuO4Yt0eOkMz;spotify:track:52xJxFP6TqMuO4Yt0eOkMz;R.E.M.;We Don't Talk About Bruno;0.577;0.45;0;-8.516;0;0.0834;0.357;0;0.111;0.83;205.863;216120;4
+7ywlnXV5O0h8T5pCRUN1f5;spotify:track:7ywlnXV5O0h8T5pCRUN1f5;R.E.M.;What’s The Frequency, Kenneth? - Remastered;0.369;0.948;2;-3.923;1;0.0376;0.141;0.253;0.169;0.696;94.459;240307;4
+31AOj9sFz2gM0O3hMARRBx;spotify:track:31AOj9sFz2gM0O3hMARRBx;R.E.M.;Losing My Religion;0.666;0.855;9;-5.051;0;0.0295;0.179;1.2e-06;0.0987;0.803;125.639;268427;4
+4cG7HUWYHBV6R6tHn1gxrl;spotify:track:4cG7HUWYHBV6R6tHn1gxrl;R.E.M.;Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit;0.824;0.862;2;-3.424;1;0.126;0.0076;0.000132;0.303;0.801;122.98;169153;4
+3yH5gUgtOo69j0rEat3a9K;spotify:track:3yH5gUgtOo69j0rEat3a9K;R.E.M.;Stand;0.643;0.867;4;-5.262;1;0.0285;0.358;0;0.122;0.911;109.317;192173;4
+6PypGyiu0Y2lCDBN1XZEnP;spotify:track:6PypGyiu0Y2lCDBN1XZEnP;R.E.M.;Everybody Hurts;0.467;0.324;2;-10.451;1;0.0255;0.615;0.0248;0.118;0.166;94.301;320267;3
+6pTg4H8juKV9iSzrcVUbM3;spotify:track:6pTg4H8juKV9iSzrcVUbM3;R.E.M.;Dance Wiv Me - Radio Edit;0.878;0.746;11;-4.281;1;0.0451;0.0476;0;0.154;0.792;111.996;204093;4
+7tLTov4Ax1pyGcaV4qWrP5;spotify:track:7tLTov4Ax1pyGcaV4qWrP5;R.E.M.;The Sidewinder Sleeps Tonite;0.647;0.842;9;-6.331;0;0.0308;0.056;3.41e-06;0.32;0.777;123.376;249360;4
+1v2zyAJrChw5JnfafSkwkJ;spotify:track:1v2zyAJrChw5JnfafSkwkJ;R.E.M.;Shiny Happy People;0.452;0.909;9;-3.977;1;0.0366;0.0313;0.0603;0.23;0.805;124.623;225787;4
+6FBlNlVx0xrXPb9suicaMM;spotify:track:6FBlNlVx0xrXPb9suicaMM;R.E.M.;Losing My Religion;0.674;0.844;9;-5.99;0;0.0288;0.0867;0;0.102;0.826;125.422;269000;4
+2oSpQ7QtIKTNFfA08Cy0ku;spotify:track:2oSpQ7QtIKTNFfA08Cy0ku;R.E.M.;It's The End Of The World As We Know It (And I Feel Fine);0.381;0.894;7;-8.638;1;0.037;0.0258;0;0.0251;0.797;205.528;246933;4
+6uvMKqNlrSvcC4NaKnrwjZ;spotify:track:6uvMKqNlrSvcC4NaKnrwjZ;R.E.M.;Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo];0.883;0.674;11;-8.043;0;0.357;0.21;0;0.0678;0.73;141.02;278085;4
+4OsLDuaH0bWR6xM6nj66F8;spotify:track:4OsLDuaH0bWR6xM6nj66F8;R.E.M.;F.C.P.R.E.M.I.X.;0.226;0.891;9;-5.531;0;0.0702;0.000631;9.75e-06;0.225;0.511;167.876;237680;4
+4jLv3tDBu8ww2R07DvL12s;spotify:track:4jLv3tDBu8ww2R07DvL12s;R.E.M.;Man On The Moon;0.667;0.699;7;-7.574;1;0.026;0.42;0.000442;0.201;0.655;118.567;314173;4
+2N3U8uTYhjX2KwGT0pf5x0;spotify:track:2N3U8uTYhjX2KwGT0pf5x0;R.E.M.;Everyday (feat. Rod Stewart, Miguel & Mark Ronson);0.394;0.661;4;-8.684;1;0.192;0.00996;0;0.343;0.335;149.818;260987;4
+32kmXl5F8I3XDVKNfwwM4J;spotify:track:32kmXl5F8I3XDVKNfwwM4J;R.E.M.;Imitation Of Life;0.461;0.755;7;-3.71;1;0.0318;0.0178;1.13e-06;0.18;0.439;124.256;236627;4
+2fdfsGuqb6SBX5ocoBWHUd;spotify:track:2fdfsGuqb6SBX5ocoBWHUd;R.E.M.;The One I Love - Remastered 2012;0.488;0.84;2;-4.626;1;0.0356;0.000395;1.21e-06;0.346;0.559;127.862;197800;4
+7ygpwy2qP3NbrxVkHvUhXY;spotify:track:7ygpwy2qP3NbrxVkHvUhXY;R.E.M.;Wonderwall - Remastered;0.375;0.893;2;-4.097;1;0.0406;0.000509;0;0.187;0.434;174.323;258773;4
+7w57O4o0xCTn9YpKuaPZDd;spotify:track:7w57O4o0xCTn9YpKuaPZDd;R.E.M.;The Great Beyond;0.329;0.747;10;-6.411;1;0.0297;0.125;2.08e-06;0.197;0.177;109.702;307000;4
+3geRffSf6eAruhg23RkpKV;spotify:track:3geRffSf6eAruhg23RkpKV;R.E.M.;Drive;0.467;0.432;7;-11.753;1;0.0283;0.175;0.001;0.226;0.238;142.642;271333;4
+4NbvIwYcwx8dNGYfUX2bKB;spotify:track:4NbvIwYcwx8dNGYfUX2bKB;R.E.M.;My Head Is A Jungle - MK Remix / Radio Edit;0.684;0.789;7;-6.889;0;0.0377;0.084;0.00289;0.217;0.411;123.989;205161;4
+623OZP2FGNwYKFzAK8ypZz;spotify:track:623OZP2FGNwYKFzAK8ypZz;R.E.M.;Drive;0.472;0.449;7;-10.251;1;0.0272;0.188;0.000247;0.0958;0.26;142.099;267760;4
+12dU3vAh6AFoJkisorfoUl;spotify:track:12dU3vAh6AFoJkisorfoUl;R.E.M.;Don't Look Back In Anger - Remastered;0.328;0.936;0;-3.254;1;0.0628;0.0665;2.61e-06;0.165;0.31;162.97;289560;4
+2KwOwODy7wSRF6oJEMd9as;spotify:track:2KwOwODy7wSRF6oJEMd9as;R.E.M.;Losing My Religion;0.666;0.854;9;-5.051;0;0.0295;0.179;1.2e-06;0.0986;0.803;125.637;268427;4
+3cw5zLbvaNixYNFfIhiCzD;spotify:track:3cw5zLbvaNixYNFfIhiCzD;R.E.M.;Losing My Religion;0.666;0.854;9;-5.051;0;0.0295;0.179;1.2e-06;0.0986;0.803;125.637;268427;4
+5liQj4sVRmEEESvvcb64o8;spotify:track:5liQj4sVRmEEESvvcb64o8;R.E.M.;Wearing My Rolex - Radio Edit;0.876;0.716;1;-6.884;1;0.135;0.0468;0.000482;0.0667;0.755;131.942;170480;4
+0cOcyziJtoE1txVvwKPqJM;spotify:track:0cOcyziJtoE1txVvwKPqJM;R.E.M.;Everybody Hurts;0.482;0.382;2;-8.02;1;0.0243;0.619;0.0265;0.12;0.177;94.271;318800;3
+412luShbmlgqqgYFStIB1s;spotify:track:412luShbmlgqqgYFStIB1s;R.E.M.;Wish You Were Mine - Radio Edit;0.654;0.832;7;-4.164;0;0.0293;0.0126;0.0901;0.102;0.407;123.002;177561;4
+631711IV951ZvnL5QS0CpA;spotify:track:631711IV951ZvnL5QS0CpA;R.E.M.;Everybody Hurts;0.482;0.382;2;-8.02;1;0.0243;0.619;0.0265;0.12;0.177;94.271;318800;3
+4ziDVBdIRb3z5RvrxlJ6pj;spotify:track:4ziDVBdIRb3z5RvrxlJ6pj;R.E.M.;Shiny Happy People;0.497;0.8;9;-8.649;1;0.0304;0.0128;0.00969;0.133;0.857;124.491;226027;4
+2qbkYhZy5gNl8HrK2XwddI;spotify:track:2qbkYhZy5gNl8HrK2XwddI;R.E.M.;Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo];0.883;0.674;11;-8.043;0;0.357;0.21;0;0.0678;0.73;141.02;278085;4
+2I2HYr4FLb6LPfdgcKxK2J;spotify:track:2I2HYr4FLb6LPfdgcKxK2J;R.E.M.;r.e.m - live;0.705;0.554;10;-9.628;0;0.0551;0.321;9.26e-06;0.978;0.611;80.042;177913;4
+1PAYgOjp1c9rrZ2kVQg2vN;spotify:track:1PAYgOjp1c9rrZ2kVQg2vN;R.E.M.;Changed the Way You Kiss Me - Radio Edit;0.578;0.857;4;-3.78;0;0.041;0.00548;0.00162;0.0948;0.188;126.979;195467;4
+0mWdHShHSXUtuw1QiYjGEp;spotify:track:0mWdHShHSXUtuw1QiYjGEp;R.E.M.;R.E.M.F.;0.377;0.989;9;-5.17;1;0.0812;1.34e-05;0.354;0.387;0.33;163.998;262387;4
+119c93MHjrDLJTApCVGpvx;spotify:track:119c93MHjrDLJTApCVGpvx;R.E.M.;C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk);0.479;0.549;11;-10.551;0;0.373;0.57;0.0235;0.127;0.576;180.985;252187;4
+6TlQ5fbojNRuG0hPQMbxeW;spotify:track:6TlQ5fbojNRuG0hPQMbxeW;R.E.M.;Live Forever - Remastered;0.286;0.822;9;-3.366;0;0.0381;2.31e-05;1.31e-05;0.353;0.19;90.96;276667;4
+3qLhHLgFCvq6YEzqZhCPEd;spotify:track:3qLhHLgFCvq6YEzqZhCPEd;R.E.M.;Come With Me - Radio Edit;0.739;0.999;7;-5.077;1;0.0803;0.13;0.00224;0.28;0.501;139.982;185133;4
+6UzLGFmwhjl4QzboPX2gnV;spotify:track:6UzLGFmwhjl4QzboPX2gnV;R.E.M.;R.E.M;0.796;0.784;1;-7.766;1;0.129;0.441;2e-05;0.0839;0.498;124.909;172800;4
+6zdArlh7xbeWvrLtTkKRFV;spotify:track:6zdArlh7xbeWvrLtTkKRFV;R.E.M.;Are You With Me - Radio Edit;0.763;0.608;5;-8.1;0;0.035;0.262;2.5e-05;0.12;0.393;121.02;138013;4
+2WfaOiMkCvy7F5fcp2zZ8L;spotify:track:2WfaOiMkCvy7F5fcp2zZ8L;a-ha;Take on Me;0.573;0.902;6;-7.638;0;0.054;0.018;0.00125;0.0928;0.876;84.412;225280;4
+1PNs0uGru3TcrA94kpyGnc;spotify:track:1PNs0uGru3TcrA94kpyGnc;a-ha;Do We Have A Problem?;0.842;0.505;1;-8.627;0;0.402;0.472;0.000322;0.117;0.538;119.993;207065;4
+1xrSl6T4wIKIoicgn5ITe0;spotify:track:1xrSl6T4wIKIoicgn5ITe0;a-ha;Manhattan Skyline - 2016 Remaster;0.57;0.677;5;-7.272;1;0.0303;0.244;0.000439;0.204;0.125;103.019;287693;3
+5J2CHimS7dWYMImCHkEFaJ;spotify:track:5J2CHimS7dWYMImCHkEFaJ;a-ha;A Hard Day's Night - Remastered 2009;0.59;0.805;0;-6.481;1;0.0371;0.137;0;0.0996;0.797;138.514;154200;4
+0HoaLXRp7jJtdQFunUyUGc;spotify:track:0HoaLXRp7jJtdQFunUyUGc;a-ha;The Sun Always Shines on T.V.;0.494;0.839;9;-8.79;0;0.0647;0.0534;0.0706;0.253;0.219;126.329;302400;4
+3jjujdWJ72nww5eGnfs2E7;spotify:track:3jjujdWJ72nww5eGnfs2E7;a-ha;Adore You;0.676;0.771;8;-3.675;1;0.0483;0.0237;7e-06;0.102;0.569;99.048;207133;4
+78QR3Wp35dqAhFEc2qAGjE;spotify:track:78QR3Wp35dqAhFEc2qAGjE;a-ha;Drip Too Hard (Lil Baby & Gunna);0.897;0.662;1;-6.903;0;0.292;0.0852;0;0.534;0.389;112.511;145543;4
+2ejkRnZWPACfuqr06gFw1w;spotify:track:2ejkRnZWPACfuqr06gFw1w;a-ha;Stay on These Roads;0.572;0.51;5;-9.99;1;0.0308;0.0329;0.103;0.163;0.188;103.973;284053;4
+1pctwlBtIcKIjQMzsVcGHB;spotify:track:1pctwlBtIcKIjQMzsVcGHB;a-ha;A Hard Day's Night - Remastered 2015;0.546;0.818;0;-4.89;1;0.031;0.0487;0;0.0983;0.756;138.561;152920;4
+1QnvpPFP4Q3FHbDchqWiWy;spotify:track:1QnvpPFP4Q3FHbDchqWiWy;a-ha;Airplanes (feat. Hayley Williams of Paramore);0.66;0.867;6;-4.285;0;0.116;0.11;0;0.0368;0.377;93.033;180480;4
+2frQDt6IDeAVfteMCRLtBq;spotify:track:2frQDt6IDeAVfteMCRLtBq;a-ha;A-Ha;0.682;0.845;4;-2.59;1;0.0398;0.202;0;0.413;0.819;126.025;186587;4
+7ny2ATvjtKszCpLpfsGnVQ;spotify:track:7ny2ATvjtKszCpLpfsGnVQ;a-ha;A Hard Rain's A-Gonna Fall;0.567;0.198;4;-18.681;1;0.0327;0.919;0.000871;0.135;0.321;92.467;412200;4
+7wMq5n8mYSKlQIGECKUgTX;spotify:track:7wMq5n8mYSKlQIGECKUgTX;a-ha;Hall of Fame (feat. will.i.am);0.421;0.873;10;-4.343;1;0.0564;0.0654;0;0.123;0.629;84.786;202533;4
+4aPf0wQ6VBlRqWABaVjfRN;spotify:track:4aPf0wQ6VBlRqWABaVjfRN;a-ha;Cry Wolf;0.652;0.772;9;-7.451;0;0.0349;0.104;0.668;0.0745;0.776;131.18;246587;4
+4bVP0pq7lIhDQBXSkejNS4;spotify:track:4bVP0pq7lIhDQBXSkejNS4;a-ha;A Hard Rain's A-Gonna Fall;0.595;0.428;8;-11.991;1;0.0463;0.293;0.000126;0.109;0.2;132.985;235123;4
+6JWddKPdqvDc2WkPEi9grC;spotify:track:6JWddKPdqvDc2WkPEi9grC;a-ha;Have A Nice Day;0.508;0.826;1;-4.088;0;0.0405;0.018;0;0.28;0.404;120.854;205067;4
+6xt09pCFANiwzrTfhyQ1mC;spotify:track:6xt09pCFANiwzrTfhyQ1mC;a-ha;Summer Moved On;0.462;0.683;11;-8.409;0;0.0286;0.313;0.000135;0.112;0.442;91.986;278400;4
+2GB8OypbvrvCee61FKx5dp;spotify:track:2GB8OypbvrvCee61FKx5dp;a-ha;A Hazy Shade of Winter;0.497;0.59;2;-11.203;0;0.0296;0.139;7.11e-06;0.378;0.969;142.027;137480;4
+1ugQtcwmKOXvKAYzhjncmv;spotify:track:1ugQtcwmKOXvKAYzhjncmv;a-ha;Half A Man;0.507;0.204;0;-11.575;1;0.0504;0.855;0;0.143;0.343;77.765;179120;4
+1F7VM6rFR6SoTQN0arpaFB;spotify:track:1F7VM6rFR6SoTQN0arpaFB;a-ha;Manhattan Skyline;0.576;0.697;5;-7.418;1;0.0297;0.219;0.000119;0.192;0.155;103.027;292307;3
+1M4qEo4HE3PRaCOM7EXNJq;spotify:track:1M4qEo4HE3PRaCOM7EXNJq;a-ha;Adore You;0.676;0.771;8;-3.675;1;0.0483;0.0237;7e-06;0.102;0.569;99.048;207133;4
+4FUFk1uJuPtUJrDQ8ZSylK;spotify:track:4FUFk1uJuPtUJrDQ8ZSylK;a-ha;Afraid (feat. HARLEE);0.744;0.78;10;-3.631;0;0.0529;0.101;4.36e-06;0.184;0.762;125.997;142971;4
+5tewIdMVsaJWN19ZnmnPNN;spotify:track:5tewIdMVsaJWN19ZnmnPNN;a-ha;Hunting High and Low;0.513;0.676;9;-6.148;0;0.0309;0.301;0;0.0864;0.311;116.592;228693;4
+0d2iYfpKoM0QCKvcLCkBao;spotify:track:0d2iYfpKoM0QCKvcLCkBao;a-ha;Eastside (with Halsey & Khalid);0.56;0.68;6;-7.648;0;0.321;0.555;0;0.116;0.319;89.391;173800;4
+5pzEYTNR667VbDAUmMpF0S;spotify:track:5pzEYTNR667VbDAUmMpF0S;a-ha;I've Been Losing You;0.646;0.929;7;-4.58;1;0.043;0.0517;0.0301;0.139;0.419;119.027;265653;4
+3UOFrelbGLUWJpRRzH3hbZ;spotify:track:3UOFrelbGLUWJpRRzH3hbZ;a-ha;A Hard Teacher;0.136;0.0375;2;-28.76;0;0.0367;0.97;0.891;0.241;0.0404;144.073;344480;4
+0if8wueNrAVLfwSH7l1ANJ;spotify:track:0if8wueNrAVLfwSH7l1ANJ;a-ha;Half The World Away - Remastered;0.433;0.458;0;-8.666;1;0.0328;0.305;0;0.0863;0.23;115.213;267333;4
+6c9nkeetGbsoXa7d5E1wHa;spotify:track:6c9nkeetGbsoXa7d5E1wHa;a-ha;Crying in the Rain;0.394;0.547;2;-9.276;1;0.0383;0.436;0.000111;0.344;0.151;181.74;260227;4
+0XvXbSN6HTYOUTKIVNO6qi;spotify:track:0XvXbSN6HTYOUTKIVNO6qi;a-ha;Take On Me - Kygo Remix;0.536;0.78;9;-6.008;1;0.113;0.16;0.00079;0.137;0.622;179.971;226667;4
+0VcgLoEMA06AKqPxxj2YQs;spotify:track:0VcgLoEMA06AKqPxxj2YQs;a-ha;Bad Habits (feat. Tion Wayne & Central Cee) [Fumez The Engineer Remix];0.726;0.818;11;-6.238;0;0.319;0.229;0;0.0544;0.679;140.042;222496;4
+4tWe3Fr8HrQPq2iFOpEGZs;spotify:track:4tWe3Fr8HrQPq2iFOpEGZs;a-ha;The Living Daylights;0.694;0.78;2;-7.872;0;0.0267;0.121;0.00157;0.114;0.829;120.266;254347;4
+6XcqxMI3oAkuEaZYgTl9gS;spotify:track:6XcqxMI3oAkuEaZYgTl9gS;a-ha;Hunting High and Low;0.6;0.672;9;-7.754;0;0.0269;0.0444;4.26e-06;0.107;0.297;117.014;224387;4
+465fRkrbGBTHGXinpWeF8O;spotify:track:465fRkrbGBTHGXinpWeF8O;a-ha;Do We Have A Problem?;0.84;0.528;1;-8.644;0;0.439;0.462;0.000396;0.117;0.498;120.057;207065;4
+6ZkBIzDPm46S5KfZs4oD2f;spotify:track:6ZkBIzDPm46S5KfZs4oD2f;a-ha;A-Ha;0.724;0.535;8;-5.968;1;0.0312;0.0326;0;0.38;0.548;102.001;226064;4
+1JykOWXrkQGNl1lIIy4aTL;spotify:track:1JykOWXrkQGNl1lIIy4aTL;a-ha;A Hand in the Dark - Live;0.298;0.235;0;-15.016;1;0.0398;0.866;0.979;0.112;0.0997;132.117;227840;4
+3U8UHbqKeR0jlkg8Qlwunr;spotify:track:3U8UHbqKeR0jlkg8Qlwunr;a-ha;Handbags And Gladrags;0.328;0.726;3;-3.935;1;0.0312;0.0286;0.000643;0.167;0.21;134.639;277387;4
+4tKT0LereKzzO1LkxJtRwV;spotify:track:4tKT0LereKzzO1LkxJtRwV;a-ha;A-HA;0.566;0.862;5;-4.45;0;0.163;0.00137;0.000293;0.122;0.864;110.927;264280;4
+2MWMRclZSo5EhA0TsN32Yk;spotify:track:2MWMRclZSo5EhA0TsN32Yk;a-ha;A Happy Beginning;0.465;0.604;0;-6.839;0;0.0486;0.669;0;0.152;0.175;75.744;171505;4
+4TTV7EcfroSLWzXRY6gLv6;spotify:track:4TTV7EcfroSLWzXRY6gLv6;a-ha;Alexander Hamilton;0.609;0.435;11;-7.861;0;0.285;0.522;0;0.118;0.552;131.995;236738;4
+1xtBkqVabTrlCteuQ7Z0LC;spotify:track:1xtBkqVabTrlCteuQ7Z0LC;a-ha;A-Ha;0.651;0.831;0;-4.963;1;0.0356;0.00304;0;0.262;0.565;119.959;212987;4
+6ytZECedDqFmfyuoRMnaJQ;spotify:track:6ytZECedDqFmfyuoRMnaJQ;a-ha;Have You Ever Heard A Love Song On Drill?;0.721;0.552;5;-5.532;1;0.301;0.36;0;0.267;0.544;143.11;245035;4
+2Ik8wcShEHwNWGwrGCC45p;spotify:track:2Ik8wcShEHwNWGwrGCC45p;a-ha;A-ha;0.589;0.714;5;-6.476;0;0.0427;0.355;0.0114;0.201;0.249;75.012;168500;4
+7htt7UuxHL5wneOcMWJP5E;spotify:track:7htt7UuxHL5wneOcMWJP5E;a-ha;Take On Me - MTV Unplugged;0.472;0.204;9;-13.419;1;0.0408;0.966;4.12e-05;0.69;0.296;129.504;253907;4
+4o6BgsqLIBViaGVbx5rbRk;spotify:track:4o6BgsqLIBViaGVbx5rbRk;a-ha;You Make My Dreams (Come True);0.751;0.501;5;-12.151;1;0.0551;0.234;0.112;0.0467;0.902;167.057;190627;4
+3rgGlNJHjw4UeGM03uAPB7;spotify:track:3rgGlNJHjw4UeGM03uAPB7;a-ha;A-ha;0.692;0.539;2;-8.971;0;0.0359;0.716;0.853;0.128;0.804;84.958;46665;4
+5GMaaILYpTiAo1SAhvvBKi;spotify:track:5GMaaILYpTiAo1SAhvvBKi;a-ha;A Hand For Mrs. Claus;0.644;0.573;5;-6.804;0;0.0859;0.482;0;0.311;0.802;111.895;149000;4
+7HeRc0FkeBvLxkV6xuq30P;spotify:track:7HeRc0FkeBvLxkV6xuq30P;a-ha;Do We Have A Problem? - Instrumental;0.862;0.315;1;-11.83;0;0.397;0.498;0.921;0.0987;0.279;119.961;207065;4
+2n6dOLlgsefs2iCf1daCgJ;spotify:track:2n6dOLlgsefs2iCf1daCgJ;a-ha;A-Ha;0.604;0.925;6;-2.067;1;0.141;0.00294;0.0216;0.115;0.67;175.072;226169;4
+2O1FP6A66cqXt4nj7qnmdJ;spotify:track:2O1FP6A66cqXt4nj7qnmdJ;a-ha;A Hard Rain's A-Gonna Fall;0.675;0.924;8;-6.932;1;0.0897;0.501;0.00485;0.13;0.874;125.352;319160;4
+4Ce37cRWvM1vIGGynKcs22;spotify:track:4Ce37cRWvM1vIGGynKcs22;a-ha;Starving;0.728;0.616;4;-4.238;1;0.0645;0.378;0;0.105;0.508;99.962;181880;4
+5G1sTBGbZT5o4PNRc75RKI;spotify:track:5G1sTBGbZT5o4PNRc75RKI;The Black Keys;Lonely Boy;0.356;0.872;2;-7.837;1;0.068;0.00417;0.00975;0.0997;0.607;166.3;193653;4
+2Rl7RvM8RNEyCj1bLidnaJ;spotify:track:2Rl7RvM8RNEyCj1bLidnaJ;The Black Keys;Backseat;0.428;0.848;0;-4.543;1;0.344;0.371;0.000105;0.193;0.203;83.556;211286;3
+5LCuFER5mMzL0fGNpClksf;spotify:track:5LCuFER5mMzL0fGNpClksf;The Black Keys;Sister;0.757;0.661;2;-5.908;1;0.0291;0.00191;5.77e-05;0.141;0.617;111.64;205187;4
+5lN1EH25gdiqT1SFALMAq1;spotify:track:5lN1EH25gdiqT1SFALMAq1;The Black Keys;Gold on the Ceiling;0.505;0.833;0;-4.632;1;0.0475;0.00772;7.9e-05;0.069;0.565;130.121;224333;4
+0BteLcimTI0usYZ2L2zQaZ;spotify:track:0BteLcimTI0usYZ2L2zQaZ;The Black Keys;Don’t Wanna Write This Song;0.507;0.452;2;-7.557;1;0.0377;0.19;0;0.0841;0.224;150.217;228640;4
+4yffABDkB5A9flvr9vQFck;spotify:track:4yffABDkB5A9flvr9vQFck;The Black Keys;Howlin' for You;0.725;0.747;11;-5.545;1;0.0876;0.0272;0.0468;0.104;0.38;132.921;191956;4
+7jmu6smJmTbwuos76ncNZ8;spotify:track:7jmu6smJmTbwuos76ncNZ8;The Black Keys;Black X White;0.658;0.599;6;-7.488;1;0.0367;0.124;0;0.124;0.485;75.01;186238;4
+1PXsUXSM3LF2XNSkmIldPb;spotify:track:1PXsUXSM3LF2XNSkmIldPb;The Black Keys;Little Black Submarines;0.365;0.466;2;-7.514;1;0.0418;0.161;6.68e-06;0.106;0.487;95.163;251267;4
+3C542UknrX76XSRXTyQ1Qg;spotify:track:3C542UknrX76XSRXTyQ1Qg;The Black Keys;Tighten Up;0.517;0.711;6;-5.84;0;0.0627;0.000763;7.15e-06;0.568;0.582;108.846;211336;4
+25YlltWXRb9k7KbrEBRuhJ;spotify:track:25YlltWXRb9k7KbrEBRuhJ;The Black Keys;Lo/Hi;0.606;0.679;2;-7.445;1;0.0321;0.0151;0.000433;0.0962;0.707;122.016;177768;4
+3Hx7RXqCS7Kzjy2ot2q1Gk;spotify:track:3Hx7RXqCS7Kzjy2ot2q1Gk;The Black Keys;Fever;0.609;0.674;9;-6.506;0;0.0355;0.00378;0.000302;0.129;0.743;127.541;246307;4
+0e6Thg8anqABDgI9g4Sqwp;spotify:track:0e6Thg8anqABDgI9g4Sqwp;The Black Keys;Black Keys;0.462;0.471;1;-6.517;1;0.026;0.0147;0;0.147;0.353;75.033;228467;4
+3xMQOd1C3TXsjQ3pmzOmkC;spotify:track:3xMQOd1C3TXsjQ3pmzOmkC;The Black Keys;Weight of Love;0.282;0.547;2;-8.621;1;0.0322;0.03;0.888;0.104;0.133;151.468;410187;4
+15rzB9pYy9vOrbI8Lo0iXG;spotify:track:15rzB9pYy9vOrbI8Lo0iXG;The Black Keys;Don’t Wanna Write This Song - The Acoustic Sessions;0.429;0.458;2;-6.163;1;0.0346;0.732;0;0.108;0.506;148.337;245947;4
+50ruR1ueH4wroJBpJOnjQS;spotify:track:50ruR1ueH4wroJBpJOnjQS;The Black Keys;Everlasting Light;0.77;0.64;4;-6.008;1;0.0416;0.0706;0.00374;0.325;0.738;90.7;205396;4
+5lJUXSjRjevVy7I3P87wuK;spotify:track:5lJUXSjRjevVy7I3P87wuK;The Black Keys;Your Touch;0.532;0.768;4;-8.698;0;0.0551;0.8;2.01e-05;0.377;0.698;116.026;162587;4
+6wDJfepTbKTD77PWL4lato;spotify:track:6wDJfepTbKTD77PWL4lato;The Black Keys;Backseat;0.428;0.848;0;-4.543;1;0.344;0.371;0.000105;0.193;0.203;83.556;211286;3
+3dOAXUx7I1qnzWzxdnsyB8;spotify:track:3dOAXUx7I1qnzWzxdnsyB8;The Black Keys;Lonely Boy;0.356;0.872;2;-7.837;1;0.068;0.00417;0.00975;0.0997;0.607;166.3;193653;4
+3330hwsEX0mH45tLpeMbOk;spotify:track:3330hwsEX0mH45tLpeMbOk;The Black Keys;12 Études, Op. 10: No. 5 in G-Flat Major "Black Keys" - Pt. 2;0.414;0.153;6;-24.18;1;0.0428;0.959;0.905;0.101;0.731;72.183;47360;3
+365TSrFPqM66giaxJuafR3;spotify:track:365TSrFPqM66giaxJuafR3;The Black Keys;Shine A Little Light;0.44;0.719;8;-6.645;0;0.0445;0.0217;5.09e-06;0.0663;0.523;111.398;196777;4
+3UD4sghkq8dHUwvKxln1nB;spotify:track:3UD4sghkq8dHUwvKxln1nB;The Black Keys;Dead and Gone;0.638;0.709;7;-5.464;0;0.039;0.00803;1.59e-06;0.335;0.913;143.984;221027;4
+6T1HM2y4KgdPHKTeHpuedV;spotify:track:6T1HM2y4KgdPHKTeHpuedV;The Black Keys;Organ Grinder;0.598;0.969;9;-5.082;1;0.052;0.00421;0.409;0.368;0.25;94.879;262640;4
+319zpJMCzpz50Uz0PsjlJN;spotify:track:319zpJMCzpz50Uz0PsjlJN;The Black Keys;I Got Mine;0.252;0.827;9;-6.336;1;0.0406;0.0292;0.508;0.173;0.475;157.725;239147;4
+5HgAZuHFAU5qLLMYuIQkgq;spotify:track:5HgAZuHFAU5qLLMYuIQkgq;The Black Keys;Run Right Back;0.511;0.766;2;-5.445;0;0.0473;0.03;0.00752;0.221;0.632;79.963;197000;4
+5h6etq1aoh4wUY7pRsSwst;spotify:track:5h6etq1aoh4wUY7pRsSwst;The Black Keys;Can't Tell Me Nothing - Remix feat. Young Jeezy;0.539;0.612;5;-6.701;0;0.0397;0.0105;0;0.613;0.0967;80.126;247547;4
+4Yk7nkmqitDCycO0Z0UsKe;spotify:track:4Yk7nkmqitDCycO0Z0UsKe;The Black Keys;Crawling Kingsnake;0.384;0.827;5;-5.727;0;0.035;0.0421;0.526;0.111;0.502;86.12;368702;4
+2Kl7l37sKdXequm0bXYt2X;spotify:track:2Kl7l37sKdXequm0bXYt2X;The Black Keys;She's Leaving Home;0.482;0.455;7;-9.565;1;0.026;0.619;5.21e-05;0.275;0.509;78.208;183133;4
+2GuXIMRlaxVLcU0a5jacHw;spotify:track:2GuXIMRlaxVLcU0a5jacHw;The Black Keys;Go;0.478;0.666;1;-7.766;1;0.0566;0.0428;0.725;0.336;0.718;149.974;146597;4
+3YZFMK3zwAGbCMZQGWY47J;spotify:track:3YZFMK3zwAGbCMZQGWY47J;The Black Keys;Poor Boy a Long Way From Home;0.404;0.924;11;-5.387;0;0.0701;0.00123;0.748;0.442;0.417;93.418;248511;4
+1pwWrPxonLIE12WWu9NzgU;spotify:track:1pwWrPxonLIE12WWu9NzgU;The Black Keys;Turn Blue;0.647;0.465;6;-10.272;0;0.0245;0.258;0.149;0.111;0.243;94.035;222960;4
+2mFnxVS2wZpqntPzZB17O1;spotify:track:2mFnxVS2wZpqntPzZB17O1;The Black Keys;Psychotic Girl;0.743;0.476;2;-8.599;0;0.0291;0.458;0.317;0.0691;0.493;80.998;250707;4
+7Dd1v8u05vTL3py8d1a5ZA;spotify:track:7Dd1v8u05vTL3py8d1a5ZA;The Black Keys;Eagle Birds;0.512;0.78;11;-4.946;0;0.0409;0.0471;0.0242;0.0856;0.609;93.998;160543;4
+7HuV3ALSphnI40QwKeddns;spotify:track:7HuV3ALSphnI40QwKeddns;The Black Keys;Soothing Baby Sleep Music;0.178;0.0286;6;-34.065;1;0.0343;0.951;0.922;0.0899;0.0378;76.39;86402;4
+3PeDt4Q8YIFDRph5UhxAaA;spotify:track:3PeDt4Q8YIFDRph5UhxAaA;The Black Keys;Going Down South;0.475;0.762;11;-7.452;0;0.0391;0.0018;0.0493;0.285;0.619;113.682;228973;4
+6x4YqB8PxY3wJy8bRqadhU;spotify:track:6x4YqB8PxY3wJy8bRqadhU;The Black Keys;Kiddie Grinder - Remix Version (Explicit);0.556;0.99;2;-3.167;1;0.107;1.55e-05;0.862;0.932;0.111;95.002;263467;4
+0zo4T5c5VV42554ySEc5J6;spotify:track:0zo4T5c5VV42554ySEc5J6;The Black Keys;Gotta Get Away;0.475;0.836;4;-5.446;1;0.0529;0.0175;0;0.104;0.723;123.144;180173;4
+5HPnumlogzZtpLEaORZjz1;spotify:track:5HPnumlogzZtpLEaORZjz1;The Black Keys;10 Lovers;0.606;0.638;3;-6.994;0;0.0339;0.0434;0.000247;0.0887;0.817;97.992;213227;4
+2h2yfR5vMhmdfohtDp2bc5;spotify:track:2h2yfR5vMhmdfohtDp2bc5;The Black Keys;Black Keys;0.311;0.855;10;-1.936;0;0.0558;0.000637;0.0845;0.139;0.251;148.504;220760;4
+1nIUgRxbi4aY4fV5A26Jrp;spotify:track:1nIUgRxbi4aY4fV5A26Jrp;The Black Keys;I'll Be Your Man;0.597;0.729;9;-3.35;1;0.0327;0.43;0.000281;0.167;0.712;120.086;140933;4
+4yWWuAW3bywNtneUa4L6YJ;spotify:track:4yWWuAW3bywNtneUa4L6YJ;The Black Keys;Next Girl;0.531;0.793;1;-5.655;0;0.0306;0.0116;5.69e-05;0.113;0.228;87.001;197971;4
+0vblqF5R4FyCAVBasjLGdu;spotify:track:0vblqF5R4FyCAVBasjLGdu;The Black Keys;Meet Me in the City;0.482;0.754;9;-5.486;1;0.0538;0.579;0.227;0.11;0.301;121.418;218467;4
+65PE3GVXjkiQOTM7V7NbfY;spotify:track:65PE3GVXjkiQOTM7V7NbfY;The Black Keys;The Only One;0.417;0.704;1;-6.041;0;0.0365;0.514;0.0455;0.228;0.688;105.211;300611;4
+7nl6fbpRrLAED8KR2pUgTp;spotify:track:7nl6fbpRrLAED8KR2pUgTp;The Black Keys;The Lengths;0.404;0.508;8;-5.893;0;0.0265;0.952;0.000807;0.164;0.278;143.911;294933;4
+34qq4XQm7yGyV09JKgBGnY;spotify:track:34qq4XQm7yGyV09JKgBGnY;The Black Keys;The Black Keys Work (DJ-KiCKS);0.802;0.819;11;-10.763;1;0.0449;0.0172;0.82;0.0602;0.94;128.022;366093;4
+52KT9rZ08EwZM80YJIbxFq;spotify:track:52KT9rZ08EwZM80YJIbxFq;The Black Keys;Sinister Kid;0.744;0.871;9;-5.411;1;0.0968;0.0985;0.113;0.271;0.874;139.661;224382;4
+4AaPXm5NKGEwGdOJzuPnrL;spotify:track:4AaPXm5NKGEwGdOJzuPnrL;The Black Keys;She's Long Gone;0.346;0.899;11;-4.808;0;0.162;0.0153;0.0152;0.174;0.427;166.676;186001;4
+0nGDEShPmfRvpzGE79tetY;spotify:track:0nGDEShPmfRvpzGE79tetY;The Black Keys;Destroyer;0.36;0.915;7;-3.271;1;0.111;0.000634;0.00012;0.406;0.371;130.343;213132;3
+0MFhktFmyXF3rO1pNeNGDN;spotify:track:0MFhktFmyXF3rO1pNeNGDN;The Black Keys;Black X White - Arc North Remix;0.362;0.793;8;-6.973;0;0.371;0.0954;0;0.279;0.254;149.788;168004;4
+17WB9HWP2bgPkYPoMDqhHZ;spotify:track:17WB9HWP2bgPkYPoMDqhHZ;The Black Keys;Pussy Appreciation Day;0.463;0.682;10;-4.648;1;0.0974;0.236;0;0.3;0.48;119.501;243507;3
+7bXGQ5wTjtzKTlJKAmq2wR;spotify:track:7bXGQ5wTjtzKTlJKAmq2wR;The Black Keys;Don’t Wanna Write This Song;0.507;0.452;2;-7.557;1;0.0377;0.19;0;0.0841;0.224;150.217;228640;4
+2cGxRwrMyEAp8dEbuZaVv6;spotify:track:2cGxRwrMyEAp8dEbuZaVv6;Julian Casablancas;Instant Crush (feat. Julian Casablancas);0.775;0.585;10;-9.516;0;0.0271;0.0422;0.619;0.077;0.518;109.942;337560;4
+1ZwQZ0uasFP54ivamFLLhP;spotify:track:1ZwQZ0uasFP54ivamFLLhP;Julian Casablancas;11th Dimension;0.573;0.932;9;-2.862;1;0.0488;0.00152;0.0151;0.0643;0.376;125.486;245533;4
+31u6rUeIEXGrYVoh10U7eu;spotify:track:31u6rUeIEXGrYVoh10U7eu;Julian Casablancas;Leave It In My Dreams;0.6;0.746;4;-4.696;0;0.0355;0.0226;0.0119;0.109;0.614;118.551;239442;4
+4STVGbDlTVthOk76jRWAnH;spotify:track:4STVGbDlTVthOk76jRWAnH;Julian Casablancas;I Wish It Was Christmas Today;0.286;0.947;3;-4.561;1;0.0646;0.000626;0.369;0.063;0.3;167.564;191680;4
+0EvSy0XrbY1RHswHv5maqy;spotify:track:0EvSy0XrbY1RHswHv5maqy;Julian Casablancas;Boombox;0.52;0.795;1;-3.452;1;0.345;0.177;0;0.107;0.394;67.875;193013;4
+0Ih55K62jZIbeTysGHJkW0;spotify:track:0Ih55K62jZIbeTysGHJkW0;Julian Casablancas;Little Girl (feat. Julian Casablancas);0.54;0.912;1;-5.678;1;0.0376;0.000108;0.00298;0.134;0.839;146.033;272933;4
+03ZbvOZPslTvSNUUtnmfHu;spotify:track:03ZbvOZPslTvSNUUtnmfHu;Julian Casablancas;Out of the Blue;0.451;0.888;8;-2.801;1;0.0402;0.000249;0.929;0.0558;0.608;111.647;283200;4
+4WFcerMZkAIcIizZYXNNrb;spotify:track:4WFcerMZkAIcIizZYXNNrb;Julian Casablancas;Pink Ocean;0.594;0.889;2;-3.701;1;0.0407;0.343;0.599;0.385;0.646;96.986;326707;4
+4JLw0L7XJ1C14r7dZ1dyev;spotify:track:4JLw0L7XJ1C14r7dZ1dyev;Julian Casablancas;No One There;0.692;0.746;8;-4.874;1;0.0408;0.0159;0.00134;0.109;0.942;125.012;249502;4
+3YB9cvd668HXBEq8rbBW8P;spotify:track:3YB9cvd668HXBEq8rbBW8P;Julian Casablancas;Human Sadness;0.231;0.752;0;-4.744;1;0.046;0.231;0.781;0.113;0.115;122.901;656901;4
+0hmxVkpxbcdHAXUoZ7DeCQ;spotify:track:0hmxVkpxbcdHAXUoZ7DeCQ;Julian Casablancas;Did My Best;0.533;0.794;1;-4.687;0;0.0371;0.154;0.888;0.106;0.623;120.207;296939;4
+47Fp9HBOUEeTqPvy08a865;spotify:track:47Fp9HBOUEeTqPvy08a865;Julian Casablancas;Boy/Girl;0.345;0.934;9;-4.0;1;0.0697;1.04e-05;0.251;0.907;0.298;136.333;161593;4
+4S5T3NPeWSPqgb3ElxL8MN;spotify:track:4S5T3NPeWSPqgb3ElxL8MN;Julian Casablancas;Alien Crime Lord;0.521;0.916;2;-6.231;0;0.05;0.0435;0.888;0.276;0.203;105.037;265489;4
+5Uv745RQ6uXics2lpvypZy;spotify:track:5Uv745RQ6uXics2lpvypZy;Julian Casablancas;No One There (feat. Julian Casablancas);0.692;0.746;8;-4.874;1;0.0407;0.0159;0.00135;0.109;0.942;125.015;249502;4
+4Ee6ZsyVepVsvObgYwzgH1;spotify:track:4Ee6ZsyVepVsvObgYwzgH1;Julian Casablancas;Permanent High School;0.534;0.827;7;-2.932;1;0.0987;0.0121;0.0621;0.117;0.649;123.952;253827;4
+27mtEHKWjpvCWYz1XUXge5;spotify:track:27mtEHKWjpvCWYz1XUXge5;Julian Casablancas;Coul as a Ghoul;0.28;0.994;1;-0.283;1;0.36;0.000552;0.108;0.0834;0.659;194.252;161210;4
+1kQ49uLi5h135LIfjQjnN1;spotify:track:1kQ49uLi5h135LIfjQjnN1;Julian Casablancas;Rave On;0.436;0.95;2;-4.834;1;0.068;0.22;0.00233;0.0677;0.781;156.132;118600;4
+0tfvDUmADEEEqrPcRJNT29;spotify:track:0tfvDUmADEEEqrPcRJNT29;Julian Casablancas;Pyramid of Bones;0.376;0.944;4;-3.688;0;0.11;0.000354;0.122;0.11;0.529;140.432;268133;4
+4ToqLTAjiYWIyLh6RjCWqL;spotify:track:4ToqLTAjiYWIyLh6RjCWqL;Julian Casablancas;Petit Metier - Cult Version by Julian Casablancas;0.481;0.79;7;-6.257;1;0.0418;0.426;0.4;0.249;0.329;105.225;205581;4
+25FYpwvSt61i16hs8qvoqe;spotify:track:25FYpwvSt61i16hs8qvoqe;Julian Casablancas;Where No Eagles Fly;0.357;0.975;11;-2.419;0;0.21;0.0281;0.000196;0.117;0.438;155.127;224105;4
+6pMRk6Tr05wmZSSINOqzE3;spotify:track:6pMRk6Tr05wmZSSINOqzE3;Julian Casablancas;QYURRYUS;0.637;0.869;1;-3.835;1;0.108;0.159;0.573;0.0832;0.604;103.892;172774;4
+7zpHInsypgrnY9zTeCXtI4;spotify:track:7zpHInsypgrnY9zTeCXtI4;Julian Casablancas;ALieNNatioN;0.612;0.823;5;-5.144;0;0.0344;0.211;0.032;0.105;0.449;92.957;279840;4
+6VFaZ3zgXaRbc79GRqhbBz;spotify:track:6VFaZ3zgXaRbc79GRqhbBz;Julian Casablancas;Wink;0.561;0.79;7;-4.817;1;0.0385;0.171;0;0.291;0.552;110.016;240133;4
+1dxKI3HPHQjnxBCOj6O7FB;spotify:track:1dxKI3HPHQjnxBCOj6O7FB;Julian Casablancas;Left & Right in the Dark;0.485;0.952;0;-3.054;0;0.0442;0.00878;0.513;0.126;0.746;146.374;298880;4
+5xXkyBtG1sNIhkpCIxF0Il;spotify:track:5xXkyBtG1sNIhkpCIxF0Il;Julian Casablancas;Lazy Boy;0.621;0.847;8;-4.467;1;0.0298;0.196;0.00332;0.136;0.64;101.032;211000;4
+1WLqzoKgwFax8UnLPHfhzA;spotify:track:1WLqzoKgwFax8UnLPHfhzA;Julian Casablancas;The Eternal Tao 2.0;0.481;0.778;8;-4.022;1;0.0973;0.00634;1.1e-05;0.0906;0.438;135.448;326613;4
+666G9IKVtzqtEI8UycG9CA;spotify:track:666G9IKVtzqtEI8UycG9CA;Julian Casablancas;4 Chords of the Apocalypse;0.307;0.672;5;-3.778;1;0.0344;0.00334;0.00307;0.148;0.272;159.992;302467;3
+2Q7QUy1t3wHhoUWA7v9aYH;spotify:track:2Q7QUy1t3wHhoUWA7v9aYH;Julian Casablancas;All Wordz Are Made Up;0.69;0.972;1;-3.396;0;0.0539;0.00179;0.412;0.0935;0.744;111.985;199320;4
+5TwoxEjXr16mhIPGR7oZTc;spotify:track:5TwoxEjXr16mhIPGR7oZTc;Julian Casablancas;Tourist;0.373;0.863;6;-2.872;0;0.0356;0.00371;0.152;0.186;0.654;148.824;302947;4
+1NGodWzGlxxkOrgqHO6g3K;spotify:track:1NGodWzGlxxkOrgqHO6g3K;Julian Casablancas;The Eternal Tao;0.703;0.79;8;-4.212;1;0.0807;0.0115;9.59e-06;0.352;0.635;135.362;223633;4
+1OMyVgjCj8fHdwNZMt28eN;spotify:track:1OMyVgjCj8fHdwNZMt28eN;Julian Casablancas;Pointlessness;0.262;0.631;6;-5.781;0;0.0394;0.128;0.102;0.0829;0.0516;130.104;315427;4
+4nVOB6SE1RxldJIzIEEsk0;spotify:track:4nVOB6SE1RxldJIzIEEsk0;Julian Casablancas;One of the Ones;0.43;0.828;0;-2.544;1;0.0432;0.0011;0.00513;0.19;0.455;111.02;158320;4
+31F8CR6uVIwO7pvftBnF2Y;spotify:track:31F8CR6uVIwO7pvftBnF2Y;Julian Casablancas;Glass;0.26;0.744;10;-3.531;1;0.0441;0.0212;0.611;0.187;0.169;200.205;324653;4
+62JrUht3IRKy4OovuZXfNS;spotify:track:62JrUht3IRKy4OovuZXfNS;Julian Casablancas;My Friend The Walls;0.232;0.974;7;-2.963;0;0.159;0.118;0.00113;0.196;0.262;90.676;242853;4
+7gwuLmdWVfHi35OU07U60N;spotify:track:7gwuLmdWVfHi35OU07U60N;Julian Casablancas;Think Before You Drink;0.418;0.448;0;-4.503;1;0.0363;0.805;0.896;0.12;0.403;115.105;166933;4
+5u2K9LQijJl7FRgPXBBGhk;spotify:track:5u2K9LQijJl7FRgPXBBGhk;Julian Casablancas;River of Brakelights;0.378;0.938;6;-2.186;1;0.0996;0.00142;0.0121;0.0766;0.402;154.049;313107;4
+3QFwqMCEkE5ZItQhMksIbB;spotify:track:3QFwqMCEkE5ZItQhMksIbB;Julian Casablancas;Dare I Care;0.233;0.924;11;-5.304;0;0.111;0.0291;0.075;0.182;0.295;106.913;385228;4
+709TS0mvoyISKvljXUBcnD;spotify:track:709TS0mvoyISKvljXUBcnD;Julian Casablancas;We're Where We Were;0.516;0.931;6;-4.014;0;0.0743;0.00177;0.693;0.0884;0.295;163.994;226373;4
+0zjJCu74zK2nPlmM4Cgz3A;spotify:track:0zjJCu74zK2nPlmM4Cgz3A;Julian Casablancas;Crunch Punch;0.368;0.916;1;-4.116;1;0.122;0.0745;1.68e-05;0.152;0.3;137.143;290638;4
+2Fqc3RHu9wA1mBhKLgejWp;spotify:track:2Fqc3RHu9wA1mBhKLgejWp;Julian Casablancas;Take Me in Your Army;0.596;0.901;3;-6.16;0;0.0359;0.333;0.608;0.141;0.391;105.28;260937;4
+2Vh1sY6rg8JQPk7DyHLskI;spotify:track:2Vh1sY6rg8JQPk7DyHLskI;Julian Casablancas;Ludlow St.;0.395;0.761;4;-4.619;1;0.0491;0.0471;0.0246;0.115;0.447;187.079;345133;3
+05ABdiQ8D9XLD5w431Hu4y;spotify:track:05ABdiQ8D9XLD5w431Hu4y;Julian Casablancas;Black Hole;0.194;0.971;9;-1.742;1;0.197;0.000694;0.00362;0.705;0.286;144.413;195000;4
+739wgqW608GZoyfLHFLsPy;spotify:track:739wgqW608GZoyfLHFLsPy;Julian Casablancas;Leave It In My Dreams;0.6;0.746;4;-4.696;0;0.0355;0.0226;0.0119;0.109;0.614;118.551;239442;4
+1VeHgjA3KTfiMYM4pL1nXX;spotify:track:1VeHgjA3KTfiMYM4pL1nXX;Julian Casablancas;Father Electricity;0.44;0.942;2;-5.046;1;0.175;0.124;0.554;0.331;0.228;130.446;443794;4
+13KXeGtc1zYLzvPj3CgLcy;spotify:track:13KXeGtc1zYLzvPj3CgLcy;Julian Casablancas;Nintendo Blood;0.436;0.97;0;-3.1;1;0.108;0.0252;0.00519;0.149;0.402;105.888;354926;4
+7CXtkAuTbzAUcWDCStJcnN;spotify:track:7CXtkAuTbzAUcWDCStJcnN;Julian Casablancas;Human Sadness;0.231;0.752;0;-4.744;1;0.046;0.231;0.781;0.113;0.115;122.901;656901;4
+3dWaDHwsvudH9vywNjVUVf;spotify:track:3dWaDHwsvudH9vywNjVUVf;Julian Casablancas;Johan Von Bronx;0.246;0.9;2;-4.292;1;0.0667;0.00379;0.0019;0.147;0.136;146.914;361064;4
+6hyDONyubATZ5eimv7ll62;spotify:track:6hyDONyubATZ5eimv7ll62;Julian Casablancas;Business Dog;0.279;0.92;4;-4.26;1;0.0634;0.0614;0.946;0.368;0.38;93.067;155298;4
+3znlqkw0V8tdXDhsCQcjIo;spotify:track:3znlqkw0V8tdXDhsCQcjIo;Julian Casablancas;M.utually A.ssured D.estruction;0.2;0.962;7;-3.87;1;0.0676;0.0065;0.779;0.129;0.128;131.887;152816;4
+0EH07hS7lnqoNnRet0g2oJ;spotify:track:0EH07hS7lnqoNnRet0g2oJ;Julian Casablancas;Xerox;0.36;0.871;10;-4.948;0;0.0422;0.0108;0.052;0.124;0.736;88.079;305293;4
+5ruzrDWcT0vuJIOMW7gMnW;spotify:track:5ruzrDWcT0vuJIOMW7gMnW;The Strokes;The Adults Are Talking;0.593;0.749;5;-5.67;1;0.0475;0.0113;0.106;0.314;0.649;164.959;309053;4
+3jjQHULAVn71k40mKwGMiV;spotify:track:3jjQHULAVn71k40mKwGMiV;The Strokes;Juicebox;0.462;0.981;2;-2.371;0;0.127;0.00166;0.00894;0.0856;0.547;154.995;194573;4
+7kzKAuUzOITUauHAhoMoxA;spotify:track:7kzKAuUzOITUauHAhoMoxA;The Strokes;Last Nite;0.624;0.91;0;-5.703;1;0.0297;0.0285;0.000198;0.0789;0.767;104.042;193051;4
+57Xjny5yNzAcsxnusKmAfA;spotify:track:57Xjny5yNzAcsxnusKmAfA;The Strokes;Reptilia;0.489;0.649;9;-5.11;1;0.0336;0.000603;0.713;0.101;0.77;158.009;219827;4
+4fPBB44eDH71YohayI4eKV;spotify:track:4fPBB44eDH71YohayI4eKV;The Strokes;You Only Live Once;0.63;0.908;11;-2.42;1;0.0326;0.0238;0.592;0.116;0.968;120.522;189227;4
+56NkIxSZZiMpFP5ZNSxtnT;spotify:track:56NkIxSZZiMpFP5ZNSxtnT;The Strokes;Someday;0.542;0.531;9;-7.481;1;0.0301;0.0033;1.51e-06;0.338;0.671;105.97;183391;4
+2moifOsda5B1NR0A72HTuK;spotify:track:2moifOsda5B1NR0A72HTuK;The Strokes;Reptilia;0.485;0.645;9;-5.108;1;0.0331;0.000578;0.752;0.0916;0.789;158.069;221600;4
+3Y4rUyw7XBCK6hGHCOt6rp;spotify:track:3Y4rUyw7XBCK6hGHCOt6rp;The Strokes;Call It Fate, Call It Karma;0.544;0.241;4;-14.779;0;0.03;0.983;0.774;0.101;0.359;109.437;204773;4
+2t0wwvR15fc3K1ey8OiOaN;spotify:track:2t0wwvR15fc3K1ey8OiOaN;The Strokes;Selfless;0.538;0.679;4;-4.297;1;0.0333;0.191;0.00175;0.0889;0.0888;121.99;222093;4
+6u0x5ad9ewHvs3z6u9Oe3c;spotify:track:6u0x5ad9ewHvs3z6u9Oe3c;The Strokes;Under Cover of Darkness;0.35;0.775;11;-3.364;1;0.054;0.00433;0.283;0.0676;0.588;199.866;235547;4
+0UOmQmLTo7UAr0LG82ZzTg;spotify:track:0UOmQmLTo7UAr0LG82ZzTg;The Strokes;You Only Live Once;0.626;0.919;11;-2.845;1;0.0358;0.032;0.567;0.11;0.97;120.523;189800;4
+2LMloFiV7DHpBhITOaBSam;spotify:track:2LMloFiV7DHpBhITOaBSam;The Strokes;Hard To Explain;0.406;0.682;7;-6.281;1;0.0584;0.000413;0.849;0.0999;0.623;82.495;223980;4
+6mVD1SfTvlFAPVi7txFL5H;spotify:track:6mVD1SfTvlFAPVi7txFL5H;The Strokes;Machu Picchu;0.695;0.817;1;-5.294;1;0.0659;0.0132;0.097;0.0601;0.874;105.014;209627;4
+55N8cxpE1QDoeaaNqUnoZ2;spotify:track:55N8cxpE1QDoeaaNqUnoZ2;The Strokes;Bad Decisions;0.374;0.922;0;-3.4;1;0.056;0.0135;0.204;0.28;0.393;153.217;293360;4
+1aOxOpH4AkGAd8OMrKjyNY;spotify:track:1aOxOpH4AkGAd8OMrKjyNY;The Strokes;Why Are Sundays So Depressing;0.579;0.714;0;-4.455;1;0.0347;0.00258;0.0269;0.111;0.299;109.971;275667;4
+1BLOVHYYlH4JUHQGcpt75R;spotify:track:1BLOVHYYlH4JUHQGcpt75R;The Strokes;Ode To The Mets;0.426;0.617;1;-5.423;0;0.0289;0.341;0.181;0.101;0.201;92.002;351787;4
+2mDYYGaGd9uXKkK2YhDA3i;spotify:track:2mDYYGaGd9uXKkK2YhDA3i;The Strokes;Brooklyn Bridge To Chorus;0.628;0.571;0;-3.897;1;0.0628;0.00602;9.21e-05;0.0833;0.467;119.899;235947;4
+2xWuvbf4IRYwpBrdHghTvs;spotify:track:2xWuvbf4IRYwpBrdHghTvs;The Strokes;Last Nite;0.618;0.903;0;-5.691;1;0.0298;0.0213;0.000305;0.086;0.769;103.959;197533;4
+2pAD0PKMUMtxlMvz33tYzB;spotify:track:2pAD0PKMUMtxlMvz33tYzB;The Strokes;Is This It;0.664;0.679;5;-8.293;1;0.03;0.149;4.84e-05;0.347;0.804;96.002;150651;4
+6Yu1OL8I0D4vjOzYdsXYGK;spotify:track:6Yu1OL8I0D4vjOzYdsXYGK;The Strokes;12:51;0.451;0.889;4;-3.838;1;0.0379;0.312;0.8;0.558;0.592;145.056;153133;4
+6IRzBP4gVoV4D2zHmocoWy;spotify:track:6IRzBP4gVoV4D2zHmocoWy;The Strokes;Eternal Summer;0.617;0.78;7;-4.466;0;0.0376;0.0141;0.0112;0.0833;0.326;93.951;375320;4
+1EsgUWQsxGBwnu3NATDjiU;spotify:track:1EsgUWQsxGBwnu3NATDjiU;The Strokes;The Modern Age;0.53;0.89;2;-6.042;1;0.0328;0.0124;0.759;0.143;0.868;145.958;207679;4
+7lu6YLrlB1MU7HW8DJSuPa;spotify:track:7lu6YLrlB1MU7HW8DJSuPa;The Strokes;At The Door;0.456;0.323;10;-6.764;1;0.0318;0.858;0.00913;0.146;0.363;116.903;310373;4
+7bfocP7GYoLOutUYpTI8tx;spotify:track:7bfocP7GYoLOutUYpTI8tx;The Strokes;Welcome To Japan;0.705;0.666;2;-7.23;0;0.0303;0.00233;0.0149;0.174;0.646;124.032;230827;4
+4KC2Z9dL4jL61Ys35N6srg;spotify:track:4KC2Z9dL4jL61Ys35N6srg;The Strokes;Barely Legal;0.427;0.886;0;-6.304;1;0.037;0.004;0.0532;0.0909;0.857;157.609;234522;4
+78Gzxi27GuNHTfkn2BylG4;spotify:track:78Gzxi27GuNHTfkn2BylG4;The Strokes;What Ever Happened?;0.547;0.596;11;-6.044;1;0.0339;8.02e-05;0.739;0.273;0.584;116.17;169507;4
+6DUKQUhWqUySYngLXLNwP2;spotify:track:6DUKQUhWqUySYngLXLNwP2;The Strokes;Automatic Stop;0.675;0.535;1;-6.109;1;0.0376;0.00329;0.719;0.104;0.914;105.921;207133;4
+1sufemUrp56GbKAPVxU8iZ;spotify:track:1sufemUrp56GbKAPVxU8iZ;The Strokes;Someday;0.545;0.531;9;-7.461;1;0.0302;0.00332;1.15e-06;0.168;0.691;105.986;187133;4
+37ZgsOy8t4vMnGtMExr6ah;spotify:track:37ZgsOy8t4vMnGtMExr6ah;The Strokes;Threat of Joy;0.59;0.704;0;-7.058;1;0.0284;0.223;0.0825;0.103;0.691;137.968;264725;4
+5ncofiedz9Ej6YkvvXMKVn;spotify:track:5ncofiedz9Ej6YkvvXMKVn;The Strokes;Not The Same Anymore;0.353;0.613;9;-5.9;1;0.031;0.384;0.0123;0.103;0.282;177.375;337333;4
+3mYCd23hPxJW5okSvMoy3x;spotify:track:3mYCd23hPxJW5okSvMoy3x;The Strokes;Heart In a Cage;0.418;0.857;8;-5.133;1;0.0404;2.73e-06;0.805;0.368;0.12;140.02;206173;4
+6SdAztAqklk1zAmUHhU4N7;spotify:track:6SdAztAqklk1zAmUHhU4N7;The Strokes;Taken for a Fool;0.569;0.89;5;-4.447;1;0.0559;0.00595;0.0112;0.226;0.885;137.044;203240;4
+0J2OnBNKwt0KICDyDFPUvl;spotify:track:0J2OnBNKwt0KICDyDFPUvl;The Strokes;Take It Or Leave It;0.429;0.924;2;-6.131;0;0.0406;0.000542;0.353;0.104;0.484;154.104;195233;4
+5GKVcvTgnFYtfh25qKQtRg;spotify:track:5GKVcvTgnFYtfh25qKQtRg;The Strokes;One Way Trigger;0.516;0.942;2;-4.113;1;0.036;0.000182;0.464;0.116;0.964;95.996;242293;4
+7G8hUONVhvJnkD3Ak8mNF1;spotify:track:7G8hUONVhvJnkD3Ak8mNF1;The Strokes;Soma;0.501;0.715;0;-7.382;1;0.0301;0.0774;0.00603;0.0653;0.502;148.971;153809;4
+0dy6iXYIF0piirySAzCBwF;spotify:track:0dy6iXYIF0piirySAzCBwF;The Strokes;The End Has No End;0.531;0.66;1;-3.725;1;0.0335;0.000833;0.855;0.226;0.533;136.027;185560;4
+6uzUiybCLM0jYozLSvQZBo;spotify:track:6uzUiybCLM0jYozLSvQZBo;The Strokes;The Modern Age;0.53;0.892;2;-6.052;1;0.0337;0.012;0.793;0.0984;0.851;145.964;212800;4
+7xuu4ByQkm8qhnwJQk994r;spotify:track:7xuu4ByQkm8qhnwJQk994r;The Strokes;New York City Cops;0.522;0.853;0;-7.66;1;0.0362;0.071;2.82e-05;0.343;0.455;107.943;210559;4
+4SXwU2F1jedDprZXQ8qvua;spotify:track:4SXwU2F1jedDprZXQ8qvua;The Strokes;Hard To Explain;0.406;0.688;7;-6.29;1;0.0583;0.000386;0.788;0.0374;0.651;82.519;227733;4
+4pXyK9GW7fuT645U0DLYYF;spotify:track:4pXyK9GW7fuT645U0DLYYF;The Strokes;Alone, Together;0.511;0.855;7;-5.752;1;0.0307;0.00782;0.89;0.0694;0.962;142.985;188314;4
+3kKb3U3a8jmUJQB9ypE1Jl;spotify:track:3kKb3U3a8jmUJQB9ypE1Jl;The Strokes;Under Control;0.406;0.72;1;-4.647;1;0.0291;0.354;0.795;0.0541;0.641;91.336;187307;4
+37cb7mzkQKksGm0noGDXeh;spotify:track:37cb7mzkQKksGm0noGDXeh;The Strokes;Trying Your Luck;0.502;0.691;9;-9.453;0;0.0311;0.00911;0.0149;0.133;0.629;143.926;202617;4
+4ileLT7ldd2uX8bMemWqbm;spotify:track:4ileLT7ldd2uX8bMemWqbm;The Strokes;Life Is Simple in the Moonlight;0.515;0.696;6;-5.857;0;0.0313;0.0126;0.000345;0.0916;0.513;134.893;255240;4
+2YviO36G8Q4PRxanXO8HbG;spotify:track:2YviO36G8Q4PRxanXO8HbG;The Strokes;I'll Try Anything Once;0.467;0.266;0;-9.959;1;0.0522;0.985;0.0278;0.154;0.328;119.417;195800;4
+4UF1eupXP9Zz5GpYepyOxI;spotify:track:4UF1eupXP9Zz5GpYepyOxI;The Strokes;Razorblade;0.394;0.859;9;-3.851;1;0.0409;0.00201;0.233;0.1;0.511;136.075;208133;5
+6wwsF6XfsQRFKBfWhlfNaC;spotify:track:6wwsF6XfsQRFKBfWhlfNaC;The Strokes;Call It Fate, Call It Karma;0.542;0.229;4;-14.872;0;0.0297;0.984;0.815;0.102;0.39;109.525;204752;4
+3vgOkas220yzpJRRjheRoM;spotify:track:3vgOkas220yzpJRRjheRoM;The Strokes;Is This It;0.667;0.663;5;-8.316;1;0.0295;0.173;3.09e-05;0.365;0.814;96.006;155360;4
+08l9WKDuRyGeStQ9ojTlFh;spotify:track:08l9WKDuRyGeStQ9ojTlFh;The Strokes;Meet Me in the Bathroom;0.427;0.941;7;-3.973;1;0.0336;6.7e-05;0.89;0.0772;0.587;139.956;176160;4
+2ThdB23G9Rgf1ExndFGEEg;spotify:track:2ThdB23G9Rgf1ExndFGEEg;The Strokes;Tap Out;0.737;0.745;9;-5.944;1;0.0351;0.0176;0.381;0.306;0.629;115.989;222360;4
+6y4ySPeb68KGoAi1dk130F;spotify:track:6y4ySPeb68KGoAi1dk130F;The Strokes;Oblivius;0.468;0.888;8;-4.463;1;0.0517;0.0957;0.648;0.151;0.432;102.959;299233;4
+6dGnYIeXmHdcikdzNNDMm2;spotify:track:6dGnYIeXmHdcikdzNNDMm2;The Beatles;Here Comes The Sun - Remastered 2009;0.557;0.54;9;-10.484;1;0.0347;0.0339;0.00248;0.179;0.394;129.171;185733;4
+7nBGBbzfnPiowCvXKJnV9J;spotify:track:7nBGBbzfnPiowCvXKJnV9J;The Beatles;From Me To You - Remastered 2009;0.644;0.66;7;-8.513;1;0.0309;0.613;0;0.269;0.966;136.125;117107;4
+2EqlS6tkEnglzr7tkKAAYD;spotify:track:2EqlS6tkEnglzr7tkKAAYD;The Beatles;Come Together - Remastered 2009;0.533;0.376;9;-11.913;0;0.0393;0.0302;0.248;0.0926;0.187;165.007;259947;4
+1h04XMpzGzmAudoI6VHBgA;spotify:track:1h04XMpzGzmAudoI6VHBgA;The Beatles;Penny Lane - Remastered 2009;0.651;0.488;9;-8.22;1;0.0316;0.212;0.026;0.136;0.49;113.038;180893;4
+7iN1s7xHE4ifF5povM6A48;spotify:track:7iN1s7xHE4ifF5povM6A48;The Beatles;Let It Be - Remastered 2009;0.443;0.403;0;-8.339;1;0.0322;0.631;0;0.111;0.41;143.462;243027;4
+3pKKxkeB1pOUMHwWBmKc3Y;spotify:track:3pKKxkeB1pOUMHwWBmKc3Y;The Beatles;Fixing A Hole - Remastered 2009;0.469;0.507;0;-8.917;0;0.0451;0.382;0;0.0783;0.619;112.984;156827;4
+3BQHpFgAp4l80e1XslIjNI;spotify:track:3BQHpFgAp4l80e1XslIjNI;The Beatles;Yesterday - Remastered 2009;0.332;0.179;5;-11.83;1;0.0326;0.879;0;0.0886;0.315;96.529;125667;4
+3e1w0Wm0sH8nUYPArDkBG3;spotify:track:3e1w0Wm0sH8nUYPArDkBG3;The Beatles;Octopus's Garden - 2019 Mix;0.565;0.645;1;-6.194;0;0.0332;0.113;0.000625;0.124;0.626;92.253;170800;4
+5ZBeML7Lf3FMEVviTyvi8l;spotify:track:5ZBeML7Lf3FMEVviTyvi8l;The Beatles;Twist And Shout - Remastered 2009;0.482;0.849;2;-9.198;1;0.0452;0.641;7.74e-06;0.0414;0.937;124.631;155227;4
+30mtYbPSp8uVYHwhOT07Ai;spotify:track:30mtYbPSp8uVYHwhOT07Ai;The Beatles;The Beatles Medley;0.674;0.279;11;-12.113;1;0.0383;0.45;0;0.114;0.502;111.996;419507;4
+0aym2LBJBk9DAYuHHutrIl;spotify:track:0aym2LBJBk9DAYuHHutrIl;The Beatles;Hey Jude - Remastered 2015;0.386;0.607;10;-7.7;1;0.0261;0.0112;1.38e-05;0.088;0.532;147.207;425653;4
+5jgFfDIR6FR0gvlA56Nakr;spotify:track:5jgFfDIR6FR0gvlA56Nakr;The Beatles;Blackbird - Remastered 2009;0.686;0.127;7;-14.361;1;0.0342;0.754;1.41e-05;0.0573;0.372;93.699;138387;4
+3KfbEIOC7YIv90FIfNSZpo;spotify:track:3KfbEIOC7YIv90FIfNSZpo;The Beatles;In My Life - Remastered 2009;0.688;0.435;9;-11.359;1;0.0323;0.449;0;0.113;0.435;103.239;146333;4
+0pNeVovbiZHkulpGeOx1Gj;spotify:track:0pNeVovbiZHkulpGeOx1Gj;The Beatles;Something - Remastered 2009;0.396;0.338;0;-10.872;1;0.0304;0.198;2.62e-06;0.138;0.377;133.522;182293;4
+7DD7eSuYSC5xk2ArU62esN;spotify:track:7DD7eSuYSC5xk2ArU62esN;The Beatles;Help! - Remastered 2009;0.534;0.725;6;-7.576;0;0.0332;0.188;0;0.0994;0.763;95.003;139560;4
+4pbG9SUmWIvsROVLF0zF9s;spotify:track:4pbG9SUmWIvsROVLF0zF9s;The Beatles;I Want To Hold Your Hand - Remastered 2015;0.49;0.715;7;-5.549;1;0.0476;0.386;0;0.311;0.866;130.726;145747;4
+5GjPQ0eI7AgmOnADn1EO6Q;spotify:track:5GjPQ0eI7AgmOnADn1EO6Q;The Beatles;Eleanor Rigby - Remastered 2009;0.581;0.28;4;-9.091;0;0.0381;0.936;1.56e-05;0.305;0.813;137.831;126533;4
+3Am0IbOxmvlSXro7N5iSfZ;spotify:track:3Am0IbOxmvlSXro7N5iSfZ;The Beatles;Strawberry Fields Forever - Remastered 2009;0.39;0.502;10;-12.277;1;0.178;0.336;0.000138;0.0713;0.289;97.871;247320;4
+1gFNm7cXfG1vSMcxPpSxec;spotify:track:1gFNm7cXfG1vSMcxPpSxec;The Beatles;Ob-La-Di, Ob-La-Da - Remastered 2009;0.818;0.728;10;-8.331;1;0.0314;0.232;0.0642;0.251;0.975;113.059;188960;4
+389QX9Q1eUOEZ19vtzzI9O;spotify:track:389QX9Q1eUOEZ19vtzzI9O;The Beatles;While My Guitar Gently Weeps - Remastered 2009;0.453;0.654;4;-8.855;0;0.0317;0.0205;0.00395;0.172;0.702;115.0;285000;4
+3KiexfmhxHvG5IgAElmTkd;spotify:track:3KiexfmhxHvG5IgAElmTkd;The Beatles;I Saw Her Standing There - Remastered 2009;0.491;0.801;4;-9.835;1;0.0361;0.27;0;0.0665;0.971;160.109;173947;4
+4MLBqAEzNN89o2M9h92Z26;spotify:track:4MLBqAEzNN89o2M9h92Z26;The Beatles;Get Back - Remastered 2009;0.761;0.592;2;-9.836;1;0.0586;0.492;0.00626;0.61;0.332;123.095;189387;4
+25yQPHgC35WNnnOUqFhgVR;spotify:track:25yQPHgC35WNnnOUqFhgVR;The Beatles;Lucy In The Sky With Diamonds - Remastered 2009;0.311;0.325;2;-9.042;1;0.0283;0.0469;0;0.139;0.668;65.09;208467;1
+1H7gMYGykdtwZOV6s1N0by;spotify:track:1H7gMYGykdtwZOV6s1N0by;The Beatles;Norwegian Wood (This Bird Has Flown) - Remastered 2009;0.425;0.369;4;-11.876;1;0.0379;0.183;0.00126;0.112;0.65;176.625;124693;3
+6EOKwO6WaLal58MSsi6U4W;spotify:track:6EOKwO6WaLal58MSsi6U4W;The Beatles;Eleanor Rigby;0.521;0.301;4;-7.118;0;0.0356;0.836;0;0.398;0.621;137.382;125227;4
+0j3p1p06deJ7f9xmJ9yG22;spotify:track:0j3p1p06deJ7f9xmJ9yG22;The Beatles;Back In The U.S.S.R. - Remastered 2009;0.48;0.969;9;-7.464;1;0.0854;0.069;0.00022;0.0608;0.494;142.489;163453;4
+3evG0BIqEFMMP7lVJh1cSf;spotify:track:3evG0BIqEFMMP7lVJh1cSf;The Beatles;Don't Let Me Down - Remastered 2009;0.593;0.289;4;-11.049;1;0.0259;0.568;0.000829;0.0928;0.733;77.119;215733;4
+3VbGCXWRiouAq8VyMYN2MI;spotify:track:3VbGCXWRiouAq8VyMYN2MI;The Beatles;Love Me Do - Remastered 2009;0.52;0.829;0;-6.228;1;0.0806;0.386;6.2e-05;0.227;0.744;147.997;141693;4
+4dkoqJrP0L8FXftrMZongF;spotify:track:4dkoqJrP0L8FXftrMZongF;The Beatles;Across The Universe - Remastered 2009;0.257;0.412;1;-11.788;1;0.0287;0.361;8.68e-05;0.0702;0.858;152.126;228133;4
+4joiWvli4qJVEW6qZV2i2J;spotify:track:4joiWvli4qJVEW6qZV2i2J;The Beatles;All My Loving - Remastered 2009;0.416;0.563;1;-8.724;0;0.0298;0.207;0;0.343;0.9;77.56;127853;4
+2RnPATK99oGOZygnD2GTO6;spotify:track:2RnPATK99oGOZygnD2GTO6;The Beatles;With A Little Help From My Friends - Remastered 2009;0.705;0.515;4;-9.343;1;0.0337;0.365;0;0.389;0.803;112.035;164107;4
+5J2CHimS7dWYMImCHkEFaJ;spotify:track:5J2CHimS7dWYMImCHkEFaJ;The Beatles;A Hard Day's Night - Remastered 2009;0.59;0.805;0;-6.481;1;0.0371;0.137;0;0.0996;0.797;138.514;154200;4
+6nEkxYIEnrbYH7h1hJ8Xn6;spotify:track:6nEkxYIEnrbYH7h1hJ8Xn6;The Beatles;She Loves You - Mono / Remastered;0.377;0.916;4;-3.199;0;0.0481;0.26;0;0.074;0.912;75.533;140920;4
+2mxByJWOajjiVsLWjNXvDJ;spotify:track:2mxByJWOajjiVsLWjNXvDJ;The Beatles;Oh! Darling - Remastered 2009;0.422;0.656;4;-8.412;1;0.0397;0.0126;0.0279;0.268;0.549;173.93;207240;3
+0hKRSZhUGEhKU6aNSPBACZ;spotify:track:0hKRSZhUGEhKU6aNSPBACZ;The Beatles;A Day In The Life - Remastered 2009;0.364;0.457;4;-14.162;0;0.0675;0.29;0.000106;0.922;0.175;163.219;337413;4
+5By7Pzgl6TMuVJG168VWzS;spotify:track:5By7Pzgl6TMuVJG168VWzS;The Beatles;Michelle - Remastered 2009;0.578;0.29;5;-12.501;0;0.0341;0.652;0;0.105;0.666;117.403;162373;4
+01SfTM5nfCou5gQL70r6gs;spotify:track:01SfTM5nfCou5gQL70r6gs;The Beatles;Golden Slumbers - Remastered 2009;0.419;0.152;0;-12.126;1;0.0277;0.326;0.0034;0.113;0.239;80.608;91760;4
+65vdMBskhx3akkG9vQlSH1;spotify:track:65vdMBskhx3akkG9vQlSH1;The Beatles;And I Love Her - Remastered 2009;0.767;0.331;1;-10.777;0;0.0337;0.64;0;0.0681;0.636;113.312;149693;4
+68BTFws92cRztMS1oQ7Ewj;spotify:track:68BTFws92cRztMS1oQ7Ewj;The Beatles;All You Need Is Love - Remastered 2009;0.4;0.48;7;-7.768;1;0.0295;0.346;3.1e-05;0.155;0.653;103.436;230387;4
+3mlMpmY8oZIBFc39D9zLbh;spotify:track:3mlMpmY8oZIBFc39D9zLbh;The Beatles;The Long And Winding Road - Remastered 2009;0.299;0.329;3;-10.096;1;0.0279;0.756;0.0105;0.0559;0.392;132.282;218187;4
+6Pq9MmkDQYZiiCDpxnvrf6;spotify:track:6Pq9MmkDQYZiiCDpxnvrf6;The Beatles;I Am The Walrus - Remastered 2009;0.401;0.556;2;-10.532;1;0.0513;0.0828;0.000359;0.589;0.654;85.206;275867;4
+1Dg4dFJr3HW7sbA7vPejre;spotify:track:1Dg4dFJr3HW7sbA7vPejre;The Beatles;Eight Days A Week - Remastered 2009;0.652;0.583;9;-7.811;1;0.038;0.412;0;0.119;0.744;138.134;163600;4
+06ypiqmILMdVeaiErMFA91;spotify:track:06ypiqmILMdVeaiErMFA91;The Beatles;Drive My Car - Remastered 2009;0.754;0.571;2;-8.547;1;0.0421;0.0173;0;0.3;0.82;122.463;148893;4
+3m7V717IKZqZLW5qUIOxdD;spotify:track:3m7V717IKZqZLW5qUIOxdD;The Beatles;Hey Jude - Remastered 2009;0.402;0.552;10;-10.158;1;0.0258;0.028;1.36e-05;0.0929;0.668;145.164;431333;4
+4fUKE8EULjQdHF4zb0M8FO;spotify:track:4fUKE8EULjQdHF4zb0M8FO;The Beatles;Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009;0.451;0.673;7;-9.115;1;0.0734;0.0857;0.00225;0.797;0.583;95.513;122893;4
+7CZiDzGVjUssMSOXrDNYHL;spotify:track:7CZiDzGVjUssMSOXrDNYHL;The Beatles;Ticket To Ride - Remastered 2009;0.519;0.85;9;-6.777;1;0.0678;0.0457;0;0.233;0.749;123.419;189680;4
+5Qe7NHxeLAn8KoLTNLSdwe;spotify:track:5Qe7NHxeLAn8KoLTNLSdwe;The Beatles;I Want To Hold Your Hand - Remastered 2009;0.496;0.703;7;-6.905;1;0.0376;0.525;2.08e-06;0.305;0.936;130.915;146720;4
+29b2b96jozyD9GPCkOrVLs;spotify:track:29b2b96jozyD9GPCkOrVLs;The Beatles;Day Tripper - Remastered 2015;0.665;0.782;6;-8.438;0;0.0307;0.12;4.19e-06;0.125;0.731;137.453;169000;4
+4z3RNAUb0whdaLAudM9EHE;spotify:track:4z3RNAUb0whdaLAudM9EHE;The Beatles;Get Back - Rooftop Performance / Take 2;0.655;0.695;9;-9.648;1;0.0381;0.101;0.436;0.105;0.33;125.572;204187;4
+3SdingSsFcZDZAyvcJbgAw;spotify:track:3SdingSsFcZDZAyvcJbgAw;The Beatles;Can't Buy Me Love - Remastered 2009;0.483;0.677;0;-5.91;1;0.0593;0.283;0;0.321;0.842;170.72;131867;4
+13yxz52EwElyue9PLrqcZY;spotify:track:13yxz52EwElyue9PLrqcZY;Perfume Genius;Slip Away;0.603;0.509;1;-6.824;1;0.0311;0.374;2.91e-05;0.0627;0.572;136.592;165330;4
+05HElY3EVth4SMuOJOGusl;spotify:track:05HElY3EVth4SMuOJOGusl;Perfume Genius;On the Floor;0.412;0.727;9;-6.001;1;0.0369;0.318;0.00171;0.257;0.583;117.551;303600;4
+3GbukSLq7sjTZCRksU1y7N;spotify:track:3GbukSLq7sjTZCRksU1y7N;Perfume Genius;Queen;0.416;0.523;1;-5.579;1;0.0291;0.225;0.0663;0.186;0.133;132.015;230720;4
+6fFMXz0mLLaql9UyyBQB9a;spotify:track:6fFMXz0mLLaql9UyyBQB9a;Perfume Genius;Just to Hear You (feat. Perfume Genius);0.756;0.367;2;-10.849;1;0.0397;0.582;0.19;0.106;0.523;127.894;173303;4
+2Iqdun0CJawDkc3NBUrbdA;spotify:track:2Iqdun0CJawDkc3NBUrbdA;Perfume Genius;Otherside;0.279;0.137;8;-11.45;1;0.0381;0.906;0.000494;0.223;0.206;142.848;160169;3
+34B5INdEjbTXvNkCC5GtYz;spotify:track:34B5INdEjbTXvNkCC5GtYz;Perfume Genius;Jason;0.34;0.324;1;-7.6;1;0.0344;0.345;1.64e-05;0.0847;0.344;145.822;185827;4
+0S986gqvIWWdZzTKZGqKfU;spotify:track:0S986gqvIWWdZzTKZGqKfU;Perfume Genius;Good Ones - Perfume Genius Remix;0.494;0.606;5;-8.604;1;0.0295;0.0991;0.273;0.122;0.223;171.948;203613;4
+2OBY3aeK3P2iiB6tkuanRz;spotify:track:2OBY3aeK3P2iiB6tkuanRz;Perfume Genius;Die 4 You;0.257;0.381;3;-10.62;1;0.0368;0.828;0.00121;0.135;0.264;73.687;212550;4
+2sLkJQNpMoOhxmTO6U1scK;spotify:track:2sLkJQNpMoOhxmTO6U1scK;Perfume Genius;Without You;0.649;0.755;9;-5.33;1;0.0289;0.0669;0.00699;0.346;0.831;133.516;155547;4
+7zZpX1EByY0CLdDFqjSEZs;spotify:track:7zZpX1EByY0CLdDFqjSEZs;Perfume Genius;Describe;0.228;0.356;3;-10.591;1;0.0312;0.512;0.9;0.219;0.0473;135.827;284187;4
+1zmIEX2td5btkSoiXv5hFI;spotify:track:1zmIEX2td5btkSoiXv5hFI;Perfume Genius;Jonathan (feat. Perfume Genius);0.434;0.356;9;-9.077;1;0.0312;0.725;0.00289;0.148;0.173;129.945;204608;4
+0qDsmWe20HzPpFHEVMi7ym;spotify:track:0qDsmWe20HzPpFHEVMi7ym;Perfume Genius;Alan;0.199;0.291;11;-10.619;1;0.034;0.739;0.449;0.0994;0.202;128.761;166525;4
+04PThP3fgsrd8VrEulfg2s;spotify:track:04PThP3fgsrd8VrEulfg2s;Perfume Genius;On the Floor - Initial Talk Remix;0.364;0.932;11;-6.83;0;0.041;0.334;0.0691;0.325;0.634;121.008;217746;4
+17DUIUpRVdQALd3iwNZ9xL;spotify:track:17DUIUpRVdQALd3iwNZ9xL;Perfume Genius;Good Ones;0.764;0.672;7;-5.947;0;0.0293;0.072;3.32e-06;0.0806;0.789;129.049;136614;4
+0WOsGA4a7Rio2t0osKmYVa;spotify:track:0WOsGA4a7Rio2t0osKmYVa;Perfume Genius;Without You - Jim-E Stack Remix;0.799;0.46;6;-8.45;0;0.084;0.228;0.00033;0.147;0.437;133.466;202349;4
+72W8hgJGdlFZSoNUQoXRDm;spotify:track:72W8hgJGdlFZSoNUQoXRDm;Perfume Genius;Normal Song;0.548;0.123;3;-17.088;1;0.039;0.82;0.458;0.113;0.16;126.989;193307;4
+5zyFSqiUTqGil7a7NiIIGT;spotify:track:5zyFSqiUTqGil7a7NiIIGT;Perfume Genius;Your Body Changes Everything - Boy Harsher Remix;0.74;0.698;1;-8.919;1;0.0573;0.0122;0.519;0.0981;0.968;140.995;306246;4
+1cfD3DSqV5Dnv6b8qitlxr;spotify:track:1cfD3DSqV5Dnv6b8qitlxr;Perfume Genius;Whole Life;0.266;0.419;6;-8.254;1;0.0421;0.722;0.00287;0.115;0.119;135.998;233520;4
+1fXxMV4YZXhRMcy58ls706;spotify:track:1fXxMV4YZXhRMcy58ls706;Perfume Genius;Hood;0.325;0.299;4;-12.369;0;0.0405;0.56;3.65e-05;0.156;0.242;111.506;120093;4
+3skqssCahUJzxUhVcO2GCh;spotify:track:3skqssCahUJzxUhVcO2GCh;Perfume Genius;On the Floor - Edit;0.621;0.687;9;-6.002;1;0.0353;0.354;8.34e-05;0.29;0.656;118.019;225038;4
+6QNqIj7AZCjqVgpvEzhupG;spotify:track:6QNqIj7AZCjqVgpvEzhupG;Perfume Genius;Valley;0.755;0.253;0;-9.445;1;0.0297;0.814;0.11;0.209;0.441;100.074;189781;3
+6rnrk0DfqoGZ8yUKiYxV1j;spotify:track:6rnrk0DfqoGZ8yUKiYxV1j;Perfume Genius;Your Body Changes Everything;0.707;0.751;1;-6.262;1;0.0305;0.334;0.11;0.13;0.655;107.25;253560;3
+4NUgMG0zEQvlbJ1pEVnCFQ;spotify:track:4NUgMG0zEQvlbJ1pEVnCFQ;Perfume Genius;Leave;0.245;0.279;6;-10.914;1;0.0333;0.917;0.746;0.238;0.0921;139.93;185853;4
+5cAHpfjLmP36gTYdkBvhA7;spotify:track:5cAHpfjLmP36gTYdkBvhA7;Perfume Genius;Your Body Changes Everything - Boy Harsher Remix;0.74;0.698;1;-8.919;1;0.0573;0.0122;0.519;0.0981;0.968;140.995;306246;4
+3xhZyHmqVSzeXwmlxtunNU;spotify:track:3xhZyHmqVSzeXwmlxtunNU;Perfume Genius;Just Like Love - Jam City Remix;0.664;0.404;1;-11.294;0;0.0313;0.0203;0.43;0.093;0.0785;107.008;208301;4
+3PlTL4YQldjbZqgWJHdnp3;spotify:track:3PlTL4YQldjbZqgWJHdnp3;Perfume Genius;Fool;0.529;0.275;1;-9.156;1;0.0282;0.726;0.0634;0.226;0.0585;79.954;235747;4
+6GkHSQMUebHnyJJM4kpJUC;spotify:track:6GkHSQMUebHnyJJM4kpJUC;Perfume Genius;Nothing at All;0.408;0.823;10;-6.268;0;0.147;0.0413;0.0805;0.529;0.345;147.248;267147;4
+3zCpOVlZgT0v5v0sYDVCCP;spotify:track:3zCpOVlZgT0v5v0sYDVCCP;Perfume Genius;Braid - Mmph Remix;0.231;0.459;0;-6.864;1;0.0315;0.744;0.0185;0.0954;0.0854;98.853;239036;3
+4ICFpaFvgeIih1wdCwNfWi;spotify:track:4ICFpaFvgeIih1wdCwNfWi;Perfume Genius;My Body;0.721;0.326;8;-11.341;1;0.0569;0.911;0.924;0.0889;0.148;110.87;137600;3
+2FSYKiVfhScYMKmSPyj0SM;spotify:track:2FSYKiVfhScYMKmSPyj0SM;Perfume Genius;To Lay Me Down;0.212;0.472;7;-10.165;1;0.0339;0.85;0.692;0.0979;0.0925;90.146;380533;3
+7vTuEAkTS10sLKzs81j7l9;spotify:track:7vTuEAkTS10sLKzs81j7l9;Perfume Genius;A Fullness Of Light In Your Soul (feat. Perfume Genius);0.256;0.4;10;-11.774;0;0.0318;0.932;0.583;0.115;0.358;199.832;595267;4
+6CVJzJFf6E6APFJ8cDmou0;spotify:track:6CVJzJFf6E6APFJ8cDmou0;Perfume Genius;Learning;0.471;0.256;8;-12.512;0;0.0342;0.995;0.882;0.39;0.22;123.685;162960;4
+2Yz6ZjtZ1332HX4EFiIK9S;spotify:track:2Yz6ZjtZ1332HX4EFiIK9S;Perfume Genius;I Think I Knew;0.496;0.381;0;-10.454;1;0.0294;0.188;0.127;0.222;0.308;73.76;288600;4
+26mogLAjOWFRitlkasA1vP;spotify:track:26mogLAjOWFRitlkasA1vP;Perfume Genius;Jonathan (feat. Perfume Genius);0.43;0.327;9;-10.144;1;0.0328;0.71;0.00218;0.153;0.159;129.97;204608;4
+26xzjdnpJSgI7HNcdjSNdV;spotify:track:26xzjdnpJSgI7HNcdjSNdV;Perfume Genius;Mr Peterson;0.368;0.39;8;-8.652;1;0.0298;0.985;0.884;0.554;0.094;113.028;170067;4
+4OXnV0stuMc8z7SLFcD6z3;spotify:track:4OXnV0stuMc8z7SLFcD6z3;Perfume Genius;Moonbend;0.293;0.156;5;-13.396;0;0.0397;0.953;0.00253;0.109;0.0932;161.729;321520;1
+1dfHmVkjaxwnpnLfE92WB5;spotify:track:1dfHmVkjaxwnpnLfE92WB5;Perfume Genius;Wreath;0.392;0.827;10;-5.603;1;0.0725;0.238;0;0.0986;0.384;152.983;266513;4
+6rY5mbytXlR0DhnjZRsBVK;spotify:track:6rY5mbytXlR0DhnjZRsBVK;Perfume Genius;Just Like Love;0.658;0.551;1;-7.566;0;0.0318;0.347;0.145;0.115;0.415;119.013;196133;4
+6t1iFV2Ga1rNSojP2SMTFG;spotify:track:6t1iFV2Ga1rNSojP2SMTFG;Perfume Genius;Too Bright;0.166;0.138;10;-11.534;1;0.0422;0.951;0.126;0.118;0.0377;83.235;205213;1
+5RPc7az7LxQSFbzK3ieV46;spotify:track:5RPc7az7LxQSFbzK3ieV46;Perfume Genius;Can't Help Falling In Love;0.342;0.149;2;-15.022;1;0.0351;0.819;0.0312;0.112;0.104;185.823;144807;3
+3tnUrpikNL6Ht7NGN1RTVA;spotify:track:3tnUrpikNL6Ht7NGN1RTVA;Perfume Genius;I Decline;0.253;0.0697;9;-16.167;1;0.0403;0.76;0.0508;0.0938;0.07;86.726;118120;3
+7eNwHZxW80fTJYkf58qN9M;spotify:track:7eNwHZxW80fTJYkf58qN9M;Perfume Genius;Some Dream;0.294;0.28;6;-7.542;1;0.0308;0.766;0.00151;0.129;0.0846;92.93;258720;4
+6ZNJRZiN2qUQmyQVcaxvUI;spotify:track:6ZNJRZiN2qUQmyQVcaxvUI;Perfume Genius;Sides;0.153;0.521;4;-6.619;1;0.0318;0.507;8.85e-05;0.136;0.258;170.186;292276;4
+3trj1CiDzoHWBcrYJNzOV0;spotify:track:3trj1CiDzoHWBcrYJNzOV0;Perfume Genius;Sister Song;0.357;0.115;4;-18.287;1;0.0586;0.909;0;0.115;0.261;74.258;160413;4
+7ichFqIqG3mmHIHZhlqohQ;spotify:track:7ichFqIqG3mmHIHZhlqohQ;Perfume Genius;Dark Parts;0.258;0.509;0;-11.097;0;0.0347;0.752;0.0647;0.11;0.118;149.793;189413;3
+6tQwXnZdc6ihGCf6N61h3e;spotify:track:6tQwXnZdc6ihGCf6N61h3e;Perfume Genius;Just a Touch;0.39;0.474;11;-12.017;0;0.0339;0.402;0.132;0.112;0.236;121.91;208627;4
+50aUMNNlfrmS0C9HXqflHo;spotify:track:50aUMNNlfrmS0C9HXqflHo;Perfume Genius;Run Me Through - King Princess Remix;0.524;0.534;10;-8.239;1;0.0381;0.47;0.585;0.0898;0.0981;163.435;222127;4
+0UsjbN1zd5qEd6OcvO1TGE;spotify:track:0UsjbN1zd5qEd6OcvO1TGE;Perfume Genius;One More Try;0.774;0.264;9;-11.655;1;0.0338;0.971;0.000648;0.288;0.607;103.361;181720;1
+0pImqk2CmijQx4renMqK7X;spotify:track:0pImqk2CmijQx4renMqK7X;Perfume Genius;Grid;0.394;0.642;5;-7.526;1;0.0335;0.438;0.836;0.583;0.54;147.371;159400;3
+2rBOrn73YgIAzVc35VJNl0;spotify:track:2rBOrn73YgIAzVc35VJNl0;Perfume Genius;Pop Song;0.627;0.443;9;-11.054;1;0.084;0.12;0.118;0.0796;0.375;90.024;305187;4
+0gr60jINHbKdcGlQ83rmaH;spotify:track:0gr60jINHbKdcGlQ83rmaH;Half Moon Run;Full Circle;0.572;0.744;2;-8.968;0;0.0316;0.126;0.00037;0.124;0.343;89.067;181760;4
+3jJuBdO5rrtDufNAf76V1x;spotify:track:3jJuBdO5rrtDufNAf76V1x;Half Moon Run;Call Me in the Afternoon;0.519;0.95;1;-8.134;1;0.0438;0.115;0.00631;0.111;0.625;88.567;193240;4
+6FloUWDjW3r51mRYyw0vv5;spotify:track:6FloUWDjW3r51mRYyw0vv5;Half Moon Run;Grow into Love;0.641;0.533;7;-8.909;1;0.0287;0.279;6.06e-05;0.113;0.364;95.776;162107;3
+1q5uVotoogbJqqJmb0apbx;spotify:track:1q5uVotoogbJqqJmb0apbx;Half Moon Run;How Come My Body;0.456;0.344;2;-10.647;1;0.0425;0.566;0.0437;0.0952;0.131;150.568;138939;4
+7FDi4gAUrMXzafKxEhm9TB;spotify:track:7FDi4gAUrMXzafKxEhm9TB;Half Moon Run;Call Me In The Afternoon;0.569;0.89;1;-7.839;1;0.0385;0.331;0.000219;0.155;0.651;88.628;183893;4
+06bp6mIqFstXamxGpqWyyo;spotify:track:06bp6mIqFstXamxGpqWyyo;Half Moon Run;Need It;0.607;0.22;9;-11.948;0;0.026;0.786;0.0119;0.108;0.125;100.041;205680;3
+33YsXUWwYpOJD6cUCPhHs7;spotify:track:33YsXUWwYpOJD6cUCPhHs7;Half Moon Run;Monster;0.319;0.717;7;-7.894;1;0.0471;0.0966;0.35;0.273;0.257;174.297;156093;3
+58VYbZZhD8Cw63w4xOPObV;spotify:track:58VYbZZhD8Cw63w4xOPObV;Half Moon Run;Flesh and Blood;0.451;0.735;5;-5.516;1;0.0295;0.0266;0;0.106;0.178;88.784;297573;4
+2OE1yF5x0xDjjsC5CYArz2;spotify:track:2OE1yF5x0xDjjsC5CYArz2;Half Moon Run;Turn Your Love;0.646;0.708;5;-8.221;0;0.0582;0.214;0.121;0.0882;0.603;172.028;241867;4
+0Ul1RreKyIV2WQhKVK6dpo;spotify:track:0Ul1RreKyIV2WQhKVK6dpo;Half Moon Run;Favourite Boy;0.565;0.724;0;-5.5;1;0.0307;0.000566;1.01e-05;0.0807;0.818;132.937;242253;4
+4ML6c9GgZbCEf1XTHzZCXd;spotify:track:4ML6c9GgZbCEf1XTHzZCXd;Half Moon Run;Throes;0.439;0.0573;2;-24.554;1;0.0498;0.993;0.895;0.105;0.131;64.438;54293;5
+5w9xX5CmVCsnSefoXCdabV;spotify:track:5w9xX5CmVCsnSefoXCdabV;Half Moon Run;On & On;0.521;0.696;2;-8.372;1;0.0305;0.421;0.0128;0.408;0.336;142.543;215557;4
+1t29e18N84JoZlKfSFKOdk;spotify:track:1t29e18N84JoZlKfSFKOdk;Half Moon Run;She Wants To Know;0.571;0.651;6;-8.372;0;0.0329;0.0545;0.0104;0.0475;0.367;96.013;251667;4
+7fSUjkp1NRfc9YhqKo1fil;spotify:track:7fSUjkp1NRfc9YhqKo1fil;Half Moon Run;Jello on my Mind;0.678;0.588;11;-7.74;1;0.0255;0.0445;3.84e-05;0.0827;0.608;99.505;232760;4
+1DpuWJrjYfblzGGjOxftP9;spotify:track:1DpuWJrjYfblzGGjOxftP9;Half Moon Run;Then Again;0.581;0.689;7;-6.664;1;0.0437;0.0109;2.1e-05;0.0786;0.327;91.011;199413;4
+11e6bMhoXZ5yZACKSqPcvA;spotify:track:11e6bMhoXZ5yZACKSqPcvA;Half Moon Run;Narrow Margins;0.57;0.544;4;-10.696;1;0.0339;0.384;0.0158;0.122;0.302;90.011;250933;4
+7JWw304ZsTtXuSUVniEol1;spotify:track:7JWw304ZsTtXuSUVniEol1;Half Moon Run;Drug You;0.633;0.561;9;-9.62;0;0.0268;0.645;0.682;0.149;0.25;128.016;227933;4
+7e3Js6QViaK1mHZHklrl5q;spotify:track:7e3Js6QViaK1mHZHklrl5q;Half Moon Run;Devil May Care;0.612;0.356;7;-11.837;1;0.0364;0.929;0.0013;0.149;0.672;109.732;142093;4
+6SHXvrdyCJYt5icmbW66om;spotify:track:6SHXvrdyCJYt5icmbW66om;Half Moon Run;Nerve;0.633;0.499;5;-8.621;0;0.027;0.74;0.00225;0.0926;0.477;136.182;197187;4
+0fqaTQE3RdmfO8N4lG7bHw;spotify:track:0fqaTQE3RdmfO8N4lG7bHw;Half Moon Run;Full Circle;0.574;0.755;2;-9.219;0;0.0326;0.135;0.000274;0.122;0.359;89.042;181760;4
+2X40ok8aiQ8Z0SS00WIzHL;spotify:track:2X40ok8aiQ8Z0SS00WIzHL;Half Moon Run;Fire Escape;0.25;0.232;0;-11.291;1;0.0344;0.992;0.0328;0.0907;0.256;178.533;174453;1
+6CSq9KpFQ36IX3WwP134yc;spotify:track:6CSq9KpFQ36IX3WwP134yc;Half Moon Run;Unofferable;0.207;0.252;5;-9.6;1;0.0343;0.163;0.00043;0.0853;0.0728;178.339;246533;3
+3T9mPi4StEMo1V9sewtfvf;spotify:track:3T9mPi4StEMo1V9sewtfvf;Half Moon Run;No More Losing The War;0.259;0.331;5;-12.422;0;0.0294;0.705;0.0959;0.116;0.132;160.146;237147;3
+1k4fBbv8hBXilHULRFppss;spotify:track:1k4fBbv8hBXilHULRFppss;Half Moon Run;Give Up;0.567;0.888;2;-9.599;0;0.0334;0.248;0.431;0.0698;0.584;114.065;230853;4
+4UhghX97Yqpi91fDH5IJka;spotify:track:4UhghX97Yqpi91fDH5IJka;Half Moon Run;I Can't Figure Out What's Going On;0.537;0.53;9;-8.32;1;0.0338;0.0676;0.00718;0.113;0.405;80.973;195427;4
+2zFDYu0o4JAfOZIZTxDKaD;spotify:track:2zFDYu0o4JAfOZIZTxDKaD;Half Moon Run;Judgement;0.611;0.488;2;-8.725;1;0.0288;0.136;0.00121;0.0782;0.727;177.794;186560;4
+6d4Wen8pkWjoUC5w7TxJu8;spotify:track:6d4Wen8pkWjoUC5w7TxJu8;Half Moon Run;21 Gun Salute;0.595;0.607;11;-10.632;0;0.0379;0.843;0.311;0.077;0.333;129.995;292413;4
+4idJRGuRNiAsSmcprgA3QW;spotify:track:4idJRGuRNiAsSmcprgA3QW;Half Moon Run;Trust;0.634;0.763;5;-8.181;0;0.0349;0.0209;0.0789;0.251;0.786;125.981;289867;4
+65OivhuZr6IpoPO8hG947j;spotify:track:65OivhuZr6IpoPO8hG947j;Half Moon Run;All at Once;0.355;0.439;0;-10.609;1;0.0282;0.18;0.00179;0.0889;0.345;107.874;216587;4
+3k5V8IIV6PeVT1GGBTlp4G;spotify:track:3k5V8IIV6PeVT1GGBTlp4G;Half Moon Run;Warmest Regards;0.756;0.262;9;-11.637;1;0.0308;0.316;0.576;0.126;0.348;132.953;194627;4
+6QS5RHl7U2YO4ybb6EiXv4;spotify:track:6QS5RHl7U2YO4ybb6EiXv4;Half Moon Run;Hands In The Garden;0.472;0.726;0;-7.452;1;0.0334;0.208;8.73e-05;0.116;0.355;148.449;232173;4
+0GlbPGqUoplKvWQEQM6FIb;spotify:track:0GlbPGqUoplKvWQEQM6FIb;Half Moon Run;Natural Disaster;0.63;0.677;1;-6.696;0;0.0301;0.0562;0.000113;0.331;0.411;130.907;223400;4
+6AVV9jR1aEtHiYTrRzdETV;spotify:track:6AVV9jR1aEtHiYTrRzdETV;Half Moon Run;Sun Leads Me On;0.432;0.34;2;-11.091;1;0.0317;0.787;0.00536;0.111;0.144;79.927;245613;4
+10CX8j66VnZ8TRAbFSEqxl;spotify:track:10CX8j66VnZ8TRAbFSEqxl;Half Moon Run;Black Diamond;0.646;0.604;2;-8.88;1;0.0278;0.0621;0.000265;0.111;0.494;114.098;179093;4
+5fY42Z5FPeYFfI3ltGYvwX;spotify:track:5fY42Z5FPeYFfI3ltGYvwX;Half Moon Run;Seasons of Change;0.599;0.281;6;-11.357;0;0.0311;0.352;1.01e-05;0.108;0.14;82.776;229093;3
+34ASBT4a6vfj2MlAKUKETj;spotify:track:34ASBT4a6vfj2MlAKUKETj;Half Moon Run;It Works Itself Out;0.534;0.758;7;-9.376;0;0.0338;0.131;0.274;0.291;0.644;125.045;247227;4
+72pgSMRI672t4HNrzcUFz3;spotify:track:72pgSMRI672t4HNrzcUFz3;Half Moon Run;Everybody Wants;0.482;0.311;0;-12.458;1;0.0282;0.544;0.0569;0.0971;0.264;82.612;301213;4
+303ooECseKUBtjuUYsftfX;spotify:track:303ooECseKUBtjuUYsftfX;Half Moon Run;Razorblade;0.406;0.737;7;-7.92;1;0.0526;0.0571;0.000858;0.343;0.27;81.069;446000;4
+4n4tnaD72ULicqhAUbo12o;spotify:track:4n4tnaD72ULicqhAUbo12o;Half Moon Run;It's True;0.38;0.489;6;-6.806;0;0.0302;0.195;0.00561;0.106;0.186;135.565;170182;4
+3Hwkfjpvssm9CobU10pdub;spotify:track:3Hwkfjpvssm9CobU10pdub;Half Moon Run;Look Me in the Eyes (Skitstövel);0.512;0.435;10;-9.261;1;0.0224;0.0589;2.05e-06;0.167;0.436;83.183;205413;4
+2pr8UV6ALBM02SEd0Z1dZT;spotify:track:2pr8UV6ALBM02SEd0Z1dZT;Half Moon Run;Tiny;0.619;0.479;4;-8.326;0;0.0266;0.554;0.0693;0.103;0.0831;129.315;207330;4
+0cxNl1UvIczFerdcgyA6gD;spotify:track:0cxNl1UvIczFerdcgyA6gD;Half Moon Run;Consider Yourself;0.601;0.796;7;-6.257;1;0.0388;0.00419;0.269;0.0884;0.924;158.027;233133;4
+6TCvZ4FET6S9WbXX0TAh4w;spotify:track:6TCvZ4FET6S9WbXX0TAh4w;Half Moon Run;You Won't;0.335;0.404;2;-18.429;0;0.0387;0.525;0.714;0.174;0.642;81.862;86547;3
+1wfkn2RKV0Ymx36xrOVS1T;spotify:track:1wfkn2RKV0Ymx36xrOVS1T;Half Moon Run;Fxgiving;0.446;0.587;4;-9.241;1;0.0344;0.159;0.00241;0.0525;0.289;112.631;249275;4
+3epN1USLc8vFahC5T2hSnF;spotify:track:3epN1USLc8vFahC5T2hSnF;Half Moon Run;Nosebleeds;0.312;0.264;7;-12.107;1;0.0338;0.66;1.41e-05;0.179;0.261;122.878;163899;4
+0QsnVGamBiqaADaMjUpeaS;spotify:track:0QsnVGamBiqaADaMjUpeaS;Half Moon Run;The Debt;0.361;0.232;9;-11.73;1;0.0315;0.486;0.513;0.0948;0.0529;88.473;240933;3
+3b0L80Fpnf9He6Xui2EbH7;spotify:track:3b0L80Fpnf9He6Xui2EbH7;Half Moon Run;Yani's Song;0.579;0.34;11;-10.963;0;0.0322;0.636;1.18e-05;0.0941;0.501;119.046;161040;4
+0ySpjg1ryL7ixLCjeprGYf;spotify:track:0ySpjg1ryL7ixLCjeprGYf;Half Moon Run;Undercurrents;0.361;0.204;11;-19.881;1;0.031;0.964;0.942;0.102;0.142;129.478;138240;4
+1IuYLcgXdXsD1u8zVgJxQI;spotify:track:1IuYLcgXdXsD1u8zVgJxQI;Half Moon Run;New Truth - Isolation Version;0.579;0.438;4;-7.857;1;0.0255;0.711;4.58e-05;0.0868;0.153;131.13;223503;5
+04vCUB0aJchP4bKv9eEu6M;spotify:track:04vCUB0aJchP4bKv9eEu6M;Half Moon Run;New Truth;0.432;0.554;4;-7.911;1;0.0258;0.0281;0.0179;0.143;0.0918;134.25;308813;5
+2wlhm9q8AaZbWEtczeTi2M;spotify:track:2wlhm9q8AaZbWEtczeTi2M;Ariane Moffatt;The Greatest;0.449;0.154;0;-13.12;1;0.0334;0.969;0.0577;0.0871;0.0526;102.442;205787;4
+7C03dDo2QyGVq7zjWF5uGB;spotify:track:7C03dDo2QyGVq7zjWF5uGB;Ariane Moffatt;Jamais trop tard;0.49;0.0983;3;-16.058;1;0.0337;0.948;0.156;0.0754;0.112;65.026;212015;4
+7wPUEyF7dEUITIo1SueyT0;spotify:track:7wPUEyF7dEUITIo1SueyT0;Ariane Moffatt;N'attends pas mon sourire;0.467;0.43;5;-11.391;0;0.0636;0.141;0.3;0.0981;0.294;159.877;231093;4
+04ErahBTLdrX3hb3Zj3nCI;spotify:track:04ErahBTLdrX3hb3Zj3nCI;Ariane Moffatt;Soleil chaleur - Soleil + chaleur + toi + moi;0.676;0.515;8;-9.826;1;0.0335;0.0344;0.606;0.112;0.345;110.022;216067;4
+0sczR0OFWOGd9U8tECZ47Z;spotify:track:0sczR0OFWOGd9U8tECZ47Z;Ariane Moffatt;Montréal;0.675;0.52;5;-10.069;1;0.0424;0.504;0.251;0.0952;0.962;170.112;212760;4
+4vBflGIZBidj80NnlAvSjF;spotify:track:4vBflGIZBidj80NnlAvSjF;Ariane Moffatt;Briser Un Coeur;0.886;0.296;10;-9.205;1;0.0517;0.551;0.00106;0.111;0.424;121.937;189373;4
+0XhPMiraatDSc47iLeX0Mn;spotify:track:0XhPMiraatDSc47iLeX0Mn;Ariane Moffatt;Everybody Hurts;0.229;0.117;2;-13.743;1;0.0368;0.969;0.0264;0.0965;0.11;180.489;266280;3
+5JgaSkvLDbERK7BkekoQi6;spotify:track:5JgaSkvLDbERK7BkekoQi6;Ariane Moffatt;Miami;0.636;0.762;10;-6.354;0;0.0333;0.00966;1.69e-05;0.103;0.628;123.952;166120;4
+6wmSCqAYA4gO9jziPV2SRC;spotify:track:6wmSCqAYA4gO9jziPV2SRC;Ariane Moffatt;Deux cœurs vagabonds;0.403;0.28;8;-11.978;0;0.0305;0.941;0.0405;0.341;0.198;111.896;259853;4
+4shrjqLim9lmKV4zYz71cM;spotify:track:4shrjqLim9lmKV4zYz71cM;Ariane Moffatt;Ensemble, sensibles;0.781;0.723;11;-6.227;0;0.0874;0.0338;0;0.0691;0.407;90.011;192460;4
+4arjfRP7ehwW3FoXeVEUCO;spotify:track:4arjfRP7ehwW3FoXeVEUCO;Ariane Moffatt;Ça va venir découragez-vous pas;0.731;0.686;1;-6.312;1;0.232;0.091;0;0.0592;0.654;83.956;187320;4
+6T9H9EuecpuRa68W9clGDt;spotify:track:6T9H9EuecpuRa68W9clGDt;Ariane Moffatt;Je Veux Tout;0.878;0.421;7;-6.212;0;0.0532;0.103;0;0.341;0.807;103.991;183160;4
+5ZVMpcqiRYX42IIVRi0HXy;spotify:track:5ZVMpcqiRYX42IIVRi0HXy;Ariane Moffatt;Pour toi;0.665;0.671;6;-6.845;0;0.0502;0.166;0.00145;0.1;0.563;122.013;256467;4
+7y93trDIjIbbYiwhaiaRbX;spotify:track:7y93trDIjIbbYiwhaiaRbX;Ariane Moffatt;Réverbère;0.718;0.695;5;-4.996;0;0.0304;0.0874;0;0.255;0.914;119.992;159187;4
+2kP6HjwM8VfYsjF02RHyqE;spotify:track:2kP6HjwM8VfYsjF02RHyqE;Ariane Moffatt;Far Away;0.479;0.212;4;-12.637;0;0.0399;0.966;0.000379;0.106;0.149;127.404;202333;4
+4WPqwHscUKuB8x1NqK5tT2;spotify:track:4WPqwHscUKuB8x1NqK5tT2;Ariane Moffatt;Debout;0.61;0.594;10;-7.648;0;0.04;0.0002;0.00609;0.366;0.74;118.01;194360;4
+3tsE69SjBC9C7E50x9N631;spotify:track:3tsE69SjBC9C7E50x9N631;Ariane Moffatt;Le matin en patins;0.891;0.435;10;-8.871;1;0.213;0.724;0;0.107;0.774;135.877;111053;4
+7M4Z1mNkyni6Ea1fz5CB41;spotify:track:7M4Z1mNkyni6Ea1fz5CB41;Ariane Moffatt;Not Dark Yet;0.594;0.559;0;-12.086;1;0.0259;0.715;0.747;0.123;0.175;125.887;325893;4
+4y5hRnF2XtHYvX538B6KCW;spotify:track:4y5hRnF2XtHYvX538B6KCW;Ariane Moffatt;Beauté;0.317;0.251;9;-17.864;0;0.0404;0.909;0.659;0.115;0.186;90.032;248039;4
+1ZTCPCISRxa4bakwaVLWjw;spotify:track:1ZTCPCISRxa4bakwaVLWjw;Ariane Moffatt;Please Tell My Brother;0.56;0.225;10;-15.119;1;0.0298;0.979;0.00197;0.0887;0.604;155.663;159973;4
+6wUL2qBFXtycEgsoMrRjce;spotify:track:6wUL2qBFXtycEgsoMrRjce;Ariane Moffatt;Espoir;0.603;0.0881;10;-17.081;1;0.0371;0.953;3.08e-06;0.116;0.303;83.963;209307;4
+4HQ29iH8DOtCozyGOLgvjQ;spotify:track:4HQ29iH8DOtCozyGOLgvjQ;Ariane Moffatt;Tinnami;0.655;0.863;2;-7.858;1;0.15;0.118;0.00227;0.27;0.654;120.029;272373;4
+2fIYJ6Pi5foizTmEynoXy8;spotify:track:2fIYJ6Pi5foizTmEynoXy8;Ariane Moffatt;La plus belle des versions de nous-mêmes;0.59;0.596;10;-7.756;1;0.0289;0.625;0.000131;0.111;0.379;118.008;209827;4
+36rjYX93UmdkV2XI1B2NHv;spotify:track:36rjYX93UmdkV2XI1B2NHv;Ariane Moffatt;Poussière D'ange;0.584;0.319;2;-14.318;1;0.0332;0.647;0.00314;0.0749;0.202;108.039;311533;3
+1mGRwSfyiVBnvMbfOKAP2x;spotify:track:1mGRwSfyiVBnvMbfOKAP2x;Ariane Moffatt;Espoir;0.418;0.0916;10;-16.32;1;0.044;0.959;2.41e-06;0.121;0.33;167.524;210177;4
+2aqeuh7BQjGrpu4Htb6MSt;spotify:track:2aqeuh7BQjGrpu4Htb6MSt;Ariane Moffatt;Cyborg;0.728;0.769;0;-7.75;0;0.0339;0.435;0.00668;0.0558;0.912;145.989;221253;4
+49aZ2UhrKuwRAOrlPkKdEI;spotify:track:49aZ2UhrKuwRAOrlPkKdEI;Ariane Moffatt;Décalage;0.419;0.189;0;-15.195;1;0.0394;0.927;0.00398;0.0973;0.155;131.85;277668;4
+0BUTloIMT2YRqe4yg5xf6s;spotify:track:0BUTloIMT2YRqe4yg5xf6s;Ariane Moffatt;SOS d'un terrien en détresse;0.232;0.363;9;-9.75;0;0.0409;0.548;5.79e-06;0.0735;0.0955;81.345;288120;4
+5Hcc94l3digDZbrYlv8I56;spotify:track:5Hcc94l3digDZbrYlv8I56;Ariane Moffatt;Poussière d'ange;0.405;0.216;2;-15.7;1;0.0341;0.938;0.0305;0.654;0.184;155.418;521613;4
+2yFLrtl4yk6ZlilgftchCN;spotify:track:2yFLrtl4yk6ZlilgftchCN;Ariane Moffatt;Nature;0.42;0.209;2;-12.978;0;0.0639;0.89;0.0555;0.324;0.236;177.869;330267;4
+2mFOdGcTPNaSAzZAtTx9gz;spotify:track:2mFOdGcTPNaSAzZAtTx9gz;Ariane Moffatt;Imparfait;0.568;0.0874;6;-13.151;1;0.0504;0.903;5.98e-06;0.0649;0.102;120.579;222147;4
+7tJ4vjnw23PYvk8r2BJbYz;spotify:track:7tJ4vjnw23PYvk8r2BJbYz;Ariane Moffatt;Le nouveau matériel;0.641;0.601;1;-9.258;0;0.0777;0.0499;1.11e-05;0.101;0.135;127.093;223120;4
+4At9dkL7eqnHSepOsx9fsj;spotify:track:4At9dkL7eqnHSepOsx9fsj;Ariane Moffatt;Be My Baby;0.474;0.355;4;-9.93;1;0.0369;0.935;0.293;0.108;0.447;122.319;152560;4
+6O9P7HrT2eBUXj7i2IfXMf;spotify:track:6O9P7HrT2eBUXj7i2IfXMf;Ariane Moffatt;Will You Follow Me (Remix);0.618;0.728;10;-7.646;1;0.0359;0.00896;0.188;0.262;0.589;102.998;222654;4
+4Aojnexk0G5xmXZwTpeLWo;spotify:track:4Aojnexk0G5xmXZwTpeLWo;Ariane Moffatt;Perséides;0.545;0.229;0;-13.567;1;0.0297;0.846;0.0378;0.104;0.131;137.919;321427;4
+4qVoCSHGQB9vQqHgmpwNS6;spotify:track:4qVoCSHGQB9vQqHgmpwNS6;Ariane Moffatt;Le ciel s'est renversé;0.752;0.588;7;-9.456;1;0.0329;0.119;0.0189;0.0889;0.236;122.976;243787;4
+60ZBYkEQWTwjhUjCT6dRLT;spotify:track:60ZBYkEQWTwjhUjCT6dRLT;Ariane Moffatt;Hallelujah;0.302;0.15;2;-12.16;1;0.034;0.862;0.000451;0.112;0.165;172.311;328040;3
+4fmuHbAzhnfDtdOoDyFb2h;spotify:track:4fmuHbAzhnfDtdOoDyFb2h;Ariane Moffatt;Hôtel amour;0.578;0.702;2;-8.112;1;0.0308;0.424;0.378;0.142;0.124;115.997;221987;4
+1pqBE3RnwGXOayUUom9cwZ;spotify:track:1pqBE3RnwGXOayUUom9cwZ;Ariane Moffatt;Bridge over Troubled Water;0.506;0.121;3;-14.304;1;0.0298;0.878;0.00229;0.111;0.193;80.282;269120;4
+28YNG3DonL2by1hnk7haDy;spotify:track:28YNG3DonL2by1hnk7haDy;Ariane Moffatt;Les terres de la couronne (feat. Ariane Moffatt);0.515;0.157;2;-10.321;1;0.0539;0.85;0;0.0936;0.278;134.426;243507;4
+6gv4XrMkGg3GpBt9npQ3tD;spotify:track:6gv4XrMkGg3GpBt9npQ3tD;Ariane Moffatt;Get Well Soon;0.852;0.648;7;-9.613;0;0.0619;0.716;0.00857;0.112;0.477;112.02;162080;4
+4atU4Ai4rIMat8Y38AkTQY;spotify:track:4atU4Ai4rIMat8Y38AkTQY;Ariane Moffatt;Point De Mire (Remix);0.448;0.909;9;-10.231;0;0.0881;0.0975;0.000927;0.0901;0.124;123.52;363107;4
+37qPoIThB6yjSAWh2odZ2y;spotify:track:37qPoIThB6yjSAWh2odZ2y;Ariane Moffatt;Toute sa vie;0.604;0.647;10;-10.659;0;0.0504;0.279;0.705;0.0989;0.32;170.024;248597;4
+792rBgydT9mdB6CBoBmzzx;spotify:track:792rBgydT9mdB6CBoBmzzx;Ariane Moffatt;Hôtel amour - Dubbel Dutch Remix;0.689;0.672;11;-9.783;0;0.038;0.00696;0.908;0.229;0.227;115.98;233048;4
+7veIks22alpWOyFKr8dIOb;spotify:track:7veIks22alpWOyFKr8dIOb;Ariane Moffatt;Le Coeur Dans La Tête;0.601;0.555;10;-9.574;0;0.0415;0.787;0.688;0.267;0.185;142.014;265467;4
+3X4zCRe1AqYpReyayb1i3W;spotify:track:3X4zCRe1AqYpReyayb1i3W;Ariane Moffatt;La fille de l'Iceberg - Live;0.425;0.283;9;-12.849;1;0.0968;0.928;0.000366;0.74;0.235;82.215;225027;4
+3z4K3LydIV3AqDGiGQH1qD;spotify:track:3z4K3LydIV3AqDGiGQH1qD;Ariane Moffatt;Dans le vide;0.71;0.472;0;-9.522;0;0.191;0.0864;0;0.0761;0.195;138.146;258866;4
+06d33vKYqzND9S9HeHhV87;spotify:track:06d33vKYqzND9S9HeHhV87;Ariane Moffatt;Combien d'étoiles;0.615;0.336;7;-13.15;0;0.0349;0.276;0.00361;0.11;0.418;127.964;257105;4
+0BiKRxKtjjZugSmqz1Q3HQ;spotify:track:0BiKRxKtjjZugSmqz1Q3HQ;Ariane Moffatt;Finir seule;0.719;0.585;7;-8.219;1;0.0689;0.273;2.62e-06;0.0875;0.39;156.024;193933;4
+4NHQYYh1SddSfc8TTsqLdF;spotify:track:4NHQYYh1SddSfc8TTsqLdF;Ariane Moffatt;Chérie;0.356;0.419;7;-11.118;0;0.0922;0.809;0.0253;0.324;0.0687;83.938;197120;4
+518uaTT6eo2V8n8iuUxmWg;spotify:track:518uaTT6eo2V8n8iuUxmWg;Karkwa;Oublie Pas;0.604;0.606;7;-8.544;0;0.0254;0.312;0.868;0.0846;0.592;106.869;186373;4
+30hskVUglr4bRJ4mOdzrBR;spotify:track:30hskVUglr4bRJ4mOdzrBR;Karkwa;Marie tu pleures;0.637;0.694;6;-6.924;0;0.0446;0.445;0.000673;0.125;0.598;93.103;210053;4
+2LpTVBOc0fLJplFPXdQwm6;spotify:track:2LpTVBOc0fLJplFPXdQwm6;Karkwa;Le Volume Du Vent;0.594;0.786;4;-8.958;0;0.0291;0.542;0.805;0.152;0.784;124.027;125493;4
+2VgKVoqsjwOjvxW7q3r0mS;spotify:track:2VgKVoqsjwOjvxW7q3r0mS;Karkwa;Karawana;0.547;0.905;9;-5.54;0;0.36;0.0596;0;0.193;0.543;77.961;306855;4
+3WCSV8CNDCekw7ISmvguLc;spotify:track:3WCSV8CNDCekw7ISmvguLc;Karkwa;Karka Karka;0.883;0.718;1;-9.451;1;0.0473;0.0217;0;0.383;0.871;107.978;296013;4
+3HQAwr7cBeOWDZt0nFthRx;spotify:track:3HQAwr7cBeOWDZt0nFthRx;Karkwa;Le pyromane;0.439;0.797;2;-7.494;1;0.0672;0.073;0.00403;0.128;0.196;122.249;249307;3
+63OQupATfueTdZMWTxW03A;spotify:track:63OQupATfueTdZMWTxW03A;Karkwa;Karma Police;0.36;0.501;7;-9.129;1;0.0258;0.0638;9.32e-05;0.172;0.324;74.807;264067;4
+1iEDnmuMA5napdxa7kuaBV;spotify:track:1iEDnmuMA5napdxa7kuaBV;Karkwa;Le tour de l'île;0.322;0.427;4;-8.931;1;0.0285;0.674;3.77e-05;0.112;0.0769;150.564;357027;4
+2wSAWEYUHkt92X4SBAPqZE;spotify:track:2wSAWEYUHkt92X4SBAPqZE;Karkwa;Karma Chameleon - Remastered 2002;0.668;0.73;10;-7.182;1;0.0366;0.225;0;0.188;0.894;92.049;252773;4
+7aulbJswLIvWuQ0oCnontC;spotify:track:7aulbJswLIvWuQ0oCnontC;Karkwa;La Vague Perdue;0.52;0.735;8;-9.877;1;0.0481;0.263;0.578;0.0935;0.503;101.449;295306;4
+3QtjpqyYFSZIwQ1g5UNR2S;spotify:track:3QtjpqyYFSZIwQ1g5UNR2S;Karkwa;Le Compteur;0.287;0.915;10;-7.258;1;0.0598;0.0465;0.00938;0.298;0.089;165.379;319320;3
+6RnHkxMJZJdxsdzPvfg0XE;spotify:track:6RnHkxMJZJdxsdzPvfg0XE;Karkwa;Karkabu;0.762;0.843;2;-7.046;1;0.328;0.0124;4.41e-06;0.25;0.677;100.452;220014;3
+3uW70UKLxKSy1La4EFlbTx;spotify:track:3uW70UKLxKSy1La4EFlbTx;Karkwa;Dormir Le Jour;0.44;0.431;2;-8.582;1;0.0297;0.182;0.0144;0.338;0.105;125.897;316960;4
+0vXtJAJdbKl6Q2jysVq9bV;spotify:track:0vXtJAJdbKl6Q2jysVq9bV;Karkwa;Mieux Respirer;0.416;0.391;7;-10.454;0;0.0263;0.358;0.00396;0.139;0.236;98.277;249520;3
+6y4GYuZszeXNOXuBFsJlos;spotify:track:6y4GYuZszeXNOXuBFsJlos;Karkwa;Kaikai Kitan;0.584;0.911;5;-3.515;0;0.09;0.0119;0;0.119;0.606;92.502;221426;4
+75cduM12bmjduJAkUnXqG4;spotify:track:75cduM12bmjduJAkUnXqG4;Karkwa;La Façade;0.359;0.902;9;-5.956;1;0.0394;0.494;0.00313;0.181;0.204;159.669;267280;4
+4NH4xiPQ7TqNGqj6pZV4ki;spotify:track:4NH4xiPQ7TqNGqj6pZV4ki;Karkwa;Karma Chameleon;0.668;0.473;10;-15.402;1;0.0336;0.231;0;0.115;0.962;91.976;242200;4
+3U7A5vmO7BGTEdbbdrkPJE;spotify:track:3U7A5vmO7BGTEdbbdrkPJE;Karkwa;Au-dessus de la tête de Lilijune;0.288;0.342;8;-18.769;0;0.0498;0.0811;0.86;0.0978;0.499;117.022;93907;1
+7vXtuHrqgzQi58ihUO7L2d;spotify:track:7vXtuHrqgzQi58ihUO7L2d;Karkwa;Karma;0.461;0.825;8;-3.583;1;0.115;0.0246;0;0.224;0.412;198.045;159394;4
+0S503o4xTI22r3O817TiHu;spotify:track:0S503o4xTI22r3O817TiHu;Karkwa;Le Temps Mort;0.466;0.468;0;-7.05;1;0.0251;0.165;0.00266;0.0652;0.231;145.009;180360;4
+6QtlG4QmdA9a5Mi6uUt1mK;spotify:track:6QtlG4QmdA9a5Mi6uUt1mK;Karkwa;Les enfants de Beyrouth;0.568;0.583;2;-9.426;1;0.0364;0.534;0.0657;0.101;0.399;142.003;228253;4
+2ju2Pcl8XLFZERPVsDBItG;spotify:track:2ju2Pcl8XLFZERPVsDBItG;Karkwa;Karuna;0.199;0.0435;0;-30.081;1;0.0504;0.972;0.778;0.0956;0.206;140.953;183300;4
+6dNlL0Fbg1azTNxgWYLa7z;spotify:track:6dNlL0Fbg1azTNxgWYLa7z;Karkwa;Échapper Au Sort;0.366;0.824;4;-5.921;0;0.0401;0.123;0.0838;0.358;0.332;136.691;230920;3
+4NknsYwkHVIeCxEq18UXCv;spotify:track:4NknsYwkHVIeCxEq18UXCv;Karkwa;Karma;0.528;0.727;6;-5.739;1;0.179;0.0557;0;0.176;0.212;155.927;245270;4
+5DN3rkjJDrRauypfu4YZTq;spotify:track:5DN3rkjJDrRauypfu4YZTq;Karkwa;28 jours;0.343;0.249;3;-10.504;0;0.0283;0.786;0.0976;0.1;0.0811;67.145;292120;4
+4FnQYDOeZD55eHYXUKijwe;spotify:track:4FnQYDOeZD55eHYXUKijwe;Karkwa;Combien;0.543;0.703;3;-7.32;1;0.0352;0.29;0.167;0.105;0.482;140.988;244613;3
+25YwwruYRtxe6RQdKtrZFS;spotify:track:25YwwruYRtxe6RQdKtrZFS;Karkwa;Karma;0.605;0.829;10;-2.377;0;0.444;0.0392;0;0.196;0.708;176.103;278533;4
+2Ol6GoKiAvPOyk52QIQvf7;spotify:track:2Ol6GoKiAvPOyk52QIQvf7;Karkwa;À La Chaîne;0.314;0.874;9;-6.33;1;0.0398;0.05;0.0784;0.411;0.398;159.829;265573;4
+3HqQ3BwteS9uK2X7Dl08Eo;spotify:track:3HqQ3BwteS9uK2X7Dl08Eo;Karkwa;Karawane;0.448;0.926;11;-4.758;0;0.0397;0.00162;0.0668;0.3;0.443;79.989;292653;4
+5zGQlCcwNBzyuHVy61uy7K;spotify:track:5zGQlCcwNBzyuHVy61uy7K;Karkwa;Deux Lampadaires;0.463;0.629;7;-8.153;1;0.0429;0.0879;0.112;0.128;0.209;167.778;190347;4
+2nttVdP7bTvo3tLXmXbPJB;spotify:track:2nttVdP7bTvo3tLXmXbPJB;Karkwa;Karawane;0.625;0.9;1;-3.949;1;0.306;0.0938;1.23e-06;0.302;0.774;90.246;164996;4
+2BGPQhZpOmFJGwieTWGysL;spotify:track:2BGPQhZpOmFJGwieTWGysL;Karkwa;Les chemins de verre;0.418;0.846;2;-7.581;1;0.0631;0.303;0.343;0.275;0.18;87.26;200013;4
+0rPZOTqyIPcVcJ1i4MyODG;spotify:track:0rPZOTqyIPcVcJ1i4MyODG;Karkwa;Karwa Chauth;0.596;0.529;0;-3.877;1;0.0291;0.492;0;0.0733;0.551;89.912;239333;4
+6TnuTeG3kAM4JiEAMnpKjF;spotify:track:6TnuTeG3kAM4JiEAMnpKjF;Karkwa;Le vrai bonheur;0.555;0.443;5;-15.765;1;0.0356;0.541;0.816;0.304;0.436;120.524;327387;4
+3nXoHz9D9m1GzgGjzel4iU;spotify:track:3nXoHz9D9m1GzgGjzel4iU;Karkwa;Kirkwall Nights;0.302;0.4;8;-15.816;1;0.0646;0.827;0.908;0.123;0.0841;74.95;272537;3
+4U2rdEPrzblHkw0dGgkBDs;spotify:track:4U2rdEPrzblHkw0dGgkBDs;Karkwa;Moi-léger;0.444;0.219;6;-11.183;1;0.0345;0.792;0.000513;0.132;0.208;130.628;189427;4
+3qmm9AdG0TnShv0drgXNIQ;spotify:track:3qmm9AdG0TnShv0drgXNIQ;Karkwa;Karma;0.592;0.571;1;-7.132;1;0.174;0.172;0;0.106;0.424;104.95;176076;4
+0GjfxJ0mZTEcSaobCIF3Ia;spotify:track:0GjfxJ0mZTEcSaobCIF3Ia;Karkwa;Le Frimas;0.504;0.221;9;-16.901;0;0.0329;0.963;0.791;0.105;0.306;73.673;74453;4
+5Cg7ww1v1IG2STcLi9ckGL;spotify:track:5Cg7ww1v1IG2STcLi9ckGL;Karkwa;Karlas Back;0.5;0.631;6;-7.653;0;0.38;0.349;0;0.184;0.617;106.498;207987;4
+2pFLq3h9zInOw2ZyznU5oC;spotify:track:2pFLq3h9zInOw2ZyznU5oC;Karkwa;Le Solstice;0.403;0.694;9;-7.551;0;0.0303;0.711;0.54;0.0672;0.129;153.039;335293;3
+5KXOvQGMoOUuFSj7OtrBTe;spotify:track:5KXOvQGMoOUuFSj7OtrBTe;Karkwa;Karma;0.697;0.474;1;-13.539;1;0.184;0.592;4.12e-05;0.321;0.856;139.971;193714;4
+1bTKKV7XiSDP6bcjnwZha0;spotify:track:1bTKKV7XiSDP6bcjnwZha0;Karkwa;La piqûre;0.305;0.782;3;-8.9;1;0.106;0.384;0.383;0.182;0.183;129.46;302280;4
+2ScArIk4DMcmI8JsHYMBqY;spotify:track:2ScArIk4DMcmI8JsHYMBqY;Karkwa;Kaka;0.892;0.671;9;-9.903;1;0.348;0.115;6.67e-06;0.223;0.787;142.03;131500;4
+0izXOXtJY7z2VLeKUpT75w;spotify:track:0izXOXtJY7z2VLeKUpT75w;Karkwa;L'acouphène;0.554;0.821;6;-6.303;1;0.0544;0.0284;0.314;0.0573;0.577;82.987;218827;4
+0tLfhiNrN6tyZrDrnpDUeI;spotify:track:0tLfhiNrN6tyZrDrnpDUeI;Karkwa;Karkar / Vincent;0.598;0.262;5;-11.871;0;0.043;0.796;0.807;0.11;0.634;136.342;323293;4
+2m0vOmIZ6MccYoZdJGlDZ3;spotify:track:2m0vOmIZ6MccYoZdJGlDZ3;Karkwa;Le bon sens;0.626;0.79;5;-6.966;0;0.0297;0.523;0.0411;0.159;0.62;124.975;210093;4
+2Fyjjpg03fn7n5cj0Qm380;spotify:track:2Fyjjpg03fn7n5cj0Qm380;Karkwa;Karma;0.593;0.294;1;-10.072;0;0.0499;0.345;2.03e-05;0.287;0.152;113.847;188907;4
+6GvWpMupyXAQ0mBKEnh3lb;spotify:track:6GvWpMupyXAQ0mBKEnh3lb;Karkwa;Dors dans mon sang;0.17;0.115;11;-15.831;1;0.0385;0.89;0.849;0.104;0.0492;72.509;285027;3
+5rUZi0gCuDt7L6mNS9u1Lg;spotify:track:5rUZi0gCuDt7L6mNS9u1Lg;Karkwa;Karnatakada Itihaasadali (From "Krishna Rukmini");0.41;0.589;5;-8.97;0;0.119;0.754;0.000175;0.127;0.82;80.25;269270;3
+7rZV1RY3Fgn3SUHeTrajr6;spotify:track:7rZV1RY3Fgn3SUHeTrajr6;Karkwa;Karawala Hodda;0.52;0.666;0;-7.902;0;0.194;0.0803;0.000809;0.101;0.912;97.706;219581;3
+7qeh23qujodS8tgCmpwxtb;spotify:track:7qeh23qujodS8tgCmpwxtb;Vinnie Who;Remedy;0.806;0.724;9;-6.108;0;0.0403;0.524;0.000213;0.0602;0.615;112.936;206000;4
+2YTRLoG5jdzCp4yg3B6OnH;spotify:track:2YTRLoG5jdzCp4yg3B6OnH;Vinnie Who;39;0.733;0.719;5;-8.776;0;0.0462;0.0609;0.108;0.0807;0.327;114.959;309787;4
+5GEZSuyODejtxbFT4eGigo;spotify:track:5GEZSuyODejtxbFT4eGigo;Vinnie Who;Only Dreaming;0.668;0.678;2;-6.894;0;0.0354;0.0556;0.0296;0.0667;0.665;128.017;208052;4
+6ig86lcdtWFVSxDSnz3SzT;spotify:track:6ig86lcdtWFVSxDSnz3SzT;Vinnie Who;How Can I Be Sure;0.74;0.859;9;-4.557;0;0.0528;0.193;0.00544;0.166;0.748;117.99;238493;4
+3cwK6eW9loPgZgJt4AjYJR;spotify:track:3cwK6eW9loPgZgJt4AjYJR;Vinnie Who;Accident or Will;0.819;0.694;4;-5.808;0;0.0381;0.164;0.000816;0.0814;0.729;113.999;244253;4
+4o64cijs3mZIZomr2xXUwl;spotify:track:4o64cijs3mZIZomr2xXUwl;Vinnie Who;What You Got Is Mine;0.71;0.947;8;-4.078;1;0.0298;0.166;0.192;0.0754;0.966;126.956;219413;4
+7qXils4PNMDEnUKcjpAX6k;spotify:track:7qXils4PNMDEnUKcjpAX6k;Vinnie Who;On Green Dolphin Street;0.593;0.412;0;-14.029;1;0.041;0.71;0.00256;0.0972;0.669;83.854;299493;4
+15D48LKGWeEtY3gBGJkuju;spotify:track:15D48LKGWeEtY3gBGJkuju;Vinnie Who;Killer Bee;0.551;0.795;0;-6.358;1;0.0672;0.0974;0.000398;0.713;0.633;187.941;285467;4
+4P02tmuLhhdTkxA506gAtQ;spotify:track:4P02tmuLhhdTkxA506gAtQ;Vinnie Who;Pretty Little Whores;0.688;0.705;11;-5.836;0;0.112;0.425;0;0.144;0.727;92.507;216800;4
+08MwVtWNBDJgyHm6ftvU4y;spotify:track:08MwVtWNBDJgyHm6ftvU4y;Vinnie Who;How Can I Be Sure;0.744;0.825;9;-6.361;0;0.044;0.129;0.0333;0.15;0.773;117.967;237880;4
+1s8CWryfobeqbpcbmztD6f;spotify:track:1s8CWryfobeqbpcbmztD6f;Vinnie Who;Pretty Little Whores;0.66;0.711;11;-5.844;0;0.128;0.433;0;0.401;0.704;92.604;214787;4
+5dyXCQd9av4kTwTd9GXh0c;spotify:track:5dyXCQd9av4kTwTd9GXh0c;Vinnie Who;Seven;0.458;0.479;10;-7.574;1;0.0253;0.559;0.0179;0.129;0.229;145.896;214200;4
+4GfQpKD2E0WoC0FBf8uH7A;spotify:track:4GfQpKD2E0WoC0FBf8uH7A;Vinnie Who;I've Found a New Baby;0.536;0.286;2;-19.9;0;0.05;0.937;0.897;0.118;0.691;127.168;291147;4
+5kxprX5TggKr4fLHgEj64b;spotify:track:5kxprX5TggKr4fLHgEj64b;Vinnie Who;Accident or Will;0.819;0.694;4;-5.808;0;0.0381;0.164;0.000902;0.0814;0.729;113.999;244253;4
+5JLZIx6jTppQDFZOkBZcgv;spotify:track:5JLZIx6jTppQDFZOkBZcgv;Vinnie Who;What You Got Is Mine;0.684;0.907;8;-5.965;1;0.0333;0.0246;0.0987;0.0757;0.914;126.972;219880;4
+38SF6XsRigrO1s6G3mLx3i;spotify:track:38SF6XsRigrO1s6G3mLx3i;Vinnie Who;Who Do You Love;0.219;0.282;1;-11.063;1;0.031;0.562;1.23e-06;0.0736;0.0452;94.225;269480;4
+0l5t9Kkoxkr2CJBTWO8lrh;spotify:track:0l5t9Kkoxkr2CJBTWO8lrh;Vinnie Who;The Scene;0.699;0.844;6;-6.445;1;0.0441;0.00679;0.399;0.0798;0.861;112.016;272707;4
+7uTwat8asrRwnAqv8l9AeW;spotify:track:7uTwat8asrRwnAqv8l9AeW;Vinnie Who;Much Much More;0.496;0.503;2;-9.129;1;0.0309;0.409;3.11e-05;0.213;0.338;121.679;205419;4
+7rgQN0E6dOcHqABtcRurUp;spotify:track:7rgQN0E6dOcHqABtcRurUp;Vinnie Who;39 - Brynjolfur Remix;0.59;0.69;0;-6.377;0;0.0277;0.113;0.266;0.109;0.266;115.003;453080;4
+4NfzoP53xO77cErxlhodOZ;spotify:track:4NfzoP53xO77cErxlhodOZ;Vinnie Who;Nights;0.772;0.781;5;-5.709;1;0.0322;0.0941;0.000152;0.105;0.936;119.997;182787;4
+5wB7oBYYTUwmMbjTOD9amI;spotify:track:5wB7oBYYTUwmMbjTOD9amI;Vinnie Who;The Wiggle;0.651;0.826;10;-5.188;0;0.0322;0.000879;0.00586;0.0492;0.742;133.494;316120;4
+3Jww4noJXgLQ049uZdfoez;spotify:track:3Jww4noJXgLQ049uZdfoez;Vinnie Who;Remedy;0.823;0.72;9;-7.156;0;0.0378;0.501;0.000407;0.0398;0.622;112.93;233787;4
+1IbZyxOD1dwA4pe0mwuxSL;spotify:track:1IbZyxOD1dwA4pe0mwuxSL;Vinnie Who;Femme Fatale;0.76;0.539;0;-8.304;1;0.0296;0.0447;0.00425;0.144;0.52;103.992;277880;4
+2MMYGw2iYoVRkaAsSntOW5;spotify:track:2MMYGw2iYoVRkaAsSntOW5;Vinnie Who;My Trap Boomin';0.763;0.494;9;-9.812;1;0.0719;0.0758;0;0.213;0.403;130.029;278779;4
+7KUnXzzt5Bo4PzCD2nSrON;spotify:track:7KUnXzzt5Bo4PzCD2nSrON;Vinnie Who;Glow (feat. Vinnie Who);0.883;0.678;9;-6.439;0;0.039;0.00115;0.33;0.099;0.671;121.016;250440;4
+3eNLRBnkVi5ShvXL0UIVLK;spotify:track:3eNLRBnkVi5ShvXL0UIVLK;Vinnie Who;Vinnie;0.372;0.807;1;-12.611;1;0.0615;0.00139;0.77;0.162;0.252;88.597;279693;4
+4qDobUpzYwVZvj7aaoid1U;spotify:track:4qDobUpzYwVZvj7aaoid1U;Vinnie Who;Vinnie;0.517;0.756;11;-8.715;0;0.0611;0.00087;0.000283;0.0943;0.809;125.749;267625;4
+0QySQHaTsNbAgzlHFZTDVP;spotify:track:0QySQHaTsNbAgzlHFZTDVP;Vinnie Who;Pretty Little Whores (feat. Vinnie Paz and Outerspace);0.649;0.705;9;-5.841;1;0.139;0.446;0;0.436;0.713;92.752;214813;4
+1tpZSDYrqLyWDFgX5tVPvH;spotify:track:1tpZSDYrqLyWDFgX5tVPvH;Vinnie Who;The Vinnie Song;0.616;0.357;0;-11.19;1;0.0512;0.481;2.01e-06;0.175;0.866;182.12;76000;4
+6s8XhJp9yi1YJhVsWNXpWi;spotify:track:6s8XhJp9yi1YJhVsWNXpWi;Vinnie Who;The Vinnie Poop Song;0.661;0.165;7;-13.607;1;0.0549;0.853;0;0.142;0.777;132.727;74967;4
+1Al71LU2Z0vkbMDpIBdsZX;spotify:track:1Al71LU2Z0vkbMDpIBdsZX;Vinnie Who;Songs Remind Me of You - Vinnie Who and Peacefinder Remix;0.573;0.416;9;-17.232;0;0.0389;0.592;0.373;0.224;0.406;128.004;378281;4
+1QANPIMjr8OEPrRpC7fu7T;spotify:track:1QANPIMjr8OEPrRpC7fu7T;Vinnie Who;Who You;0.792;0.61;11;-9.847;0;0.162;0.015;1.79e-05;0.0967;0.5;138.916;200098;1
+759e8eVDr4wGpxYwH3llgQ;spotify:track:759e8eVDr4wGpxYwH3llgQ;Vinnie Who;Who You Repping?;0.769;0.496;11;-10.604;1;0.426;0.206;0;0.107;0.485;149.814;148010;4
+7xSuMnwguaWzBM1zEtPhKK;spotify:track:7xSuMnwguaWzBM1zEtPhKK;Vinnie Who;Who Is Dis?;0.824;0.572;11;-4.832;1;0.366;0.297;0;0.197;0.557;140.081;239177;4
+1ag1WOYtX9qVavpBrHtohn;spotify:track:1ag1WOYtX9qVavpBrHtohn;Vinnie Who;Who Dat (Live);0.734;0.087;5;-15.039;1;0.118;0.00926;0;0.0901;0.324;143.992;182747;4
+0B9P7QXrKiab1HZtNEzwLd;spotify:track:0B9P7QXrKiab1HZtNEzwLd;Vinnie Who;Who Did You Think I Was;0.561;0.668;7;-12.912;1;0.039;0.00826;0.0165;0.0714;0.754;94.92;169309;4
+4ymaeLXmOD8YNQs93M0K7O;spotify:track:4ymaeLXmOD8YNQs93M0K7O;Vinnie Who;The Whole World Loves Italians;0.586;0.823;10;-4.594;1;0.0557;0.291;0.000231;0.146;0.859;149.842;168006;4
+0I86l3LuAbzAuFX5lufKPS;spotify:track:0I86l3LuAbzAuFX5lufKPS;Vinnie Who;WHOA!;0.814;0.665;1;-6.052;1;0.0415;0.0347;0;0.165;0.172;126.063;219474;4
+5VsMsmRAPHbVhutXIfBWbY;spotify:track:5VsMsmRAPHbVhutXIfBWbY;Vinnie Who;Who Dat - Remastered;0.829;0.689;1;-7.205;1;0.101;0.00102;0.000746;0.136;0.166;88.919;226389;4
+0oUBxZVxmM6Def9lOuwuoe;spotify:track:0oUBxZVxmM6Def9lOuwuoe;Vinnie Who;Who I Am;0.472;0.618;0;-9.473;0;0.0502;0.869;0.0045;0.147;0.708;192.545;251691;4
+1HzAW4IO2GcAxuS4ldzvWa;spotify:track:1HzAW4IO2GcAxuS4ldzvWa;Vinnie Who;Who Are We;0.577;0.722;9;-6.94;1;0.0327;0.00434;0.00469;0.195;0.394;77.05;194710;4
+3tCISxviQiqdmHkNY3fgrE;spotify:track:3tCISxviQiqdmHkNY3fgrE;Vinnie Who;The Highway;0.688;0.891;8;-6.005;1;0.0462;0.00973;0.00553;0.0911;0.881;97.976;197027;4
+5yZpobErJMjQFQ5oBJ329D;spotify:track:5yZpobErJMjQFQ5oBJ329D;Vinnie Who;Perfect Morning;0.82;0.571;7;-6.396;0;0.0352;0.495;3.88e-05;0.111;0.818;115.976;321600;4
+4xsmfHanVCFP22TDS87e6Y;spotify:track:4xsmfHanVCFP22TDS87e6Y;Vinnie Who;Wonderful;0.793;0.699;1;-6.625;0;0.0331;0.245;0.273;0.421;0.193;130.683;237520;4
+6b0kd0P7MQTqTyKiZWormr;spotify:track:6b0kd0P7MQTqTyKiZWormr;Vinnie Who;How Can I Be Sure;0.745;0.825;9;-6.361;0;0.044;0.129;0.0333;0.15;0.774;117.967;237880;4
+4Pr4rLnYLwAbWTHmxfzAVf;spotify:track:4Pr4rLnYLwAbWTHmxfzAVf;Vinnie Who;What You Got Is Mine;0.71;0.947;8;-4.078;1;0.0298;0.166;0.196;0.0754;0.966;126.947;219413;4
+1fOdUIbfjHlPcwLgW6FMv8;spotify:track:1fOdUIbfjHlPcwLgW6FMv8;Vinnie Who;Accident or Will;0.821;0.697;5;-5.401;1;0.0363;0.14;0.000114;0.156;0.671;114.011;203734;4
+4AZLf4t7mbWyzM8OVY57B9;spotify:track:4AZLf4t7mbWyzM8OVY57B9;Vinnie Who;Perfect Morning;0.82;0.571;7;-6.396;0;0.0352;0.495;3.88e-05;0.111;0.818;115.976;321600;4
+3jIhpAn6pjrcXVFjy3TyaM;spotify:track:3jIhpAn6pjrcXVFjy3TyaM;Vinnie Who;What You Got Is Mine;0.71;0.947;8;-4.078;1;0.0298;0.166;0.196;0.0754;0.966;126.947;219413;4
+3VHTOlxLMA3Qm39luQEiXo;spotify:track:3VHTOlxLMA3Qm39luQEiXo;Vinnie Who;Sweet Thang (Harmony);0.632;0.432;2;-9.014;1;0.0309;0.236;0.122;0.229;0.446;120.003;175397;4
+0qvo5kciIqZJn1t8jdfqDn;spotify:track:0qvo5kciIqZJn1t8jdfqDn;Radio Radio;Radio, Radio - 2021 Remaster;0.596;0.872;4;-4.925;1;0.0796;0.135;3.23e-06;0.278;0.899;146.734;186213;4
+6pTg4H8juKV9iSzrcVUbM3;spotify:track:6pTg4H8juKV9iSzrcVUbM3;Radio Radio;Dance Wiv Me - Radio Edit;0.878;0.746;11;-4.281;1;0.0451;0.0476;0;0.154;0.792;111.996;204093;4
+68zMm2sG8wCavafCFFYRPg;spotify:track:68zMm2sG8wCavafCFFYRPg;Radio Radio;Radio, Radio;0.597;0.842;4;-6.453;1;0.0715;0.138;3.98e-06;0.264;0.882;146.72;186147;4
+1gihuPhrLraKYrJMAEONyc;spotify:track:1gihuPhrLraKYrJMAEONyc;Radio Radio;Feel So Close - Radio Edit;0.707;0.924;7;-2.842;1;0.031;0.000972;0.00703;0.204;0.919;127.937;206413;4
+3VLVEjVAFaba6lsoOtkXec;spotify:track:3VLVEjVAFaba6lsoOtkXec;Radio Radio;Radio - Radio Edit;0.813;0.798;11;-8.733;0;0.0494;0.000105;0.898;0.0908;0.395;125.975;146314;4
+62yJjFtgkhUrXktIoSjgP2;spotify:track:62yJjFtgkhUrXktIoSjgP2;Radio Radio;Radioactive;0.448;0.784;9;-3.686;1;0.0627;0.106;0.000108;0.668;0.236;136.245;186813;4
+2YUOao1lyJ6L2CeFYRG16c;spotify:track:2YUOao1lyJ6L2CeFYRG16c;Radio Radio;Radio, Radio;0.54;0.879;9;-6.35;1;0.0492;0.000362;0.00211;0.112;0.785;146.219;189413;4
+1olCzMxaeiQKNO64ssWVGr;spotify:track:1olCzMxaeiQKNO64ssWVGr;Radio Radio;Talk About;0.814;0.874;6;-5.316;1;0.0425;0.000222;0.522;0.276;0.434;123.992;161041;4
+483XiZ5o13Cc1zoWV7jGml;spotify:track:483XiZ5o13Cc1zoWV7jGml;Radio Radio;Gecko (Overdrive) - Radio Edit;0.609;0.885;0;-5.469;1;0.0642;0.00521;1.15e-05;0.336;0.76;124.959;165441;4
+1HFfMOxCAT4GAwaPfCdmUs;spotify:track:1HFfMOxCAT4GAwaPfCdmUs;Radio Radio;Waves - Robin Schulz Radio Edit;0.829;0.51;5;-9.334;0;0.0369;0.00821;0.00143;0.0829;0.45;119.994;208133;4
+7i3w6V74Eo3RZNvNYq4h1v;spotify:track:7i3w6V74Eo3RZNvNYq4h1v;Radio Radio;The Radio - Radio Edit;0.595;0.755;6;-4.942;1;0.0344;0.00205;0;0.101;0.374;125.006;153000;4
+2qugfmw9Hi27DyIo2gite4;spotify:track:2qugfmw9Hi27DyIo2gite4;Radio Radio;Gold Dust - Radio Edit;0.451;0.948;0;-0.74;1;0.147;0.255;0;0.392;0.295;176.985;192447;4
+6U7M7qK0pOnifpA2T3GozN;spotify:track:6U7M7qK0pOnifpA2T3GozN;Radio Radio;Tonight's the Night;0.658;0.722;6;-7.11;0;0.0438;0.00218;0;0.0774;0.398;120.007;237727;4
+70LcF31zb1H0PyJoS1Sx1r;spotify:track:70LcF31zb1H0PyJoS1Sx1r;Radio Radio;Creep;0.515;0.43;7;-9.935;1;0.0372;0.0097;0.000133;0.129;0.104;91.844;238640;4
+4tagiLIz72YdcI8wpEGVwL;spotify:track:4tagiLIz72YdcI8wpEGVwL;Radio Radio;I Love My Radio - Radio Version;0.76;0.85;2;-6.666;1;0.0348;0.0397;0;0.0652;0.966;121.06;245319;4
+5UqCQaDshqbIk3pkhy4Pjg;spotify:track:5UqCQaDshqbIk3pkhy4Pjg;Radio Radio;Levels - Radio Edit;0.584;0.889;1;-5.941;0;0.0343;0.0462;0.828;0.309;0.464;126.04;199907;4
+40Wu7mZiWtT08iwRCeg53w;spotify:track:40Wu7mZiWtT08iwRCeg53w;Radio Radio;Radio - Radio Version;0.636;0.869;11;-5.692;0;0.0722;0.0657;2.86e-05;0.133;0.501;133.501;179760;4
+5mAh5J4w6BEZkajB1M7XrB;spotify:track:5mAh5J4w6BEZkajB1M7XrB;Radio Radio;Lola's Theme - Radio Edit;0.748;0.845;5;-4.612;0;0.0536;0.00083;0.000225;0.068;0.659;123.925;207067;4
+3oycmtFDZzKCnhwnOWWTrb;spotify:track:3oycmtFDZzKCnhwnOWWTrb;Radio Radio;The Old Radio - Radio Edit;0.437;0.597;6;-6.754;1;0.0368;0.698;0;0.134;0.651;79.904;192947;3
+2V65y3PX4DkRhy1djlxd9p;spotify:track:2V65y3PX4DkRhy1djlxd9p;Radio Radio;Don't You Worry Child - Radio Edit;0.612;0.84;11;-3.145;0;0.0509;0.112;0;0.116;0.438;129.042;212862;4
+0z6ZIn5eEZWEzahWrVsK0k;spotify:track:0z6ZIn5eEZWEzahWrVsK0k;Radio Radio;Wow;0.792;0.771;6;-5.511;0;0.108;0.018;0;0.0424;0.88;112.993;219707;4
+11yjUXpG3nnPK3gzDzVARC;spotify:track:11yjUXpG3nnPK3gzDzVARC;Radio Radio;Treasure - Sharam Radio Remix;0.771;0.761;5;-4.693;0;0.0678;0.0219;0.00025;0.213;0.678;125.032;221177;4
+3pxqNGtuQdRfPx5FxFJX4c;spotify:track:3pxqNGtuQdRfPx5FxFJX4c;Radio Radio;Jacuzzi;0.766;0.795;4;-2.866;0;0.236;0.104;0;0.172;0.842;92.007;184147;4
+7vFoFDWqTX0mHzLfrF1Cfy;spotify:track:7vFoFDWqTX0mHzLfrF1Cfy;Radio Radio;Cheerleader - Felix Jaehn Remix Radio Edit;0.782;0.685;4;-6.237;1;0.0309;0.166;1.18e-05;0.16;0.603;118.016;180566;4
+4fk72hAEtKRTmEEeYzobJv;spotify:track:4fk72hAEtKRTmEEeYzobJv;Radio Radio;Creep - Radio Edit;0.556;0.485;7;-8.09;1;0.0335;0.00696;0.000234;0.11;0.12;92.616;237547;4
+4llK75pXNWZz6KAho2Gp16;spotify:track:4llK75pXNWZz6KAho2Gp16;Radio Radio;She Will Be Loved - Radio Mix;0.651;0.663;0;-5.569;0;0.0281;0.228;0;0.0994;0.465;102.0;259453;4
+4wHda5xcAbHNYM67ZoUAMA;spotify:track:4wHda5xcAbHNYM67ZoUAMA;Radio Radio;My Radio - Radio Edit;0.535;0.792;8;-7.722;1;0.0945;0.022;9.72e-06;0.191;0.276;128.021;196229;4
+4d6iVPhEpZI48CLkNbWbkq;spotify:track:4d6iVPhEpZI48CLkNbWbkq;Radio Radio;Gravity (feat. Ella Eyre) - Radio Edit;0.512;0.775;5;-2.223;0;0.036;0.21;0;0.135;0.579;153.699;197671;4
+6rfUs9MImhM7U08uJyBGXA;spotify:track:6rfUs9MImhM7U08uJyBGXA;Radio Radio;RADIO! RADIO! RADIO! - Re-mix Version;0.474;0.987;9;-3.299;1;0.144;0.0908;0.0103;0.376;0.502;163.756;239827;4
+71NJqORRmwlcZSLk0VsFjU;spotify:track:71NJqORRmwlcZSLk0VsFjU;Radio Radio;Pretty Green Eyes - Radio Edit;0.553;0.775;1;-10.284;0;0.043;0.212;0;0.0728;0.51;139.993;201920;4
+44RI2urltvir1EghTRZFzn;spotify:track:44RI2urltvir1EghTRZFzn;Radio Radio;Dekshoo;0.778;0.794;2;-6.592;0;0.0914;0.356;0;0.286;0.875;120.053;205693;4
+1xNcBAoUw8Hz6LqK2jt4Ff;spotify:track:1xNcBAoUw8Hz6LqK2jt4Ff;Radio Radio;Call on Me - Radio Mix;0.597;0.837;10;-6.518;1;0.375;0.00427;0.00115;0.839;0.447;126.342;171360;4
+4CbgWlCrrONPYU75YdPmvh;spotify:track:4CbgWlCrrONPYU75YdPmvh;Radio Radio;202 Radio - Radio;0.702;0.978;4;-2.627;0;0.177;0.232;0.000631;0.0956;0.779;137.05;165493;4
+6n7rJUcwmQDestMYXoSoZF;spotify:track:6n7rJUcwmQDestMYXoSoZF;Radio Radio;All Cried Out (feat. Alex Newell) - Radio Edit;0.657;0.757;0;-5.257;0;0.0584;0.428;0;0.0728;0.672;122.056;170716;4
+3G2SxA6ysKVr77ZDkKSFGs;spotify:track:3G2SxA6ysKVr77ZDkKSFGs;Radio Radio;Last Call;0.809;0.684;2;-4.858;1;0.242;0.067;0;0.0678;0.724;100.036;196815;4
+7o7E1nrHWncYY7PY94gCiX;spotify:track:7o7E1nrHWncYY7PY94gCiX;Radio Radio;Video Killed The Radio Star;0.68;0.678;1;-11.548;1;0.0754;0.103;0.00828;0.204;0.251;131.165;252773;4
+5fWJXDdKGLIIrkzBXiVcCb;spotify:track:5fWJXDdKGLIIrkzBXiVcCb;Radio Radio;Guess What?;0.871;0.624;10;-6.26;1;0.132;0.385;0;0.0948;0.659;100.032;264680;4
+4NbvIwYcwx8dNGYfUX2bKB;spotify:track:4NbvIwYcwx8dNGYfUX2bKB;Radio Radio;My Head Is A Jungle - MK Remix / Radio Edit;0.684;0.789;7;-6.889;0;0.0377;0.084;0.00289;0.217;0.411;123.989;205161;4
+2bkgxmK9oBLRtkgloVEi1B;spotify:track:2bkgxmK9oBLRtkgloVEi1B;Radio Radio;9 Piece Luggage Set;0.777;0.694;1;-6.971;0;0.311;0.745;0;0.252;0.674;104.999;197560;4
+1IqANTbvKLojRoomq685LA;spotify:track:1IqANTbvKLojRoomq685LA;Radio Radio;Flowers - Sunship Radio Edit;0.746;0.906;0;-9.003;0;0.0975;0.434;0.00458;0.52;0.942;131.856;230907;4
+33xsdVV4EAnixtC8mK91KW;spotify:track:33xsdVV4EAnixtC8mK91KW;Radio Radio;Last Call;0.807;0.666;9;-5.383;0;0.253;0.0702;0;0.0679;0.709;100.042;196815;4
+5TmFTHZp7HjBXjjsFvCY6h;spotify:track:5TmFTHZp7HjBXjjsFvCY6h;Radio Radio;Destination Calabria - Radio Edit;0.627;0.954;2;-4.804;1;0.0425;0.0015;0.000814;0.292;0.312;128.016;223112;4
+4eV6rFyg1GqFJxu1TXycGN;spotify:track:4eV6rFyg1GqFJxu1TXycGN;Radio Radio;Cargué dans ma chaise;0.719;0.877;8;-4.891;0;0.0491;0.617;3.46e-05;0.154;0.809;104.982;228533;4
+2Foc5Q5nqNiosCNqttzHof;spotify:track:2Foc5Q5nqNiosCNqttzHof;Radio Radio;Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit;0.794;0.811;6;-8.966;0;0.038;0.0426;1.07e-06;0.101;0.862;116.047;248413;4
+0ZGvk21WevOWi2rI03lDGm;spotify:track:0ZGvk21WevOWi2rI03lDGm;Radio Radio;Ej feel zoo;0.389;0.87;6;-5.073;0;0.29;0.0366;0;0.318;0.757;179.937;207163;4
+77jaOS5YDCDGPto5Pomi4h;spotify:track:77jaOS5YDCDGPto5Pomi4h;Radio Radio;I Wanna Feel - Radio Edit;0.692;0.896;10;-6.298;0;0.0637;0.0764;0.00194;0.157;0.804;121.999;185934;4
+49QQooVPwJkPZvNR3AqrWC;spotify:track:49QQooVPwJkPZvNR3AqrWC;Radio Radio;On The Radio - Radio Version;0.703;0.502;11;-6.249;0;0.0318;0.00197;4.22e-06;0.261;0.655;127.961;178720;4
+426vBhxw4upEf11BqBBgs0;spotify:track:426vBhxw4upEf11BqBBgs0;Radio Radio;Beat Again - Radio Edit;0.884;0.919;11;-5.937;1;0.0697;0.0222;0;0.0679;0.967;120.012;199160;4
+6jgkEbmQ2F2onEqsEhiliL;spotify:track:6jgkEbmQ2F2onEqsEhiliL;Mac DeMarco;My Kind of Woman;0.501;0.765;6;-7.063;0;0.0281;0.00294;0.49;0.184;0.46;91.771;190846;4
+4LpUpiYoZ2M3Z1kmhn4EQo;spotify:track:4LpUpiYoZ2M3Z1kmhn4EQo;Mac DeMarco;Still Beating;0.709;0.496;1;-10.528;0;0.0417;0.581;0.191;0.151;0.469;78.477;181587;4
+7H7NyZ3G075GqPx2evsfeb;spotify:track:7H7NyZ3G075GqPx2evsfeb;Mac DeMarco;Chamber Of Reflection;0.538;0.557;11;-8.678;1;0.0914;0.262;0.914;0.102;0.506;131.03;231724;4
+3HlK8txWAdtKMrbsqX40pl;spotify:track:3HlK8txWAdtKMrbsqX40pl;Mac DeMarco;Freaking Out the Neighborhood;0.565;0.832;8;-5.751;0;0.108;0.0638;0.0288;0.386;0.847;143.303;173889;4
+2R4AlwtrrkMaRKojcTIzmL;spotify:track:2R4AlwtrrkMaRKojcTIzmL;Mac DeMarco;For the First Time;0.551;0.529;5;-10.469;0;0.0517;0.296;0.0093;0.178;0.521;75.515;182307;4
+63q9LqTK5iiZLy3cTvLMUf;spotify:track:63q9LqTK5iiZLy3cTvLMUf;Mac DeMarco;Another One;0.694;0.407;1;-10.325;0;0.0276;0.823;0.021;0.106;0.719;147.682;160991;4
+2aaCNg42RA74s0EmHTBqS7;spotify:track:2aaCNg42RA74s0EmHTBqS7;Mac DeMarco;No Other Heart;0.67;0.684;2;-7.47;1;0.0242;0.513;0.0103;0.126;0.852;94.261;173118;4
+2QzKAF0y1BQhxwg8N05Uog;spotify:track:2QzKAF0y1BQhxwg8N05Uog;Mac DeMarco;Watching Him Fade Away;0.74;0.072;3;-17.984;1;0.0713;0.981;0.00698;0.111;0.297;139.081;143080;4
+2fhOljbX79loRcdl47SFye;spotify:track:2fhOljbX79loRcdl47SFye;Mac DeMarco;Moonlight on the River;0.662;0.478;9;-8.631;1;0.0451;0.252;0.833;0.216;0.43;139.98;422613;4
+5VdaMUzoQetwxQwtWAd022;spotify:track:5VdaMUzoQetwxQwtWAd022;Mac DeMarco;Salad Days;0.431;0.771;5;-7.176;1;0.0375;0.0877;0.0214;0.121;0.772;201.002;145893;4
+4RpwQDPnn1GhWpZooUcCzd;spotify:track:4RpwQDPnn1GhWpZooUcCzd;Mac DeMarco;On the Level;0.573;0.473;8;-10.838;0;0.0269;0.0927;0.398;0.199;0.523;77.494;227653;4
+0v8J17a6cO0wWp7z731GTd;spotify:track:0v8J17a6cO0wWp7z731GTd;Mac DeMarco;One More Love Song;0.708;0.323;9;-11.199;0;0.03;0.765;0.52;0.0939;0.502;141.013;241067;4
+1LF3HPHVajnRT1mPCOqfOF;spotify:track:1LF3HPHVajnRT1mPCOqfOF;Mac DeMarco;Another (Demo) One #2;0.774;0.454;5;-8.441;1;0.0282;0.818;0.000977;0.181;0.737;139.808;166834;4
+6WZjjf4mKurHPC5BhdGwet;spotify:track:6WZjjf4mKurHPC5BhdGwet;Mac DeMarco;Ode to Viceroy;0.515;0.633;2;-6.305;1;0.05;0.208;0.014;0.115;0.31;94.562;233818;4
+3RA0LaRQuDwVvDNpDtEc9b;spotify:track:3RA0LaRQuDwVvDNpDtEc9b;Mac DeMarco;My Kind of Woman - Instrumental;0.256;0.605;8;-10.94;1;0.0586;0.694;0.86;0.322;0.46;172.735;212907;4
+7LcmuGeSXQzQlteW3yGtWb;spotify:track:7LcmuGeSXQzQlteW3yGtWb;Mac DeMarco;Thy Mission;0.419;0.94;10;-6.054;0;0.116;0.203;0.822;0.303;0.355;160.026;221000;4
+2RwOqicYzwMSuzKzHx78jm;spotify:track:2RwOqicYzwMSuzKzHx78jm;Mac DeMarco;This Old Dog;0.749;0.401;3;-10.856;1;0.0389;0.219;0.0956;0.206;0.614;138.827;150547;4
+6drC7tBnx8AiYfTfBmDPVO;spotify:track:6drC7tBnx8AiYfTfBmDPVO;Mac DeMarco;Blue Boy;0.41;0.793;10;-5.848;1;0.0576;0.446;0.29;0.213;0.601;162.742;126224;4
+2JPlAh94PTtjZmCs2dY0P7;spotify:track:2JPlAh94PTtjZmCs2dY0P7;Mac DeMarco;Let Her Go;0.594;0.664;6;-7.588;1;0.0292;0.00512;0.126;0.162;0.811;111.123;182607;4
+5bAS2fMy1iHbw3DWrhI2ih;spotify:track:5bAS2fMy1iHbw3DWrhI2ih;Mac DeMarco;The Curse (feat. Mac Demarco);0.605;0.49;0;-7.148;1;0.0465;0.128;0.000119;0.38;0.355;140.172;305512;4
+2nMTBUdxkdCZWo7n3upy1e;spotify:track:2nMTBUdxkdCZWo7n3upy1e;Mac DeMarco;MENTHOL*;0.747;0.848;9;-4.081;1;0.103;0.629;0.0102;0.633;0.7;128.946;187107;4
+5gC8P6NwgqxcTYnwml5q5j;spotify:track:5gC8P6NwgqxcTYnwml5q5j;Mac DeMarco;One Another;0.82;0.579;5;-9.601;1;0.0279;0.196;0.184;0.113;0.847;104.93;166213;4
+2Dgfey8RouHR9ziGmThLli;spotify:track:2Dgfey8RouHR9ziGmThLli;Mac DeMarco;Cooking Up Something Good;0.751;0.442;0;-7.551;1;0.0313;0.0803;0.00141;0.123;0.851;98.068;161043;3
+5LRzyLUOpeNZKZaIpj7SrF;spotify:track:5LRzyLUOpeNZKZaIpj7SrF;Mac DeMarco;Dreaming;0.456;0.571;11;-8.384;1;0.0598;0.00854;0.0916;0.138;0.14;163.451;147324;4
+4ewRM5SP4YhmlfKhi5uSjS;spotify:track:4ewRM5SP4YhmlfKhi5uSjS;Mac DeMarco;My Old Man;0.658;0.575;1;-11.493;1;0.0333;0.677;0.286;0.0985;0.83;149.275;221653;4
+0yzbBhKzbPnAwxT1UNKfHS;spotify:track:0yzbBhKzbPnAwxT1UNKfHS;Mac DeMarco;Treat Her Better;0.452;0.689;5;-6.194;0;0.0422;0.383;0.011;0.273;0.342;206.733;229121;4
+7EAMXbLcL0qXmciM5SwMh2;spotify:track:7EAMXbLcL0qXmciM5SwMh2;Mac DeMarco;Heart To Heart;0.901;0.136;8;-16.127;0;0.102;0.667;0.354;0.109;0.643;150.076;211140;4
+6N4WUdbz6HVKy6u6JX1KqK;spotify:track:6N4WUdbz6HVKy6u6JX1KqK;Mac DeMarco;Preoccupied;0.813;0.212;8;-15.421;1;0.163;0.329;0.0725;0.123;0.482;159.062;239646;4
+1Ijh9lrbGPUj1tui7OGpnB;spotify:track:1Ijh9lrbGPUj1tui7OGpnB;Mac DeMarco;A Heart Like Hers;0.56;0.381;1;-8.503;1;0.0291;0.799;0.000142;0.125;0.558;147.431;241861;4
+4DWyAq9ExNPogDaduac3Ym;spotify:track:4DWyAq9ExNPogDaduac3Ym;Mac DeMarco;Rolled Up;0.792;0.461;10;-11.706;0;0.243;0.729;0.326;0.118;0.409;174.402;183481;3
+6SCWeju8rwuLSIE9dwHtHe;spotify:track:6SCWeju8rwuLSIE9dwHtHe;Mac DeMarco;Real (with Mac DeMarco);0.488;0.56;0;-9.654;1;0.155;0.617;0.000147;0.104;0.221;90.996;258307;4
+2y5JrQefAWnrPQqYb2byTp;spotify:track:2y5JrQefAWnrPQqYb2byTp;Mac DeMarco;Brother;0.569;0.674;3;-5.194;0;0.0301;0.129;0.0631;0.431;0.513;93.196;212746;4
+5pu3OAD60oYp9D2zxZNLdi;spotify:track:5pu3OAD60oYp9D2zxZNLdi;Mac DeMarco;When Your Heart Says Yes - Mac DeMarco Remix;0.707;0.693;6;-8.448;1;0.0551;0.573;0.00686;0.0444;0.644;105.024;210286;4
+22YaLT8M1Mnez2kVirzlkp;spotify:track:22YaLT8M1Mnez2kVirzlkp;Mac DeMarco;The Way You'd Love Her;0.641;0.501;1;-9.333;1;0.0226;0.589;0.0599;0.335;0.935;92.181;156430;4
+508eAloKwV2WF4Agk94rQB;spotify:track:508eAloKwV2WF4Agk94rQB;Mac DeMarco;Passing Out Pieces;0.417;0.73;5;-6.776;1;0.0368;0.000584;4.31e-06;0.0766;0.423;81.181;167091;4
+56KPaXhRx8U6YB2stCJEgY;spotify:track:56KPaXhRx8U6YB2stCJEgY;Mac DeMarco;The Stars Keep On Calling My Name;0.686;0.721;7;-5.757;1;0.0349;0.0275;0.0104;0.36;0.614;136.635;142769;4
+5Bc2A2xlkRhe3POKAFo1Rg;spotify:track:5Bc2A2xlkRhe3POKAFo1Rg;Mac DeMarco;A Wolf Who Wears Sheeps Clothes;0.828;0.538;5;-8.559;0;0.0383;0.276;0.0485;0.0828;0.701;115.046;169067;4
+3OrQzlqFmedMua5WxgCVrI;spotify:track:3OrQzlqFmedMua5WxgCVrI;Mac DeMarco;Moving Men;0.823;0.664;10;-8.673;1;0.0755;0.102;0.114;0.287;0.666;124.962;167093;3
+6IvKEu4YwRYba9ZG6H7MIL;spotify:track:6IvKEu4YwRYba9ZG6H7MIL;Mac DeMarco;Baby You're Out;0.717;0.58;11;-10.52;0;0.0486;0.429;0.287;0.0947;0.553;93.001;157720;4
+76sgNFRjg9KRVEQnM8IJC6;spotify:track:76sgNFRjg9KRVEQnM8IJC6;Mac DeMarco;Pepperoni Playboy;0.645;0.526;3;-10.068;1;0.0448;0.546;0.716;0.297;0.807;89.754;151148;4
+42EMSKPgulAzr4RLY65Eut;spotify:track:42EMSKPgulAzr4RLY65Eut;Mac DeMarco;Nobody;0.877;0.178;3;-13.987;1;0.102;0.776;0.0193;0.107;0.442;74.997;212460;4
+4UeeEpl4omoe9T9U1ULVL4;spotify:track:4UeeEpl4omoe9T9U1ULVL4;Mac DeMarco;Let My Baby Stay;0.785;0.285;4;-14.635;1;0.0312;0.784;0.545;0.0995;0.634;89.88;248172;4
+49iNhnDmNnHYxPvEIVtPiN;spotify:track:49iNhnDmNnHYxPvEIVtPiN;Mac DeMarco;Dreams from Yesterday;0.857;0.368;7;-10.87;1;0.041;0.0611;0.000508;0.0703;0.723;97.509;207160;4
+5qaM8LJZw7Xy0yyrxpOelX;spotify:track:5qaM8LJZw7Xy0yyrxpOelX;Mac DeMarco;Without Me;0.516;0.584;1;-7.612;1;0.0404;0.489;0.228;0.271;0.573;161.738;177196;4
+7veyzFpXGgZj5Ul3TZ1lBc;spotify:track:7veyzFpXGgZj5Ul3TZ1lBc;Mac DeMarco;Goodbye Weekend;0.559;0.793;2;-4.019;0;0.0346;0.174;0.021;0.329;0.604;80.081;179767;4
+1d52ojZ5jit1QcJ3k6D4Uv;spotify:track:1d52ojZ5jit1QcJ3k6D4Uv;Mac DeMarco;Rolled Up;0.796;0.462;10;-11.706;0;0.245;0.738;0.333;0.118;0.408;174.367;183481;3
+5KW11tUGHVDBbyoPuqG4U9;spotify:track:5KW11tUGHVDBbyoPuqG4U9;Mac DeMarco;Sister;0.696;0.0209;11;-18.118;0;0.0608;0.985;0.102;0.109;0.481;126.146;78067;4
+231b1KZQe8rAhkKwtaHgFT;spotify:track:231b1KZQe8rAhkKwtaHgFT;Mac DeMarco;Still Together;0.629;0.159;3;-14.341;1;0.0553;0.636;0.000654;0.0673;0.283;96.703;219370;4
+0ixa8irs9X6T8Yu5nJmFfZ;spotify:track:0ixa8irs9X6T8Yu5nJmFfZ;Mac DeMarco;Only You;0.373;0.755;1;-6.654;0;0.115;0.00544;0.000973;0.084;0.736;114.457;178772;4
+7JyhhEb1LKIuDiHy6bWdet;spotify:track:7JyhhEb1LKIuDiHy6bWdet;Mac DeMarco;Finally Alone;0.826;0.485;5;-10.92;1;0.0345;0.513;0.00224;0.109;0.852;96.497;144757;4
+35QZaWQRkmnAVqBF1TLCxQ;spotify:track:35QZaWQRkmnAVqBF1TLCxQ;nan;Nancy Mulligan;0.68;0.852;7;-4.35;1;0.0349;0.117;0;0.0866;0.858;101.993;179787;4
+6E82LbqgN7oJ7ulXTnsl3b;spotify:track:6E82LbqgN7oJ7ulXTnsl3b;nan;Casi Nada - Nando Pro Remix;0.745;0.8;6;-5.008;0;0.0375;0.0447;0;0.222;0.763;102.009;203160;4
+1ZOeXUr9ieWw80zs1T6pkp;spotify:track:1ZOeXUr9ieWw80zs1T6pkp;nan;Nancy Boy;0.391;0.958;10;-5.494;1;0.0832;0.000181;0.000899;0.122;0.326;89.88;210933;4
+1d9wqLAGcsKa62KFtlHhQd;spotify:track:1d9wqLAGcsKa62KFtlHhQd;nan;Casi Nada - Nando Pro Remix;0.745;0.8;6;-5.008;0;0.0375;0.0447;0;0.222;0.763;102.009;203160;4
+1cCbsojaA6GIT7Y3zuMJ1q;spotify:track:1cCbsojaA6GIT7Y3zuMJ1q;nan;Nangs;0.536;0.526;0;-9.754;1;0.181;0.159;0.847;0.128;0.434;167.608;107533;4
+5BB0Jzw60KyfSTyjJqtely;spotify:track:5BB0Jzw60KyfSTyjJqtely;nan;Na Na Na (Na Na Na Na Na Na Na Na Na);0.411;0.986;8;-2.522;0;0.0583;0.000264;0.00148;0.371;0.649;165.981;205960;4
+3RKSqsobz9yQhfwtUVuUhM;spotify:track:3RKSqsobz9yQhfwtUVuUhM;nan;Nannali Naanilla (From "Kariya");0.538;0.744;6;-5.457;0;0.0493;0.607;2.91e-05;0.614;0.698;93.966;251775;4
+7ixiCZEHWHc8FxaQXQh2P4;spotify:track:7ixiCZEHWHc8FxaQXQh2P4;nan;Bam Bam;0.722;0.605;5;-6.07;1;0.153;0.825;0.0178;0.248;0.709;165.998;196507;4
+77RNVzAVwqWiZrZuWqMV2i;spotify:track:77RNVzAVwqWiZrZuWqMV2i;nan;Nancy From Now On;0.534;0.641;0;-9.172;1;0.0276;0.523;0.0428;0.0904;0.505;107.081;234160;4
+5LIleJbUUgtvYnBW9wfY1W;spotify:track:5LIleJbUUgtvYnBW9wfY1W;nan;Na Na;0.67;0.476;9;-6.253;0;0.0406;0.328;0;0.104;0.235;96.975;231907;4
+1WBSFlSLyOZnSa8fj7a5yC;spotify:track:1WBSFlSLyOZnSa8fj7a5yC;nan;Nantes;0.434;0.531;1;-9.553;1;0.0425;0.781;0.0134;0.135;0.641;131.199;230200;4
+1sDjxNFyypPdv3SuHb8tSB;spotify:track:1sDjxNFyypPdv3SuHb8tSB;nan;Hannah My Nana;0.603;0.00543;1;-32.068;1;0.0629;0.996;0.97;0.0921;0.839;63.589;93000;3
+7Hc9zpMnlEnIGhPu04E2lV;spotify:track:7Hc9zpMnlEnIGhPu04E2lV;nan;Nang;0.817;0.807;7;-7.177;1;0.192;0.196;2.5e-05;0.436;0.387;140.104;209143;4
+084LwoVbV9TMRUSZUIkPmV;spotify:track:084LwoVbV9TMRUSZUIkPmV;nan;Nana;0.678;0.296;5;-11.525;1;0.0299;0.797;0.00348;0.113;0.245;111.018;238296;4
+2HEgBBls7l0smWTxPx0MtZ;spotify:track:2HEgBBls7l0smWTxPx0MtZ;nan;These Boots Are Made for Walkin';0.628;0.42;9;-10.547;1;0.177;0.395;2.55e-06;0.104;0.337;165.304;166133;4
+2n45sK6aEas1Wwnt4Obj7z;spotify:track:2n45sK6aEas1Wwnt4Obj7z;nan;Ah W Noss;0.774;0.933;7;-6.248;0;0.0691;0.125;6.21e-05;0.0428;0.967;141.967;281053;4
+0Psz3az3RIYfJpnsajBT8N;spotify:track:0Psz3az3RIYfJpnsajBT8N;nan;Nanã;0.685;0.735;4;-6.337;0;0.0334;0.191;0.038;0.188;0.385;94.035;190827;3
+0NJyThbEN5v6vFWrsH5uPF;spotify:track:0NJyThbEN5v6vFWrsH5uPF;nan;Inta Eyh;0.744;0.716;2;-6.086;0;0.0318;0.0768;3.36e-06;0.0695;0.776;136.013;304720;4
+7dEfa89dZfo6CQPdsgGCF6;spotify:track:7dEfa89dZfo6CQPdsgGCF6;nan;Nandemonaiya - movie ver.;0.496;0.462;6;-6.189;1;0.0307;0.245;0;0.282;0.514;167.936;344053;4
+6mmVqQHfzztSJE0L95WqgT;spotify:track:6mmVqQHfzztSJE0L95WqgT;nan;Polonaise in F Major (Nannerl Notenbuch No.44);0.57;0.27;4;-19.043;1;0.0506;0.491;0.352;0.142;0.701;96.223;88467;3
+4bEqJTQXMOGGnvFbDOMnHi;spotify:track:4bEqJTQXMOGGnvFbDOMnHi;nan;Ya Tabtab Wa Dallaa;0.777;0.806;7;-7.57;0;0.0348;0.0817;2.24e-05;0.0295;0.963;140.002;268237;4
+0Q54saQUTiRtRXiDGZVVfF;spotify:track:0Q54saQUTiRtRXiDGZVVfF;nan;Polonaise in F Major (Nannerl Notenbuch No.44);0.57;0.27;4;-19.043;1;0.0506;0.491;0.352;0.142;0.701;96.223;88467;3
+1dcNEEtODRVZEevQ20Cgmy;spotify:track:1dcNEEtODRVZEevQ20Cgmy;nan;Nangangamba;0.62;0.547;1;-6.772;1;0.0248;0.112;0;0.19;0.208;98.032;210355;4
+4wX9Y8KB6RcxOlMwc7bZgp;spotify:track:4wX9Y8KB6RcxOlMwc7bZgp;nan;Polonaise in F Major (Nannerl Notenbuch No.44);0.57;0.27;4;-19.043;1;0.0506;0.491;0.352;0.142;0.701;96.223;88467;3
+6dkYNFH4F8BttEgtjIPoI3;spotify:track:6dkYNFH4F8BttEgtjIPoI3;nan;Na Na Na Na Na (Caught Slippin);0.833;0.895;9;-4.764;1;0.204;0.0623;0.00031;0.317;0.77;93.99;153260;4
+4feXcsElKIVsGwkbnTHAfV;spotify:track:4feXcsElKIVsGwkbnTHAfV;nan;Somethin' Stupid;0.257;0.338;4;-12.902;1;0.0357;0.736;0;0.252;0.544;207.356;162493;4
+5xalrvRAcqDkRtm4OTmcmk;spotify:track:5xalrvRAcqDkRtm4OTmcmk;nan;Polonaise in F Major (Nannerl Notenbuch No.44);0.57;0.27;4;-19.043;1;0.0506;0.491;0.352;0.142;0.701;96.223;88467;3
+4csONhd0Qm1bTLRlJaqNZO;spotify:track:4csONhd0Qm1bTLRlJaqNZO;nan;Nan's Song;0.246;8.77e-05;9;-9.821;0;0.0441;0.199;9.49e-05;0.123;0.1;77.817;938107;4
+75eWcdirphZClDeEinSvnp;spotify:track:75eWcdirphZClDeEinSvnp;nan;Nangilima;0.567;0.893;11;-5.747;1;0.0408;0.00941;0;0.0873;0.706;77.492;226947;4
+2cUzIBGMvx2BZ2Q1fzjdl1;spotify:track:2cUzIBGMvx2BZ2Q1fzjdl1;nan;NUNU NANA;0.743;0.689;7;-2.846;1;0.0289;0.0198;0;0.708;0.504;104.936;195836;4
+5zLuvWbLTtOiSlQwaQqPRV;spotify:track:5zLuvWbLTtOiSlQwaQqPRV;nan;Nantucket;0.382;0.432;6;-8.387;1;0.0505;0.499;0;0.17;0.507;202.617;224627;3
+0AFmxuY039QJ7aNIeAID6N;spotify:track:0AFmxuY039QJ7aNIeAID6N;nan;Nandina;0.831;0.458;7;-10.59;1;0.238;0.668;0;0.226;0.618;98.512;177000;4
+1pjkgsvkfkvNWIQWHJWyka;spotify:track:1pjkgsvkfkvNWIQWHJWyka;nan;Divertimento No. 11 in D, K.251 "Nannerl-Septett": 3. Andantino;0.247;0.0986;9;-19.878;1;0.0438;0.958;0.504;0.236;0.16;111.024;274493;4
+2Ce8Kyv2yNJ061LQhRpB27;spotify:track:2Ce8Kyv2yNJ061LQhRpB27;nan;Na Na;0.584;0.771;5;-5.689;0;0.0565;0.0194;2.1e-06;0.144;0.506;92.08;233478;4
+1UB5dPMA21ErpRtVFCCvxD;spotify:track:1UB5dPMA21ErpRtVFCCvxD;nan;Nänie von Friedrich Schiller, für Chor und Orchester, Op. 82;0.0717;0.0819;2;-21.491;1;0.0444;0.98;0.898;0.0942;0.0367;77.678;841667;3
+0VSL4mL1mFVfgHX8KuMAro;spotify:track:0VSL4mL1mFVfgHX8KuMAro;nan;Divertimento No. 11 in D, K.251 "Nannerl-Septett": Marcia alla francese;0.402;0.0883;2;-16.101;1;0.0334;0.985;0.795;0.392;0.56;129.759;122000;4
+7hVXZVcmpcHq1DJ05dnFZK;spotify:track:7hVXZVcmpcHq1DJ05dnFZK;nan;NANA;0.816;0.784;9;-5.275;0;0.284;0.404;1.57e-06;0.0954;0.566;96.991;197938;4
+0MSdFcjZzD76aMYeqwDEir;spotify:track:0MSdFcjZzD76aMYeqwDEir;nan;Divertimento in D Major, K.251 "Nannerl-Septett": 6. Marcia alla francese;0.506;0.0809;2;-16.4;1;0.0588;0.986;0.0837;0.283;0.608;131.608;123333;4
+1UUgngRGzFWfgpyN0WAN1r;spotify:track:1UUgngRGzFWfgpyN0WAN1r;nan;Naan Pizhai (From "Kaathuvaakula Rendu Kaadhal");0.401;0.488;2;-8.417;1;0.0288;0.6;0;0.124;0.455;149.951;243570;3
+7tRbWwPfAXsoAsWVN47slm;spotify:track:7tRbWwPfAXsoAsWVN47slm;nan;Nansensubungaku;0.565;0.93;11;-2.107;0;0.0558;0.0915;0;0.0491;0.958;154.099;205750;4
+41mrmbZXZrS4BfdVzfzMR8;spotify:track:41mrmbZXZrS4BfdVzfzMR8;nan;Divertimento in D Major, K.251 "Nannerl-Septett": 6. Marcia alla francese;0.506;0.0809;2;-16.4;1;0.0588;0.986;0.0837;0.283;0.608;131.608;123333;4
+5dLaw6SSYw1I7FqcJAigd2;spotify:track:5dLaw6SSYw1I7FqcJAigd2;nan;NA NA NA;0.704;0.636;10;-5.438;0;0.0362;0.289;0.000185;0.115;0.504;119.997;200188;4
+5jzSXpqn4tCaMv02PmncBV;spotify:track:5jzSXpqn4tCaMv02PmncBV;nan;Ee Nana Kanane (From "Abhi");0.782;0.824;4;-7.846;0;0.0429;0.108;0.0108;0.261;0.897;114.979;307600;4
+4DFLSii14H0sNVVbBf0pDv;spotify:track:4DFLSii14H0sNVVbBf0pDv;nan;Nancy Spain;0.43;0.0283;7;-26.437;1;0.0422;0.862;0.0119;0.7;0.5;124.103;213400;4
+4Pnzw1nLOpDNV6MKI5ueIR;spotify:track:4Pnzw1nLOpDNV6MKI5ueIR;nan;Nancy (With the Laughing Face) - 78rpm Version;0.295;0.0826;1;-19.569;1;0.0367;0.984;0.000358;0.156;0.169;128.6;199000;3
+4seDB1XdYVfysmew6rBCn6;spotify:track:4seDB1XdYVfysmew6rBCn6;nan;Divertimento in D Major, K.251 "Nannerl-Septett": 6. Marcia alla francese;0.506;0.0809;2;-16.4;1;0.0588;0.986;0.0837;0.283;0.608;131.608;123333;4
+1SAuTWmyqC00Ql8kxt3n6Y;spotify:track:1SAuTWmyqC00Ql8kxt3n6Y;nan;Nan;0.621;0.0908;11;-20.869;1;0.926;0.947;0;0.684;0.257;171.401;71933;5
+7e56jZxT0eMDlexgdbOPQC;spotify:track:7e56jZxT0eMDlexgdbOPQC;nan;Nana Crib (feat. G Herbo & Mozzy);0.617;0.471;1;-9.354;1;0.394;0.195;0;0.0974;0.486;108.016;245512;5
+6zNXt5rP6ZebizUk8D17XA;spotify:track:6zNXt5rP6ZebizUk8D17XA;nan;Nan;0.495;0.57;0;-10.146;0;0.0287;0.0131;6.58e-05;0.0851;0.352;92.075;91391;3
+5RIYuJdysFUaVPgnuQd2kK;spotify:track:5RIYuJdysFUaVPgnuQd2kK;nan;Nana;0.742;0.36;1;-11.285;0;0.145;0.582;0;0.0772;0.347;126.078;132928;4
+3dXFwE9yIXuotnjN7wsP2N;spotify:track:3dXFwE9yIXuotnjN7wsP2N;Jake Shimabukuro;A Place In The Sun;0.794;0.233;10;-12.023;1;0.0659;0.894;0;0.11;0.448;120.753;256467;4
+26bSYa16phJmcgVm3IhXfK;spotify:track:26bSYa16phJmcgVm3IhXfK;Jake Shimabukuro;Why Not;0.735;0.685;7;-8.672;1;0.0449;0.351;0.026;0.0328;0.754;91.014;219453;4
+2Im6Jdx18HFgxDz8zegDgB;spotify:track:2Im6Jdx18HFgxDz8zegDgB;Jake Shimabukuro;イン・マイ・ライフ;0.528;0.109;0;-18.497;1;0.057;0.94;0.896;0.124;0.118;95.606;210973;4
+4nC5Ap034pzhNT7vfqGRpE;spotify:track:4nC5Ap034pzhNT7vfqGRpE;Jake Shimabukuro;Happy Xmas (War is Over);0.307;0.136;5;-19.848;1;0.0372;0.984;0.868;0.105;0.197;146.451;285627;3
+7zZwioPblgmN6N9sn5pJ4P;spotify:track:7zZwioPblgmN6N9sn5pJ4P;Jake Shimabukuro;オーバー・ザ・レインボー;0.49;0.28;5;-14.612;1;0.054;0.982;0.567;0.0877;0.0815;108.251;253533;4
+01cbb52SrkVOB8VuFaPoGP;spotify:track:01cbb52SrkVOB8VuFaPoGP;Jake Shimabukuro;Breakdown;0.578;0.515;0;-11.224;1;0.0428;0.661;0.000333;0.85;0.476;139.812;253933;4
+1fI9vslIQpY8PYSbO5tlL9;spotify:track:1fI9vslIQpY8PYSbO5tlL9;Jake Shimabukuro;ホワイル・マイ・ギター・ジェントリー・ウィープス - Solo;0.514;0.262;0;-14.987;1;0.0519;0.985;0.848;0.124;0.242;130.751;246320;4
+6csMpm5vxcxiSNXh0SzVc3;spotify:track:6csMpm5vxcxiSNXh0SzVc3;Jake Shimabukuro;One Special Lady;0.611;0.767;5;-7.726;1;0.0286;0.482;0.431;0.281;0.704;129.949;257560;4
+62QrlCA51p6kyHgEccxvqt;spotify:track:62QrlCA51p6kyHgEccxvqt;Jake Shimabukuro;Honu's Dream;0.632;0.17;11;-16.499;0;0.0414;0.968;0.184;0.118;0.228;98.054;210667;3
+6mcgghbdRoPmqUSdxf9HU5;spotify:track:6mcgghbdRoPmqUSdxf9HU5;Jake Shimabukuro;I'll Be There;0.526;0.149;5;-12.133;1;0.111;0.973;0.88;0.0805;0.187;99.245;278813;4
+1uizY6qe73rHo1gduRqvy8;spotify:track:1uizY6qe73rHo1gduRqvy8;Jake Shimabukuro;Two High;0.537;0.354;11;-10.375;0;0.0462;0.846;0.000626;0.16;0.638;109.301;219827;4
+3QjO59K7XYaPLF8PBTuzQU;spotify:track:3QjO59K7XYaPLF8PBTuzQU;Jake Shimabukuro;All You Need Is Love;0.766;0.233;7;-11.641;1;0.0561;0.922;0;0.288;0.411;107.918;149307;4
+5DcNgC1W0P0uPAEKBjQs4s;spotify:track:5DcNgC1W0P0uPAEKBjQs4s;Jake Shimabukuro;While My Guitar Gently Weeps;0.508;0.638;7;-9.374;0;0.0431;0.534;0.879;0.69;0.312;124.454;606080;4
+4pFN4uSRuvNsOvqRoZeRBK;spotify:track:4pFN4uSRuvNsOvqRoZeRBK;Jake Shimabukuro;Honu's Dream;0.536;0.0906;0;-16.455;1;0.0443;0.956;0.751;0.128;0.188;81.293;163693;3
+3Z2LqgIaQKK0VgHejLktIj;spotify:track:3Z2LqgIaQKK0VgHejLktIj;Jake Shimabukuro;Smokin' Strings;0.383;0.723;7;-10.006;1;0.0401;0.609;0.863;0.054;0.318;106.803;429347;4
+3cnbTFUIoSza4QqOij33h2;spotify:track:3cnbTFUIoSza4QqOij33h2;Jake Shimabukuro;Happy Xmas (War is Over);0.307;0.136;5;-19.848;1;0.0372;0.984;0.868;0.105;0.197;146.451;285627;3
+5SyveKXD8iK0d7dTiL6kwD;spotify:track:5SyveKXD8iK0d7dTiL6kwD;Jake Shimabukuro;Going to California;0.714;0.517;0;-9.6;1;0.0291;0.658;0.404;0.0753;0.682;136.985;369699;4
+7c1KSUwzJe8GgPWYQDWXxp;spotify:track:7c1KSUwzJe8GgPWYQDWXxp;Jake Shimabukuro;Shape of You;0.801;0.607;0;-10.777;1;0.0445;0.41;0.848;0.0592;0.727;95.999;189453;4
+01kdnx8hyrys1jHLygSV82;spotify:track:01kdnx8hyrys1jHLygSV82;Jake Shimabukuro;Mele Kalikimaka My 'Ohana;0.622;0.533;0;-6.035;1;0.0304;0.433;0.00123;0.17;0.636;100.012;232370;4
+2tmcTrRzgnqBqr6m65q62y;spotify:track:2tmcTrRzgnqBqr6m65q62y;Jake Shimabukuro;Hallelujah;0.327;0.0804;7;-17.157;1;0.0327;0.884;0.923;0.106;0.0914;172.276;250400;3
+232vMbFWbfON2ZS0I2S4RI;spotify:track:232vMbFWbfON2ZS0I2S4RI;Jake Shimabukuro;タイム・アフター・タイム;0.763;0.435;7;-10.086;1;0.0431;0.803;0.876;0.0944;0.596;126.179;188240;4
+4rVAaJQ5tiRYyvPjZ3XaA8;spotify:track:4rVAaJQ5tiRYyvPjZ3XaA8;Jake Shimabukuro;On The Road To Freedom;0.64;0.554;0;-9.402;1;0.0296;0.745;0.0983;0.12;0.312;126.955;781920;4
+4wVNMIDZ4nK4Hy2FcSTvZL;spotify:track:4wVNMIDZ4nK4Hy2FcSTvZL;Jake Shimabukuro;フラガール;0.713;0.624;2;-9.365;1;0.0337;0.561;0.926;0.0845;0.452;116.936;223573;4
+3TbcMUN2NER7uKE9GJrFOE;spotify:track:3TbcMUN2NER7uKE9GJrFOE;Jake Shimabukuro;Sonny Days Ahead;0.598;0.439;2;-11.702;1;0.0318;0.875;0.875;0.082;0.176;149.911;488053;4
+1AsfyvfHnDdFbIA18Y1zIO;spotify:track:1AsfyvfHnDdFbIA18Y1zIO;Jake Shimabukuro;エンジェル;0.658;0.179;2;-14.73;1;0.0362;0.929;0.813;0.108;0.195;139.811;244013;4
+17UpWyjA5hwXva9gjo7Mhk;spotify:track:17UpWyjA5hwXva9gjo7Mhk;Jake Shimabukuro;Hotel California;0.541;0.127;9;-20.216;0;0.0576;0.983;0.847;0.0873;0.25;135.574;485497;4
+3Rad7LQUBluc38oyL84xql;spotify:track:3Rad7LQUBluc38oyL84xql;Jake Shimabukuro;Winter Wonderland (feat. Jake Shimabukuro);0.721;0.189;9;-18.701;0;0.19;0.913;0.413;0.668;0.111;134.73;113878;4
+6hrALeG6CsHiLfr7Kqhiqg;spotify:track:6hrALeG6CsHiLfr7Kqhiqg;Jake Shimabukuro;Fantasy Weaver;0.268;0.292;2;-13.021;1;0.0326;0.943;0.955;0.132;0.106;115.63;308387;3
+4fR6M728uIeP8jfySUljp6;spotify:track:4fR6M728uIeP8jfySUljp6;Jake Shimabukuro;Landslide;0.47;0.261;11;-14.812;1;0.0286;0.88;0.00977;0.0755;0.285;149.945;236347;4
+3gGxkaGQL44CQbqRqUe1cH;spotify:track:3gGxkaGQL44CQbqRqUe1cH;Jake Shimabukuro;アイス・クリーム;0.631;0.145;0;-15.549;1;0.0684;0.987;0.852;0.0847;0.13;108.72;246187;3
+2i1KtcXyO29XedKX8JTC5w;spotify:track:2i1KtcXyO29XedKX8JTC5w;Jake Shimabukuro;Find Yourself;0.701;0.471;9;-10.653;1;0.0688;0.767;0.000461;0.0938;0.758;141.013;249293;4
+46opJOqdS6tVgiWSDN5cSz;spotify:track:46opJOqdS6tVgiWSDN5cSz;Jake Shimabukuro;Stardust;0.664;0.162;7;-15.503;1;0.0561;0.981;0.000821;0.188;0.175;118.933;272400;4
+7uxuFPLrwSaHdtAhXD0AKT;spotify:track:7uxuFPLrwSaHdtAhXD0AKT;Jake Shimabukuro;Something;0.756;0.163;7;-13.444;1;0.0364;0.909;0.000179;0.11;0.149;129.987;227853;4
+0RQQAhJxQShSI04jB75EmL;spotify:track:0RQQAhJxQShSI04jB75EmL;Jake Shimabukuro;Eleanor Rigby;0.639;0.721;0;-10.546;1;0.0281;0.0834;0.917;0.1;0.746;146.04;248720;4
+1KwpXcp15y10LVmZOlyLG5;spotify:track:1KwpXcp15y10LVmZOlyLG5;Jake Shimabukuro;The Greatest Day;0.496;0.641;7;-8.784;1;0.0372;0.013;0.864;0.1;0.136;148.144;223907;4
+0hJ6xuMZhJClt0hRz0uEiQ;spotify:track:0hJ6xuMZhJClt0hRz0uEiQ;Jake Shimabukuro;Bohemian Rhapsody;0.523;0.295;7;-12.091;1;0.0599;0.664;0.868;0.776;0.106;139.946;332640;4
+2ILBVN8gvEXo7VqluceYr0;spotify:track:2ILBVN8gvEXo7VqluceYr0;Jake Shimabukuro;Wish You Were Here;0.479;0.29;7;-12.951;1;0.0282;0.757;0.914;0.107;0.344;141.0;299053;4
+228H3zaRrzAo2Pn8M8oKIj;spotify:track:228H3zaRrzAo2Pn8M8oKIj;Jake Shimabukuro;Mele Kalikimaka;0.556;0.709;1;-5.829;0;0.0547;0.755;1.9e-05;0.153;0.591;175.907;160640;4
+5VywuMtwbWgXHw6RXDyDWj;spotify:track:5VywuMtwbWgXHw6RXDyDWj;Jake Shimabukuro;Happy Day;0.451;0.554;4;-9.793;1;0.0367;0.148;0.677;0.1;0.24;119.654;239907;4
+5GcDBCbVO8noUV5XfiYeVi;spotify:track:5GcDBCbVO8noUV5XfiYeVi;Jake Shimabukuro;Lover in Disguise;0.628;0.459;3;-6.033;1;0.027;0.662;0.0002;0.13;0.277;127.95;189994;4
+3L0ihs4R9sSkXKb82MkiCN;spotify:track:3L0ihs4R9sSkXKb82MkiCN;Jake Shimabukuro;Rachel's Lullaby;0.389;0.271;0;-14.136;1;0.0351;0.861;0.572;0.0908;0.328;87.823;193507;4
+00eKWugQY2okemiOchePV0;spotify:track:00eKWugQY2okemiOchePV0;Jake Shimabukuro;Ichigo Ichie;0.524;0.226;7;-19.047;1;0.076;0.765;0.873;0.666;0.157;112.644;319480;4
+5ADjtURaonIrX9eetJEYVr;spotify:track:5ADjtURaonIrX9eetJEYVr;Jake Shimabukuro;While My Guitar Gently Weeps - '18 Live Version;0.358;0.448;7;-15.174;0;0.0408;0.81;0.896;0.668;0.334;136.171;745520;4
+3d7qp9ZvgBMrPvWvNpfDNE;spotify:track:3d7qp9ZvgBMrPvWvNpfDNE;Jake Shimabukuro;Dragon - '18 Live Version;0.285;0.569;4;-12.938;0;0.0347;0.824;0.919;0.645;0.396;83.17;366613;4
+0emHVNucvPkBSiFLyEaCHk;spotify:track:0emHVNucvPkBSiFLyEaCHk;Jake Shimabukuro;ゴーイング・トゥ・カリフォルニア;0.468;0.467;0;-10.027;1;0.0529;0.955;0.891;0.0767;0.322;88.356;247960;4
+7vdPT3iPrtUYoRdj4wY69i;spotify:track:7vdPT3iPrtUYoRdj4wY69i;Jake Shimabukuro;Dragon;0.37;0.587;4;-8.503;0;0.0499;0.586;0.799;0.725;0.154;155.422;474227;4
+5saBlzA8VDpLu92OlYEMNp;spotify:track:5saBlzA8VDpLu92OlYEMNp;Jake Shimabukuro;A Day In The Life;0.432;0.287;7;-9.628;0;0.034;0.952;0.00791;0.0583;0.253;141.858;267160;4
+5LdWfPHfRxaAnayhqCnVFs;spotify:track:5LdWfPHfRxaAnayhqCnVFs;Jake Shimabukuro;Come Monday;0.761;0.292;9;-11.717;1;0.0344;0.94;2.14e-06;0.106;0.478;107.025;218507;4
+0XsUEEXUHO0nR8DrrWSDxk;spotify:track:0XsUEEXUHO0nR8DrrWSDxk;Jake Shimabukuro;Go Now;0.604;0.134;2;-15.868;0;0.0479;0.957;0.00186;0.104;0.269;86.263;241120;3
+0LxwZxXPNqjYJ5ltYKr9YC;spotify:track:0LxwZxXPNqjYJ5ltYKr9YC;Jake Shimabukuro;Hotel California;0.549;0.151;9;-18.725;0;0.0561;0.984;0.848;0.0891;0.261;135.49;485587;4
+2MvvoeRt8NcOXWESkxWn3g;spotify:track:2MvvoeRt8NcOXWESkxWn3g;Lorde;Ribs;0.511;0.472;4;-9.277;1;0.091;0.534;0.614;0.11;0.0399;127.978;258969;4
+6gYICi1iFVYz6lrbHbkBeh;spotify:track:6gYICi1iFVYz6lrbHbkBeh;Lorde;Team;0.691;0.578;6;-7.436;1;0.106;0.167;0;0.305;0.412;99.984;193059;4
+6ie2Bw3xLj2JcGowOlcMhb;spotify:track:6ie2Bw3xLj2JcGowOlcMhb;Lorde;Green Light;0.594;0.721;2;-7.812;1;0.0957;0.0209;8.55e-06;0.0879;0.253;128.942;234653;4
+3G6hD9B2ZHOsgf4WfNu7X1;spotify:track:3G6hD9B2ZHOsgf4WfNu7X1;Lorde;Team;0.69;0.578;6;-7.436;1;0.0929;0.167;0;0.305;0.416;99.961;193059;4
+2dLLR6qlu5UJ5gk0dKz0h3;spotify:track:2dLLR6qlu5UJ5gk0dKz0h3;Lorde;Royals;0.674;0.428;7;-9.504;1;0.122;0.121;0;0.132;0.337;84.878;190185;4
+1vbnYODenOFCFWxYNRYw1N;spotify:track:1vbnYODenOFCFWxYNRYw1N;Lorde;Bravado;0.603;0.529;7;-10.323;1;0.0482;0.572;0.0321;0.167;0.0394;87.967;221409;4
+6Kkt27YmFyIFrcX3QXFi2o;spotify:track:6Kkt27YmFyIFrcX3QXFi2o;Lorde;Liability;0.587;0.229;10;-11.254;0;0.128;0.92;0;0.1;0.379;75.67;171728;4
+4aqagKgaBSCM5yZ8gbgxxw;spotify:track:4aqagKgaBSCM5yZ8gbgxxw;Lorde;Magnets;0.704;0.628;10;-7.882;0;0.162;0.0626;1.49e-06;0.103;0.654;92.005;199246;4
+7s2kWabRM60W9I61HpKg8C;spotify:track:7s2kWabRM60W9I61HpKg8C;Lorde;Solar Power;0.73;0.483;4;-8.565;1;0.0879;0.237;7.99e-05;0.31;0.883;87.996;192621;4
+7rb4dcBfW0m1LQQcDCh4Hv;spotify:track:7rb4dcBfW0m1LQQcDCh4Hv;Lorde;Mood Ring;0.683;0.478;5;-10.435;1;0.0744;0.422;1.17e-05;0.24;0.373;95.011;225863;4
+74fpNVAJrKGQuqHETi4WSt;spotify:track:74fpNVAJrKGQuqHETi4WSt;Lorde;Tennis Court;0.764;0.567;0;-8.585;1;0.0609;0.0126;9.51e-05;0.257;0.428;89.988;198907;4
+6K8VQ84MqhsoakN5MjrnVR;spotify:track:6K8VQ84MqhsoakN5MjrnVR;Lorde;Supercut;0.562;0.437;0;-10.229;1;0.052;0.219;2.18e-05;0.0806;0.15;124.852;277506;4
+4NM26DCLznnIF88tixkeMP;spotify:track:4NM26DCLznnIF88tixkeMP;Lorde;Everybody Wants To Rule The World - From “The Hunger Games: Catching Fire” Soundtrack;0.575;0.571;11;-9.291;0;0.101;0.597;0.000159;0.108;0.0614;110.993;155587;4
+7ARveOiD31w2Nq0n5FsSf8;spotify:track:7ARveOiD31w2Nq0n5FsSf8;Lorde;Perfect Places;0.622;0.58;1;-5.273;0;0.0504;0.00241;2.95e-05;0.112;0.512;104.41;221874;4
+2Y1OQsdYcFNVetFejnGyAI;spotify:track:2Y1OQsdYcFNVetFejnGyAI;Lorde;Team;0.691;0.578;6;-7.436;1;0.106;0.167;0;0.305;0.412;99.984;193059;4
+38Zs2b75JPNB2tS7O7JQnS;spotify:track:38Zs2b75JPNB2tS7O7JQnS;Lorde;Stoned at the Nail Salon;0.473;0.128;2;-12.303;1;0.0365;0.948;5.36e-05;0.101;0.0897;93.95;266432;3
+51QEyJI5M7uyd8DOh9tqQY;spotify:track:51QEyJI5M7uyd8DOh9tqQY;Lorde;Buzzcut Season;0.733;0.62;1;-10.525;1;0.075;0.606;0.305;0.117;0.247;111.039;246755;4
+193Dm5SqYy3hTSbuzxbwKc;spotify:track:193Dm5SqYy3hTSbuzxbwKc;Lorde;Writer In The Dark;0.325;0.271;7;-8.069;1;0.0418;0.73;0;0.301;0.279;71.855;216611;4
+3S1tTwSKIZgf4QGltFyCxM;spotify:track:3S1tTwSKIZgf4QGltFyCxM;Lorde;Everybody Wants To Rule The World - From “The Hunger Games: Catching Fire” Soundtrack;0.575;0.571;11;-9.291;0;0.101;0.597;0.000159;0.108;0.0614;110.993;155587;4
+67QHPgQ3d2v0ngkAD5AhwA;spotify:track:67QHPgQ3d2v0ngkAD5AhwA;Lorde;Royals;0.665;0.476;7;-8.477;1;0.137;0.113;0;0.33;0.385;84.881;189853;4
+5TRZnGsX49uCZkXxIbD7Ru;spotify:track:5TRZnGsX49uCZkXxIbD7Ru;Lorde;Still Sane;0.357;0.361;0;-12.14;1;0.0452;0.665;0.00592;0.0682;0.0958;131.601;188133;3
+4XmeTCqpvElqIHTHvGIOAt;spotify:track:4XmeTCqpvElqIHTHvGIOAt;Lorde;Mood Ring;0.683;0.478;5;-10.435;1;0.0744;0.422;1.17e-05;0.24;0.373;95.011;225863;4
+2sbtixigDCbjXBTMRSEECS;spotify:track:2sbtixigDCbjXBTMRSEECS;Lorde;Green Light - Chromeo Remix;0.794;0.88;2;-4.734;1;0.037;0.0414;1.88e-06;0.0958;0.866;121.009;247934;4
+1xQDsRopcU46wwjhVqDBCT;spotify:track:1xQDsRopcU46wwjhVqDBCT;Lorde;Buzzcut Season;0.733;0.62;1;-10.525;1;0.0752;0.612;0.291;0.117;0.251;111.039;246755;4
+4vJA36DpRBfsJpi7F1lUbu;spotify:track:4vJA36DpRBfsJpi7F1lUbu;Lorde;Liability;0.53;0.23;10;-11.254;0;0.134;0.92;0;0.1;0.377;75.759;171728;4
+7fHfeIqYfcDVRvNsL5S294;spotify:track:7fHfeIqYfcDVRvNsL5S294;Lorde;Ribs;0.525;0.472;4;-9.277;1;0.0739;0.534;0.614;0.11;0.0424;127.945;258969;4
+7nGQMMUIB5zV3HEJIcshX5;spotify:track:7nGQMMUIB5zV3HEJIcshX5;Lorde;Solar Power;0.73;0.483;4;-8.565;1;0.0879;0.237;7.99e-05;0.31;0.883;87.996;192621;4
+4TBK6E1ERSKdIvD1jF4lt5;spotify:track:4TBK6E1ERSKdIvD1jF4lt5;Lorde;Louder (feat. Sian Evans) - Radio Edit;0.31;0.926;6;-1.131;0;0.0464;0.0184;0.00792;0.483;0.493;139.85;206776;4
+27fk9xZ9lQjzb6F9ZKpmnC;spotify:track:27fk9xZ9lQjzb6F9ZKpmnC;Lorde;Louder Than Words (from "tick, tick... BOOM!" Soundtrack from the Netflix Film);0.333;0.581;8;-5.497;1;0.0324;0.0994;0;0.772;0.42;95.202;293926;4
+0tPfJTopkdu4PCQkJT46rp;spotify:track:0tPfJTopkdu4PCQkJT46rp;Lorde;Royals;0.665;0.476;7;-8.477;1;0.137;0.113;0;0.33;0.385;84.881;189853;4
+7zxDWJtcsVvXsbMBxxbSba;spotify:track:7zxDWJtcsVvXsbMBxxbSba;Lorde;Loaded - Andy Weatherall Mix;0.621;0.544;8;-14.754;1;0.0514;9.23e-05;0.579;0.889;0.885;91.147;421907;4
+08XUrgnpKKBHBjPjMGRgfN;spotify:track:08XUrgnpKKBHBjPjMGRgfN;Lorde;Perfect Places;0.622;0.58;1;-5.273;0;0.0505;0.00241;2.95e-05;0.112;0.512;104.424;221874;4
+1avj5CGW3CbeDESonNqtXo;spotify:track:1avj5CGW3CbeDESonNqtXo;Lorde;Lorde 2Pac Beck Mashup;0.614;0.646;7;-5.433;1;0.0478;0.0307;6.62e-05;0.363;0.786;170.0;216000;4
+02MgUlYPtqlHwrsDjhK9a1;spotify:track:02MgUlYPtqlHwrsDjhK9a1;Lorde;Stoned at the Nail Salon;0.473;0.128;2;-12.303;1;0.0365;0.948;5.36e-05;0.101;0.0897;93.95;266432;3
+2IngGDSWEC6Lnx9DJBxidI;spotify:track:2IngGDSWEC6Lnx9DJBxidI;Lorde;Royals;0.665;0.476;7;-8.477;1;0.137;0.113;0;0.33;0.385;84.881;189853;4
+25wTebB8ECapFHWRPywpYR;spotify:track:25wTebB8ECapFHWRPywpYR;Lorde;Don't Take The Money (feat. Lorde) - MTV Unplugged;0.512;0.45;0;-8.047;1;0.127;0.787;0;0.962;0.376;118.291;207253;3
+13FcGssBEQCZFZW5h77WEa;spotify:track:13FcGssBEQCZFZW5h77WEa;Lorde;Fallen Fruit;0.491;0.309;6;-11.169;0;0.0306;0.93;0.0187;0.165;0.11;124.91;238033;4
+1Iavnp5EbZSDz1ptEYhwm9;spotify:track:1Iavnp5EbZSDz1ptEYhwm9;Lorde;Lorde 2pac Beck Mashup;0.565;0.677;0;-5.608;1;0.0635;0.142;1.53e-05;0.318;0.792;167.675;256500;4
+6llKhGszlFHtOx3SDACc4Z;spotify:track:6llKhGszlFHtOx3SDACc4Z;Lorde;Unwound;0.344;0.574;10;-6.766;0;0.0439;0.354;0.946;0.0875;0.0886;111.61;383922;4
+6Wgakwq48vNRgV4I4bViYT;spotify:track:6Wgakwq48vNRgV4I4bViYT;Lorde;Green Light;0.594;0.721;2;-7.811;1;0.0958;0.0212;8.54e-06;0.0879;0.253;128.938;234653;4
+3Ag7ZgYLV4NVzASm6rqKBp;spotify:track:3Ag7ZgYLV4NVzASm6rqKBp;Lorde;VASTO LORDE;0.546;0.633;0;-10.642;0;0.125;0.000613;0.857;0.573;0.0686;85.026;124239;4
+5RUP6X0fNWNDpvX0YQgwaJ;spotify:track:5RUP6X0fNWNDpvX0YQgwaJ;Lorde;Ribs;0.525;0.472;4;-9.277;1;0.0739;0.534;0.614;0.11;0.0424;127.945;258969;4
+2mKply9i2G0MVrkNSY0m5x;spotify:track:2mKply9i2G0MVrkNSY0m5x;Lorde;Easy (Switch Screens) [feat. Lorde];0.73;0.702;7;-6.47;1;0.0948;0.138;0.0332;0.0766;0.802;145.999;262521;4
